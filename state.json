@@ -1,5 +1,28 @@
 {
   "iocs": {
+    "atikurbd.com": {
+      "asn": "AS153528",
+      "confidence": "medium",
+      "first_run": "2026-09-30T22:11:55Z",
+      "first_seen": "2026-09-30T19:33:35.267Z",
+      "hosts": [
+        "atikurbd.com"
+      ],
+      "ip": "161.248.201.153",
+      "key": "atikurbd.com",
+      "last_seen": "2026-09-30T19:33:35.267Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://atikurbd.com/pdfreader/update/"
+      ],
+      "uuids": [
+        "01a0f3ce-a829-70f8-b61c-ef2e6acadd77"
+      ]
+    },
     "audtfnaurth.com.es": {
       "asn": "AS51852",
       "confidence": "medium",
@@ -33,7 +56,7 @@
       ],
       "ip": "94.72.101.64",
       "key": "cvouab.com",
-      "last_seen": "2026-09-30T11:18:34.231Z",
+      "last_seen": "2026-09-30T19:05:10.693Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -46,7 +69,8 @@
       "uuids": [
         "01a0f209-90c5-76b9-8f53-3bc46fa99bf7",
         "01a0f094-0f6b-760d-8538-3feec1dc4939",
-        "01a0efd7-8e46-733c-829b-7e118e3c0935"
+        "01a0efd7-8e46-733c-829b-7e118e3c0935",
+        "01a0f3b4-bed5-72d2-90e6-14cb408c0b31"
       ]
     },
     "dndair.com": {
@@ -59,7 +83,7 @@
       ],
       "ip": "50.87.143.172",
       "key": "dndair.com",
-      "last_seen": "2026-09-30T11:18:26.704Z",
+      "last_seen": "2026-09-30T17:57:49.811Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -69,7 +93,8 @@
         "https://dndair.com/iv/doc.html"
       ],
       "uuids": [
-        "01a0f209-5566-73d4-a65f-6d0579a4a1ba"
+        "01a0f209-5566-73d4-a65f-6d0579a4a1ba",
+        "01a0f376-f519-7119-9624-2429be97ea39"
       ]
     },
     "gudwa.com": {
@@ -128,7 +153,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "luxora.qpon",
-      "last_seen": "2026-09-30T12:28:13.717Z",
+      "last_seen": "2026-09-30T19:06:55.949Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -143,7 +168,8 @@
         "01a0f209-6d06-7363-ac9e-f2be361ff9fa",
         "01a0f094-0fb7-74f8-990b-969142449918",
         "01a0efd7-8810-74cf-bae3-6e13c5c75682",
-        "01a0ee56-b856-762d-a600-0a51e525dbfd"
+        "01a0ee56-b856-762d-a600-0a51e525dbfd",
+        "01a0f3b5-ef71-75ca-8635-5a0fa71ba98d"
       ]
     },
     "nilehost.cloud": {
@@ -156,7 +182,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "nilehost.cloud",
-      "last_seen": "2026-09-30T12:28:13.593Z",
+      "last_seen": "2026-09-30T21:25:52.875Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -164,10 +190,12 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://nilehost.cloud/Adobe_Installer.html"
+        "https://nilehost.cloud/Adobe_Installer.html",
+        "https://nilehost.cloud/Adobe_Inz.html"
       ],
       "uuids": [
-        "01a0f249-4982-718f-b88a-6151297c649f"
+        "01a0f249-4982-718f-b88a-6151297c649f",
+        "01a0f435-8cc9-731f-be86-893ee3076710"
       ]
     },
     "ptai.in": {
@@ -180,7 +208,7 @@
       ],
       "ip": "192.185.146.129",
       "key": "ptai.in",
-      "last_seen": "2026-09-30T11:02:08.822Z",
+      "last_seen": "2026-09-30T17:57:18.074Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -190,7 +218,8 @@
         "https://ptai.in/dsb/page.html"
       ],
       "uuids": [
-        "01a0f1fa-8629-76da-bc65-635754a6014b"
+        "01a0f1fa-8629-76da-bc65-635754a6014b",
+        "01a0f376-983b-764c-bde8-4fc30b39c7c5"
       ]
     },
     "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev": {
@@ -310,8 +339,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-09-30T15:24:38Z",
-    "last_success": "2026-09-30T15:24:38Z",
-    "window_hours": 2
+    "last_run": "2026-09-30T22:11:55Z",
+    "last_success": "2026-09-30T22:11:55Z",
+    "window_hours": 8
   }
 }
