@@ -1,0 +1,312 @@
+{
+  "iocs": {
+    "audtfnaurth.com.es": {
+      "asn": "AS51852",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T05:02:29.974Z",
+      "hosts": [
+        "audtfnaurth.com.es"
+      ],
+      "ip": "179.43.151.136",
+      "key": "audtfnaurth.com.es",
+      "last_seen": "2026-09-30T05:02:29.974Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://audtfnaurth.com.es/8nde11/adobe-reader"
+      ],
+      "uuids": [
+        "01a0f0b1-1fa5-71ea-8718-dd8158a0f0d5"
+      ]
+    },
+    "cvouab.com": {
+      "asn": "AS51167",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T01:04:42.269Z",
+      "hosts": [
+        "gm.cvouab.com"
+      ],
+      "ip": "94.72.101.64",
+      "key": "cvouab.com",
+      "last_seen": "2026-09-30T11:18:34.231Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://gm.cvouab.com/xyz/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a0f209-90c5-76b9-8f53-3bc46fa99bf7",
+        "01a0f094-0f6b-760d-8538-3feec1dc4939",
+        "01a0efd7-8e46-733c-829b-7e118e3c0935"
+      ]
+    },
+    "dndair.com": {
+      "asn": "AS46606",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T11:18:26.704Z",
+      "hosts": [
+        "dndair.com"
+      ],
+      "ip": "50.87.143.172",
+      "key": "dndair.com",
+      "last_seen": "2026-09-30T11:18:26.704Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://dndair.com/iv/doc.html"
+      ],
+      "uuids": [
+        "01a0f209-5566-73d4-a65f-6d0579a4a1ba"
+      ]
+    },
+    "gudwa.com": {
+      "asn": "AS36454",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T06:42:19.611Z",
+      "hosts": [
+        "gudwa.com"
+      ],
+      "ip": "65.181.116.251",
+      "key": "gudwa.com",
+      "last_seen": "2026-09-30T06:42:19.611Z",
+      "queries": [
+        "Q1b_esign"
+      ],
+      "status": "new",
+      "title": "403 Forbidden",
+      "urls": [
+        "https://gudwa.com/DocuSign/e-sign.php"
+      ],
+      "uuids": [
+        "01a0f10c-a381-735d-a6dd-2a53d20056fe"
+      ]
+    },
+    "laboratoires-azbane.com": {
+      "asn": "AS31898",
+      "confidence": "low",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T10:04:41.011Z",
+      "hosts": [
+        "laboratoires-azbane.com"
+      ],
+      "ip": "192.185.143.249",
+      "key": "laboratoires-azbane.com",
+      "last_seen": "2026-09-30T10:04:41.011Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "status": "new",
+      "title": "DocuSign · Secure Document Access",
+      "urls": [
+        "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/"
+      ],
+      "uuids": [
+        "01a0f1c5-b9a8-776d-8209-066b95fef751"
+      ]
+    },
+    "luxora.qpon": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-29T18:04:41.071Z",
+      "hosts": [
+        "luxora.qpon"
+      ],
+      "ip": "50.6.202.214",
+      "key": "luxora.qpon",
+      "last_seen": "2026-09-30T12:28:13.717Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://luxora.qpon/AdobeInstaller.html"
+      ],
+      "uuids": [
+        "01a0f249-4d36-77ee-9756-d470edd1854d",
+        "01a0f209-6d06-7363-ac9e-f2be361ff9fa",
+        "01a0f094-0fb7-74f8-990b-969142449918",
+        "01a0efd7-8810-74cf-bae3-6e13c5c75682",
+        "01a0ee56-b856-762d-a600-0a51e525dbfd"
+      ]
+    },
+    "nilehost.cloud": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T12:28:13.593Z",
+      "hosts": [
+        "nilehost.cloud"
+      ],
+      "ip": "50.6.202.214",
+      "key": "nilehost.cloud",
+      "last_seen": "2026-09-30T12:28:13.593Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://nilehost.cloud/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a0f249-4982-718f-b88a-6151297c649f"
+      ]
+    },
+    "ptai.in": {
+      "asn": "AS31898",
+      "confidence": "low",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T11:02:08.822Z",
+      "hosts": [
+        "ptai.in"
+      ],
+      "ip": "192.185.146.129",
+      "key": "ptai.in",
+      "last_seen": "2026-09-30T11:02:08.822Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://ptai.in/dsb/page.html"
+      ],
+      "uuids": [
+        "01a0f1fa-8629-76da-bc65-635754a6014b"
+      ]
+    },
+    "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T14:37:54.885Z",
+      "hosts": [
+        "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev"
+      ],
+      "ip": "104.18.50.34",
+      "key": "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev",
+      "last_seen": "2026-09-30T14:37:54.885Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev/Adobe_installer.html"
+      ],
+      "uuids": [
+        "01a0f2c0-0d6a-74c5-910e-05eb1b905bf1"
+      ]
+    },
+    "strutsupportsystems.com": {
+      "asn": "AS8560",
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T13:47:10.532Z",
+      "hosts": [
+        "strutsupportsystems.com"
+      ],
+      "ip": "217.160.0.108",
+      "key": "strutsupportsystems.com",
+      "last_seen": "2026-09-30T13:47:10.532Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://strutsupportsystems.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a0f291-65a7-769a-aa9c-e9b6587a450c"
+      ]
+    },
+    "thamizhnadu.com": {
+      "asn": "AS46606",
+      "confidence": "low",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T01:16:55.580Z",
+      "hosts": [
+        "thamizhnadu.com"
+      ],
+      "ip": "162.215.254.72",
+      "key": "thamizhnadu.com",
+      "last_seen": "2026-09-30T01:16:55.580Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://thamizhnadu.com/ftx/vjlewm-1790731008-e835422f451c/"
+      ],
+      "uuids": [
+        "01a0efe2-b6ea-76ae-b7db-0de99cd80404"
+      ]
+    },
+    "whisperingjessie.com": {
+      "asn": "AS31898",
+      "confidence": "low",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T09:40:40.120Z",
+      "hosts": [
+        "whisperingjessie.com"
+      ],
+      "ip": "162.241.218.217",
+      "key": "whisperingjessie.com",
+      "last_seen": "2026-09-30T09:40:40.120Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://whisperingjessie.com/ftx/om8ed4-1790761233-641f025b68d2/"
+      ],
+      "uuids": [
+        "01a0f1af-e24b-73a8-90eb-da052110e4df"
+      ]
+    },
+    "znbbmwq.com": {
+      "confidence": "medium",
+      "first_run": "2026-09-30T14:56:28Z",
+      "first_seen": "2026-09-30T13:33:41.106Z",
+      "hosts": [
+        "vr.znbbmwq.com"
+      ],
+      "key": "znbbmwq.com",
+      "last_seen": "2026-09-30T13:33:41.106Z",
+      "queries": [
+        "Q3_adobe"
+      ],
+      "status": "new",
+      "title": "vr.znbbmwq.com",
+      "urls": [
+        "https://vr.znbbmwq.com/inv/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a0f285-47de-715d-9343-06546fc27ce5"
+      ]
+    }
+  },
+  "meta": {
+    "last_run": "2026-09-30T14:56:28Z",
+    "last_success": "2026-09-30T14:56:28Z",
+    "window_hours": 24
+  }
+}
