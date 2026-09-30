@@ -9,12 +9,21 @@ State files (repository root):
               by hand (new | reviewed | blocked | false_positive); the script
               never overwrites it.
   iocs.csv    export of the state, regenerated on every run.
+  iocs.kql    KQL `let` statements (domains, regex, IPs, URLs) ready to paste
+              in front of a hunting query. Regenerated on every run.
+
+Environment variables:
+  URLSCAN_API_KEY          required
+  BACKFILL_DAYS            optional, one-off history window in days (e.g. 60)
+  INITIAL_LOOKBACK_HOURS   first-run window when there is no state (default 24)
+  KQL_MIN_CONFIDENCE       low | medium | high (default low = everything)
 """
 import csv
 import ipaddress
 import json
 import math
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -27,14 +36,17 @@ import tldextract
 API = "https://urlscan.io/api/v1/search/"
 STATE_FILE = Path("state.json")
 CSV_FILE = Path("iocs.csv")
+KQL_FILE = Path("iocs.kql")
 
 PAGE_SIZE = 100
 MAX_PAGES = 5
+BACKFILL_MAX_PAGES = 30
 OVERLAP_HOURS = 1
 MAX_LOOKBACK_HOURS = 72
 INITIAL_LOOKBACK_HOURS = int(os.getenv("INITIAL_LOOKBACK_HOURS", "24"))
+KQL_MIN_CONFIDENCE = os.getenv("KQL_MIN_CONFIDENCE", "low").strip().lower()
 PAUSE_SECONDS = 1.0
-USER_AGENT = "csuite-collector/0.1"
+USER_AGENT = "csuite-collector/0.2"
 
 # On shared hosting the subdomain identifies the tenant, so the dedup key is
 # the full hostname instead of the registrable domain. Edit freely (dyndns,
@@ -145,10 +157,10 @@ def search(session, query, search_after=None):
     raise RuntimeError("rate limit still exceeded after several retries")
 
 
-def collect_query(session, query, hours):
+def collect_query(session, query, hours, max_pages):
     full = f"({query}) AND date:>now-{hours}h"
     results, after, truncated = [], None, False
-    for page in range(MAX_PAGES):
+    for page in range(max_pages):
         data = search(session, full, after)
         batch = data.get("results", [])
         results.extend(batch)
@@ -158,7 +170,7 @@ def collect_query(session, query, hours):
         after = batch[-1].get("sort")
         if not after:
             break
-        if page == MAX_PAGES - 1:
+        if page == max_pages - 1:
             truncated = True
         time.sleep(PAUSE_SECONDS)
     return results, truncated
@@ -280,6 +292,53 @@ def write_csv(iocs):
             writer.writerow(row)
 
 
+def kql_str(value):
+    # Single-line KQL string literal. Nothing from scan data ever goes into a
+    # comment, only into escaped string literals.
+    text = str(value).replace("\r", "").replace("\n", "")
+    return '"' + text.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def kql_array(name, values):
+    if not values:
+        return f"let {name} = dynamic([]);"
+    body = ",\n    ".join(kql_str(v) for v in values)
+    return f"let {name} = dynamic([\n    {body}\n]);"
+
+
+def write_kql(iocs, run_ts):
+    """Write KQL `let` statements with the candidate IOCs (domains, IPs, URLs)."""
+    min_rank = RANK.get(KQL_MIN_CONFIDENCE, 0)
+    domains, ips, urls = set(), set(), set()
+    for rec in iocs.values():
+        if rec.get("status") == "false_positive":
+            continue
+        if RANK.get(rec.get("confidence"), 0) < min_rank:
+            continue
+        key = rec["key"]
+        (ips if is_ip(key) else domains).add(key)
+        urls.update(rec.get("urls", []))
+
+    domains, ips, urls = sorted(domains), sorted(ips), sorted(urls)
+    if domains:
+        alternation = "|".join(re.escape(d) for d in domains)
+        regex = f"(?i)(^|\\.)({alternation})$"  # matches the domain and its subdomains
+    else:
+        regex = "a^"  # never matches
+    lines = [
+        f"// CSuite candidate IOCs, generated {run_ts} by collect.py",
+        "// Heuristic candidates, NOT verified as malicious.",
+        f"// Minimum confidence: {KQL_MIN_CONFIDENCE}. Excludes status=false_positive.",
+        f"// domains: {len(domains)} | ips: {len(ips)} | urls: {len(urls)}",
+        kql_array("csuite_domains", domains),
+        f'let csuite_re = @"{regex}";',
+        kql_array("csuite_ips", ips),
+        kql_array("csuite_urls", urls),
+        "",
+    ]
+    KQL_FILE.write_text("\n".join(lines), encoding="utf-8")
+
+
 def defang(text):
     return str(text).replace(".", "[.]")
 
@@ -304,8 +363,9 @@ def write_summary(lines):
     print(text)
 
 
-def build_summary(run_ts, hours, counts, new_keys, upgraded, iocs, failed, truncated):
-    lines = [f"## CSuite collection {run_ts} ({hours}h window)", ""]
+def build_summary(run_ts, hours, backfill, counts, new_keys, upgraded, iocs, failed, truncated, max_pages):
+    mode = "BACKFILL " if backfill else ""
+    lines = [f"## CSuite {mode}collection {run_ts} ({hours}h window)", ""]
     lines.append("Heuristic candidates. None has been verified as malicious.")
     lines.append("")
     lines.append("Results per query (before deduplication):")
@@ -318,7 +378,7 @@ def build_summary(run_ts, hours, counts, new_keys, upgraded, iocs, failed, trunc
         lines.append("")
     if truncated:
         lines.append(
-            f"**Pagination truncated at {MAX_PAGES} pages:** {', '.join(truncated)}"
+            f"**Pagination truncated at {max_pages} pages:** {', '.join(truncated)}"
         )
         lines.append("")
 
@@ -365,8 +425,21 @@ def main():
     state = load_state()
     iocs = state.setdefault("iocs", {})
     meta = state.setdefault("meta", {})
-    hours = window_hours(meta.get("last_success"), now)
-    print(f"Window: last {hours}h")
+
+    backfill_raw = os.getenv("BACKFILL_DAYS", "").strip()
+    backfill = bool(backfill_raw)
+    if backfill:
+        try:
+            hours = int(backfill_raw) * 24
+        except ValueError:
+            sys.exit(f"BACKFILL_DAYS must be an integer, got {backfill_raw!r}")
+        if hours <= 0:
+            sys.exit("BACKFILL_DAYS must be positive")
+        max_pages = BACKFILL_MAX_PAGES
+    else:
+        hours = window_hours(meta.get("last_success"), now)
+        max_pages = MAX_PAGES
+    print(f"Window: last {hours}h" + (" (backfill)" if backfill else ""))
 
     session = requests.Session()
     session.headers.update({"API-Key": api_key, "User-Agent": USER_AGENT})
@@ -377,7 +450,7 @@ def main():
     for name, query in QUERIES.items():
         print(f"[{name}]")
         try:
-            results, was_truncated = collect_query(session, query, hours)
+            results, was_truncated = collect_query(session, query, hours, max_pages)
         except Exception as exc:  # noqa: BLE001 - keep going with the other queries
             print(f"  ERROR: {exc}")
             failed.append(name)
@@ -396,8 +469,12 @@ def main():
 
     save_state(state)
     write_csv(iocs)
+    write_kql(iocs, run_ts)
     write_summary(
-        build_summary(run_ts, hours, counts, new_keys, upgraded, iocs, failed, truncated)
+        build_summary(
+            run_ts, hours, backfill, counts, new_keys, upgraded, iocs,
+            failed, truncated, max_pages,
+        )
     )
     return 1 if failed else 0
 
