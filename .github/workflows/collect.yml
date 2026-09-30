@@ -5,6 +5,11 @@ on:
     # UTC. Minute 17 to avoid the top-of-the-hour load peak.
     - cron: "17 */6 * * *"
   workflow_dispatch:
+    inputs:
+      backfill_days:
+        description: "Optional one-off history window in days (e.g. 60). Leave empty for a normal run."
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -30,6 +35,8 @@ jobs:
       - name: Collect
         env:
           URLSCAN_API_KEY: ${{ secrets.URLSCAN_API_KEY }}
+          BACKFILL_DAYS: ${{ github.event.inputs.backfill_days }}
+          KQL_MIN_CONFIDENCE: low
         run: python collect.py
 
       - name: Save state
@@ -37,6 +44,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state.json iocs.csv
+          git add state.json iocs.csv iocs.kql
           git diff --cached --quiet || git commit -m "collect: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
