@@ -61,10 +61,8 @@ QUERIES = {
     "Q1b_esign": 'filename:"e-sign.php"',
     "Q1c_icon": 'filename:"Icon-pdf-file-svg.png"',
     "Q2_turnstile": 'page.title:"Secure Document Verification" AND filename:"yes.html"',
-    "Q3_adobe": (
-        '(filename:"Adobe_Installer.html" OR '
-        '(filename:"utils.js" AND page.title:"PDF Viewer"))'
-    ),
+    "Q3a_adobe_html": 'filename:"Adobe_Installer.html"',
+    "Q3b_utils_pdfviewer": 'filename:"utils.js" AND page.title:"PDF Viewer"',
     "Q4_hash": "(" + " OR ".join(f"hash:{h}" for h in HASHES) + ")",
 }
 
@@ -108,7 +106,14 @@ def confidence(queries):
     q = set(queries)
     if "Q4_hash" in q or len(q) >= 2:
         return "high"
-    if q & {"Q1a_edocusign", "Q1b_esign", "Q2_turnstile", "Q3_adobe"}:
+    if q & {
+        "Q1a_edocusign",
+        "Q1b_esign",
+        "Q2_turnstile",
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer",
+        "Q3_adobe",  # legacy label from the first version; safe to drop after re-seeding
+    }:
         return "medium"
     return "low"
 
