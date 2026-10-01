@@ -46,6 +46,29 @@
         "01a0f0b1-1fa5-71ea-8718-dd8158a0f0d5"
       ]
     },
+    "boxercourier.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-10-01T13:08:28Z",
+      "first_seen": "2026-10-01T13:02:39.417Z",
+      "hosts": [
+        "boxercourier.com"
+      ],
+      "ip": "192.185.106.155",
+      "key": "boxercourier.com",
+      "last_seen": "2026-10-01T13:02:39.417Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://boxercourier.com/en/"
+      ],
+      "uuids": [
+        "01a0f78f-349b-74ad-bcd3-02992a5cbbde"
+      ]
+    },
     "cvouab.com": {
       "asn": "AS51167",
       "confidence": "high",
@@ -131,17 +154,19 @@
       ],
       "ip": "192.185.143.249",
       "key": "laboratoires-azbane.com",
-      "last_seen": "2026-09-30T10:04:41.011Z",
+      "last_seen": "2026-10-01T09:19:34.376Z",
       "queries": [
         "Q1c_icon"
       ],
       "status": "new",
       "title": "DocuSign · Secure Document Access",
       "urls": [
-        "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/"
+        "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/",
+        "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/"
       ],
       "uuids": [
-        "01a0f1c5-b9a8-776d-8209-066b95fef751"
+        "01a0f1c5-b9a8-776d-8209-066b95fef751",
+        "01a0f6c2-bb21-764d-825b-0ad4d4e0d945"
       ]
     },
     "luxora.qpon": {
@@ -184,7 +209,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "nilehost.cloud",
-      "last_seen": "2026-09-30T21:25:52.875Z",
+      "last_seen": "2026-10-01T13:00:45.374Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -197,7 +222,9 @@
       ],
       "uuids": [
         "01a0f249-4982-718f-b88a-6151297c649f",
-        "01a0f435-8cc9-731f-be86-893ee3076710"
+        "01a0f435-8cc9-731f-be86-893ee3076710",
+        "01a0f78d-25da-703a-85ee-853e8db199fd",
+        "01a0f682-f260-7485-b0eb-07619737e312"
       ]
     },
     "ptai.in": {
@@ -258,7 +285,7 @@
       ],
       "ip": "217.160.0.108",
       "key": "strutsupportsystems.com",
-      "last_seen": "2026-09-30T13:47:10.532Z",
+      "last_seen": "2026-10-01T13:01:04.555Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -269,7 +296,9 @@
         "https://strutsupportsystems.com/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a0f291-65a7-769a-aa9c-e9b6587a450c"
+        "01a0f291-65a7-769a-aa9c-e9b6587a450c",
+        "01a0f78d-bd99-749c-8a90-25d26ab73c3e",
+        "01a0f68f-9a49-7409-9c61-80f8924eb63a"
       ]
     },
     "thamizhnadu.com": {
@@ -388,8 +417,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-01T05:46:39Z",
-    "last_success": "2026-10-01T05:46:39Z",
+    "last_run": "2026-10-01T13:08:28Z",
+    "last_success": "2026-10-01T13:08:28Z",
     "window_hours": 9
   }
 }

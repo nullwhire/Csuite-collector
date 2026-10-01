@@ -1,10 +1,11 @@
-// CSuite candidate IOCs, generated 2026-10-01T05:46:39Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-01T13:08:28Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 16 | ips: 0 | urls: 17
+// domains: 17 | ips: 0 | urls: 19
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
+    "boxercourier.com",
     "cvouab.com",
     "dndair.com",
     "gudwa.com",
@@ -20,15 +21,17 @@ let csuite_domains = dynamic([
     "workers.dev",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|cvouab\.com|dndair\.com|gudwa\.com|laboratoires\-azbane\.com|luxora\.qpon|nilehost\.cloud|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|boxercourier\.com|cvouab\.com|dndair\.com|gudwa\.com|laboratoires\-azbane\.com|luxora\.qpon|nilehost\.cloud|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
     "https://audtfnaurth.com.es/8nde11/adobe-reader",
+    "https://boxercourier.com/en/",
     "https://dndair.com/iv/doc.html",
     "https://gm.cvouab.com/xyz/Adobe_Installer.html",
     "https://gudwa.com/DocuSign/e-sign.php",
     "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/",
+    "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/",
     "https://luxora.qpon/AdobeInstaller.html",
     "https://nilehost.cloud/Adobe_Installer.html",
     "https://nilehost.cloud/Adobe_Inz.html",
