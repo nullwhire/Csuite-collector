@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-09-30T22:11:55Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-01T05:46:39Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 14 | ips: 0 | urls: 15
+// domains: 16 | ips: 0 | urls: 17
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -15,10 +15,12 @@ let csuite_domains = dynamic([
     "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev",
     "strutsupportsystems.com",
     "thamizhnadu.com",
+    "thiswoodeno.com",
     "whisperingjessie.com",
+    "workers.dev",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|cvouab\.com|dndair\.com|gudwa\.com|laboratoires\-azbane\.com|luxora\.qpon|nilehost\.cloud|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|thamizhnadu\.com|whisperingjessie\.com|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|cvouab\.com|dndair\.com|gudwa\.com|laboratoires\-azbane\.com|luxora\.qpon|nilehost\.cloud|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
@@ -30,10 +32,12 @@ let csuite_urls = dynamic([
     "https://luxora.qpon/AdobeInstaller.html",
     "https://nilehost.cloud/Adobe_Installer.html",
     "https://nilehost.cloud/Adobe_Inz.html",
+    "https://noisy-snow-xka.domarnold2003.workers.dev/adobesc",
     "https://ptai.in/dsb/page.html",
     "https://pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev/Adobe_installer.html",
     "https://strutsupportsystems.com/Adobe_Installer.html",
     "https://thamizhnadu.com/ftx/vjlewm-1790731008-e835422f451c/",
+    "https://thiswoodeno.com/aa/",
     "https://vr.znbbmwq.com/inv/Adobe_Installer.html",
     "https://whisperingjessie.com/ftx/om8ed4-1790761233-641f025b68d2/"
 ]);

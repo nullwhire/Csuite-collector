@@ -56,7 +56,7 @@
       ],
       "ip": "94.72.101.64",
       "key": "cvouab.com",
-      "last_seen": "2026-09-30T19:05:10.693Z",
+      "last_seen": "2026-10-01T01:05:31.914Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -70,7 +70,8 @@
         "01a0f209-90c5-76b9-8f53-3bc46fa99bf7",
         "01a0f094-0f6b-760d-8538-3feec1dc4939",
         "01a0efd7-8e46-733c-829b-7e118e3c0935",
-        "01a0f3b4-bed5-72d2-90e6-14cb408c0b31"
+        "01a0f3b4-bed5-72d2-90e6-14cb408c0b31",
+        "01a0f4fe-ab1b-76fd-a966-d8180df9378e"
       ]
     },
     "dndair.com": {
@@ -153,7 +154,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "luxora.qpon",
-      "last_seen": "2026-09-30T19:06:55.949Z",
+      "last_seen": "2026-10-01T01:06:42.507Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -169,7 +170,8 @@
         "01a0f094-0fb7-74f8-990b-969142449918",
         "01a0efd7-8810-74cf-bae3-6e13c5c75682",
         "01a0ee56-b856-762d-a600-0a51e525dbfd",
-        "01a0f3b5-ef71-75ca-8635-5a0fa71ba98d"
+        "01a0f3b5-ef71-75ca-8635-5a0fa71ba98d",
+        "01a0f4ff-6761-746c-8efe-fdd7e501490a"
       ]
     },
     "nilehost.cloud": {
@@ -293,6 +295,30 @@
         "01a0efe2-b6ea-76ae-b7db-0de99cd80404"
       ]
     },
+    "thiswoodeno.com": {
+      "asn": "AS54290",
+      "confidence": "medium",
+      "first_run": "2026-10-01T05:46:39Z",
+      "first_seen": "2026-10-01T01:01:52.014Z",
+      "hosts": [
+        "thiswoodeno.com"
+      ],
+      "ip": "142.11.206.254",
+      "key": "thiswoodeno.com",
+      "last_seen": "2026-10-01T04:49:21.571Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://thiswoodeno.com/aa/"
+      ],
+      "uuids": [
+        "01a0f5c9-a78f-72f4-940b-0a25fd6a5dc6",
+        "01a0f4fa-eeb9-776c-a724-7b72120118ab"
+      ]
+    },
     "whisperingjessie.com": {
       "asn": "AS31898",
       "confidence": "low",
@@ -314,6 +340,29 @@
       ],
       "uuids": [
         "01a0f1af-e24b-73a8-90eb-da052110e4df"
+      ]
+    },
+    "workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-01T05:46:39Z",
+      "first_seen": "2026-10-01T02:14:27.594Z",
+      "hosts": [
+        "noisy-snow-xka.domarnold2003.workers.dev"
+      ],
+      "ip": "188.114.97.3",
+      "key": "workers.dev",
+      "last_seen": "2026-10-01T02:14:27.594Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://noisy-snow-xka.domarnold2003.workers.dev/adobesc"
+      ],
+      "uuids": [
+        "01a0f53d-c15c-70ed-beda-796a0874b041"
       ]
     },
     "znbbmwq.com": {
@@ -339,8 +388,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-09-30T22:11:55Z",
-    "last_success": "2026-09-30T22:11:55Z",
-    "window_hours": 8
+    "last_run": "2026-10-01T05:46:39Z",
+    "last_success": "2026-10-01T05:46:39Z",
+    "window_hours": 9
   }
 }
