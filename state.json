@@ -56,7 +56,7 @@
       ],
       "ip": "192.185.106.155",
       "key": "boxercourier.com",
-      "last_seen": "2026-10-01T13:02:39.417Z",
+      "last_seen": "2026-10-01T16:31:40.430Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -66,7 +66,8 @@
         "https://boxercourier.com/en/"
       ],
       "uuids": [
-        "01a0f78f-349b-74ad-bcd3-02992a5cbbde"
+        "01a0f78f-349b-74ad-bcd3-02992a5cbbde",
+        "01a0f84e-86a1-768a-852f-f27edb1742e0"
       ]
     },
     "cvouab.com": {
@@ -209,7 +210,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "nilehost.cloud",
-      "last_seen": "2026-10-01T13:00:45.374Z",
+      "last_seen": "2026-10-01T18:01:43.151Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -224,7 +225,9 @@
         "01a0f249-4982-718f-b88a-6151297c649f",
         "01a0f435-8cc9-731f-be86-893ee3076710",
         "01a0f78d-25da-703a-85ee-853e8db199fd",
-        "01a0f682-f260-7485-b0eb-07619737e312"
+        "01a0f682-f260-7485-b0eb-07619737e312",
+        "01a0f8a0-e60c-732b-9d7b-507ed12416bb",
+        "01a0f85d-98f3-72cd-9689-6c99e083eb8a"
       ]
     },
     "ptai.in": {
@@ -285,7 +288,7 @@
       ],
       "ip": "217.160.0.108",
       "key": "strutsupportsystems.com",
-      "last_seen": "2026-10-01T13:01:04.555Z",
+      "last_seen": "2026-10-01T17:59:54.635Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -298,7 +301,9 @@
       "uuids": [
         "01a0f291-65a7-769a-aa9c-e9b6587a450c",
         "01a0f78d-bd99-749c-8a90-25d26ab73c3e",
-        "01a0f68f-9a49-7409-9c61-80f8924eb63a"
+        "01a0f68f-9a49-7409-9c61-80f8924eb63a",
+        "01a0f89f-5cc9-774b-83f2-d794feeff4a5",
+        "01a0f85d-80d4-719b-b54d-20277b8335dd"
       ]
     },
     "thamizhnadu.com": {
@@ -334,7 +339,7 @@
       ],
       "ip": "142.11.206.254",
       "key": "thiswoodeno.com",
-      "last_seen": "2026-10-01T04:49:21.571Z",
+      "last_seen": "2026-10-01T18:01:15.033Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -345,7 +350,8 @@
       ],
       "uuids": [
         "01a0f5c9-a78f-72f4-940b-0a25fd6a5dc6",
-        "01a0f4fa-eeb9-776c-a724-7b72120118ab"
+        "01a0f4fa-eeb9-776c-a724-7b72120118ab",
+        "01a0f8a0-899b-73a3-98fa-1482530eca5d"
       ]
     },
     "whisperingjessie.com": {
@@ -394,6 +400,30 @@
         "01a0f53d-c15c-70ed-beda-796a0874b041"
       ]
     },
+    "xureto.shop": {
+      "asn": "AS393960",
+      "confidence": "high",
+      "first_run": "2026-10-01T22:38:38Z",
+      "first_seen": "2026-10-01T15:58:49.609Z",
+      "hosts": [
+        "xureto.shop"
+      ],
+      "ip": "185.221.216.117",
+      "key": "xureto.shop",
+      "last_seen": "2026-10-01T15:58:49.609Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://xureto.shop/xyz/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a0f830-7b14-74ee-9c65-bead31465d6f"
+      ]
+    },
     "znbbmwq.com": {
       "confidence": "medium",
       "first_run": "2026-09-30T15:08:10Z",
@@ -417,8 +447,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-01T13:08:28Z",
-    "last_success": "2026-10-01T13:08:28Z",
-    "window_hours": 9
+    "last_run": "2026-10-01T22:38:38Z",
+    "last_success": "2026-10-01T22:38:38Z",
+    "window_hours": 11
   }
 }
