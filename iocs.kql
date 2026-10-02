@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-02T12:28:03Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-02T22:10:28Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 23 | ips: 0 | urls: 25
+// domains: 23 | ips: 0 | urls: 27
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -39,6 +39,7 @@ let csuite_urls = dynamic([
     "https://gudwa.com/DocuSign/e-sign.php",
     "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/",
     "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/",
+    "https://laboratoires-azbane.com/ftx/tmbhp3-1790953474-35051ab6319b/",
     "https://luxfab.luxe/Adobe_Installer.html",
     "https://luxora.qpon/AdobeInstaller.html",
     "https://nilehost.cloud/Adobe_Installer.html",
@@ -54,5 +55,6 @@ let csuite_urls = dynamic([
     "https://vr.znbbmwq.com/inv/Adobe_Installer.html",
     "https://whisperingjessie.com/ftx/om8ed4-1790761233-641f025b68d2/",
     "https://www.blackprimehouse.com.br/works39330/adoreader.html",
+    "https://www.taslimaenterprise.com/adobe/",
     "https://xureto.shop/xyz/Adobe_Installer.html"
 ]);
