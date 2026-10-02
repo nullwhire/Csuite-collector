@@ -146,6 +146,29 @@
         "01a0f376-f519-7119-9624-2429be97ea39"
       ]
     },
+    "docvyrview.de": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-02T12:28:03Z",
+      "first_seen": "2026-10-02T07:33:11.049Z",
+      "hosts": [
+        "docvyrview.de"
+      ],
+      "ip": "104.21.15.238",
+      "key": "docvyrview.de",
+      "last_seen": "2026-10-02T07:33:11.049Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://docvyrview.de/sign/"
+      ],
+      "uuids": [
+        "01a0fb87-ecd7-704b-a5a5-b0cea48a3cef"
+      ]
+    },
     "gudwa.com": {
       "asn": "AS36454",
       "confidence": "medium",
@@ -360,7 +383,7 @@
       ],
       "ip": "217.160.0.108",
       "key": "strutsupportsystems.com",
-      "last_seen": "2026-10-01T17:59:54.635Z",
+      "last_seen": "2026-10-02T10:14:58.836Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -375,7 +398,8 @@
         "01a0f78d-bd99-749c-8a90-25d26ab73c3e",
         "01a0f68f-9a49-7409-9c61-80f8924eb63a",
         "01a0f89f-5cc9-774b-83f2-d794feeff4a5",
-        "01a0f85d-80d4-719b-b54d-20277b8335dd"
+        "01a0f85d-80d4-719b-b54d-20277b8335dd",
+        "01a0fc1c-1087-775e-9d06-2fffadf5a27e"
       ]
     },
     "taslimaenterprise.com": {
@@ -546,8 +570,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-02T05:31:07Z",
-    "last_success": "2026-10-02T05:31:07Z",
+    "last_run": "2026-10-02T12:28:03Z",
+    "last_success": "2026-10-02T12:28:03Z",
     "window_hours": 8
   }
 }
