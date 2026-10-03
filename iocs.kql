@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-03T16:14:23Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-03T21:11:17Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 25 | ips: 0 | urls: 29
+// domains: 26 | ips: 0 | urls: 30
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -16,6 +16,7 @@ let csuite_domains = dynamic([
     "laboratoires-azbane.com",
     "luxfab.luxe",
     "luxora.qpon",
+    "lyonbuy.shop",
     "nilehost.cloud",
     "piedrasdecolon.com.ar",
     "ptai.in",
@@ -29,7 +30,7 @@ let csuite_domains = dynamic([
     "xureto.shop",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|gudwa\.com|hotelvaldecans\.com\.br|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|nilehost\.cloud|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|gudwa\.com|hotelvaldecans\.com\.br|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|nilehost\.cloud|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
@@ -46,6 +47,7 @@ let csuite_urls = dynamic([
     "https://laboratoires-azbane.com/ftx/tmbhp3-1790953474-35051ab6319b/",
     "https://luxfab.luxe/Adobe_Installer.html",
     "https://luxora.qpon/AdobeInstaller.html",
+    "https://lyonbuy.shop/Adobe_Installer.html",
     "https://nilehost.cloud/Adobe_Installer.html",
     "https://nilehost.cloud/Adobe_Inz.html",
     "https://noisy-snow-xka.domarnold2003.workers.dev/adobesc",

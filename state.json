@@ -330,6 +330,30 @@
         "01a0f4ff-6761-746c-8efe-fdd7e501490a"
       ]
     },
+    "lyonbuy.shop": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-10-03T21:11:17Z",
+      "first_seen": "2026-10-03T17:33:58.314Z",
+      "hosts": [
+        "lyonbuy.shop"
+      ],
+      "ip": "50.6.202.214",
+      "key": "lyonbuy.shop",
+      "last_seen": "2026-10-03T17:33:58.314Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://lyonbuy.shop/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a102d4-4dab-7541-a2a0-e151c80b9aa2"
+      ]
+    },
     "nilehost.cloud": {
       "asn": "AS31898",
       "confidence": "high",
@@ -640,8 +664,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-03T16:14:23Z",
-    "last_success": "2026-10-03T16:14:23Z",
+    "last_run": "2026-10-03T21:11:17Z",
+    "last_success": "2026-10-03T21:11:17Z",
     "window_hours": 6
   }
 }
