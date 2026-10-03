@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-02T22:10:28Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-03T05:13:27Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 23 | ips: 0 | urls: 27
+// domains: 24 | ips: 0 | urls: 28
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -11,6 +11,7 @@ let csuite_domains = dynamic([
     "dndair.com",
     "docvyrview.de",
     "gudwa.com",
+    "karrasconsulting.net",
     "laboratoires-azbane.com",
     "luxfab.luxe",
     "luxora.qpon",
@@ -27,7 +28,7 @@ let csuite_domains = dynamic([
     "xureto.shop",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|gudwa\.com|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|nilehost\.cloud|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|gudwa\.com|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|nilehost\.cloud|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
@@ -37,6 +38,7 @@ let csuite_urls = dynamic([
     "https://docvyrview.de/sign/",
     "https://gm.cvouab.com/xyz/Adobe_Installer.html",
     "https://gudwa.com/DocuSign/e-sign.php",
+    "https://karrasconsulting.net/instqll/adobe/index2.html",
     "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/",
     "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/",
     "https://laboratoires-azbane.com/ftx/tmbhp3-1790953474-35051ab6319b/",

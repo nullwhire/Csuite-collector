@@ -194,6 +194,30 @@
         "01a0f10c-a381-735d-a6dd-2a53d20056fe"
       ]
     },
+    "karrasconsulting.net": {
+      "asn": "AS22611",
+      "confidence": "medium",
+      "first_run": "2026-10-03T05:13:27Z",
+      "first_seen": "2026-10-03T01:03:01.215Z",
+      "hosts": [
+        "karrasconsulting.net"
+      ],
+      "ip": "173.231.206.39",
+      "key": "karrasconsulting.net",
+      "last_seen": "2026-10-03T04:30:46.544Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://karrasconsulting.net/instqll/adobe/index2.html"
+      ],
+      "uuids": [
+        "01a10007-3f5f-766a-ac1c-514ab4a53669",
+        "01a0ff49-0ded-71a3-b5f1-ef834f9ff89a"
+      ]
+    },
     "laboratoires-azbane.com": {
       "asn": "AS31898",
       "confidence": "low",
@@ -320,7 +344,7 @@
       ],
       "ip": "167.250.5.47",
       "key": "piedrasdecolon.com.ar",
-      "last_seen": "2026-10-02T19:33:59.058Z",
+      "last_seen": "2026-10-03T01:57:40.079Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -335,7 +359,8 @@
         "01a0fe12-22f2-741b-86d9-78a28dbcdb90",
         "01a0fd1e-41cd-73c9-a145-67d0598e3a4b",
         "01a0fd1b-e6b4-7024-a3da-d51466cdd359",
-        "01a0fcb4-138f-74b6-a94a-c8b2b8044486"
+        "01a0fcb4-138f-74b6-a94a-c8b2b8044486",
+        "01a0ff7b-0cdf-73a9-aef9-172cb9785b8d"
       ]
     },
     "ptai.in": {
@@ -348,7 +373,7 @@
       ],
       "ip": "192.185.146.129",
       "key": "ptai.in",
-      "last_seen": "2026-09-30T17:57:18.074Z",
+      "last_seen": "2026-10-03T02:59:45.170Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -359,7 +384,8 @@
       ],
       "uuids": [
         "01a0f1fa-8629-76da-bc65-635754a6014b",
-        "01a0f376-983b-764c-bde8-4fc30b39c7c5"
+        "01a0f376-983b-764c-bde8-4fc30b39c7c5",
+        "01a0ffb3-ec41-7321-bb23-e4216f6d3ca2"
       ]
     },
     "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev": {
@@ -587,8 +613,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-02T22:10:28Z",
-    "last_success": "2026-10-02T22:10:28Z",
-    "window_hours": 11
+    "last_run": "2026-10-03T05:13:27Z",
+    "last_success": "2026-10-03T05:13:27Z",
+    "window_hours": 9
   }
 }
