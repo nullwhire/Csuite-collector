@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-04T16:51:48Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-04T21:20:14Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 28 | ips: 0 | urls: 32
+// domains: 30 | ips: 0 | urls: 34
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -12,6 +12,8 @@ let csuite_domains = dynamic([
     "docvyrview.de",
     "gudwa.com",
     "hotelvaldecans.com.br",
+    "innovative-sub.github.io",
+    "jbreganfrf1.github.io",
     "karrasconsulting.net",
     "laboratoires-azbane.com",
     "luxfab.luxe",
@@ -32,7 +34,7 @@ let csuite_domains = dynamic([
     "xureto.shop",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|gudwa\.com|hotelvaldecans\.com\.br|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|nilehost\.cloud|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|gudwa\.com|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|nilehost\.cloud|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
@@ -43,6 +45,8 @@ let csuite_urls = dynamic([
     "https://gm.cvouab.com/xyz/Adobe_Installer.html",
     "https://gudwa.com/DocuSign/e-sign.php",
     "https://hotelvaldecans.com.br/docsign/page.html",
+    "https://innovative-sub.github.io/departmentprojection/",
+    "https://jbreganfrf1.github.io/bergangroupllc/",
     "https://karrasconsulting.net/instqll/adobe/index2.html",
     "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/",
     "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/",
