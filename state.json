@@ -171,6 +171,29 @@
         "01a0fb87-ecd7-704b-a5a5-b0cea48a3cef"
       ]
     },
+    "geotehnica.com": {
+      "asn": "AS48452",
+      "confidence": "medium",
+      "first_run": "2026-10-05T05:33:07Z",
+      "first_seen": "2026-10-05T01:05:21.188Z",
+      "hosts": [
+        "geotehnica.com"
+      ],
+      "ip": "94.26.91.102",
+      "key": "geotehnica.com",
+      "last_seen": "2026-10-05T01:05:21.188Z",
+      "queries": [
+        "Q1b_esign"
+      ],
+      "status": "new",
+      "title": "404 Not Found",
+      "urls": [
+        "https://geotehnica.com/docusignreader/e-sign.php"
+      ],
+      "uuids": [
+        "01a10997-de42-7714-9534-b0d7e08ce17e"
+      ]
+    },
     "gudwa.com": {
       "asn": "AS36454",
       "confidence": "medium",
@@ -181,7 +204,7 @@
       ],
       "ip": "65.181.116.251",
       "key": "gudwa.com",
-      "last_seen": "2026-09-30T06:42:19.611Z",
+      "last_seen": "2026-10-05T01:09:16.380Z",
       "queries": [
         "Q1b_esign"
       ],
@@ -191,7 +214,9 @@
         "https://gudwa.com/DocuSign/e-sign.php"
       ],
       "uuids": [
-        "01a0f10c-a381-735d-a6dd-2a53d20056fe"
+        "01a0f10c-a381-735d-a6dd-2a53d20056fe",
+        "01a1099b-8402-774a-844a-968cb1a4e5fe",
+        "01a10994-1cf4-77e4-b591-42e9a9aca567"
       ]
     },
     "hotelvaldecans.com.br": {
@@ -762,8 +787,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-04T21:20:14Z",
-    "last_success": "2026-10-04T21:20:14Z",
-    "window_hours": 6
+    "last_run": "2026-10-05T05:33:07Z",
+    "last_success": "2026-10-05T05:33:07Z",
+    "window_hours": 10
   }
 }
