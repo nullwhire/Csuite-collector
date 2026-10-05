@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-05T05:33:07Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-05T14:29:51Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 31 | ips: 0 | urls: 35
+// domains: 32 | ips: 0 | urls: 36
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -21,6 +21,7 @@ let csuite_domains = dynamic([
     "luxora.qpon",
     "lyonbuy.shop",
     "nilehost.cloud",
+    "pdf-viewer-five-virid.vercel.app",
     "pdfinstalls-2.vercel.app",
     "peputragroup.com",
     "piedrasdecolon.com.ar",
@@ -35,7 +36,7 @@ let csuite_domains = dynamic([
     "xureto.shop",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|geotehnica\.com|gudwa\.com|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|nilehost\.cloud|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|geotehnica\.com|gudwa\.com|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|nilehost\.cloud|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|taslimaenterprise\.com|thamizhnadu\.com|thiswoodeno\.com|whisperingjessie\.com|workers\.dev|xureto\.shop|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
@@ -59,6 +60,7 @@ let csuite_urls = dynamic([
     "https://nilehost.cloud/Adobe_Installer.html",
     "https://nilehost.cloud/Adobe_Inz.html",
     "https://noisy-snow-xka.domarnold2003.workers.dev/adobesc",
+    "https://pdf-viewer-five-virid.vercel.app/",
     "https://pdfinstalls-2.vercel.app/",
     "https://peputragroup.com/Adobe_Installer.html",
     "https://piedrasdecolon.com.ar/docusign",

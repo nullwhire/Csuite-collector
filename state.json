@@ -105,7 +105,7 @@
       ],
       "ip": "94.72.101.64",
       "key": "cvouab.com",
-      "last_seen": "2026-10-02T15:04:13.294Z",
+      "last_seen": "2026-10-05T12:47:28.233Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -121,7 +121,8 @@
         "01a0efd7-8e46-733c-829b-7e118e3c0935",
         "01a0f3b4-bed5-72d2-90e6-14cb408c0b31",
         "01a0f4fe-ab1b-76fd-a966-d8180df9378e",
-        "01a0fd24-def1-7251-8f2f-3311d8b7930d"
+        "01a0fd24-def1-7251-8f2f-3311d8b7930d",
+        "01a10c1a-c097-759d-b160-34a54c4f5d86"
       ]
     },
     "dndair.com": {
@@ -384,7 +385,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "luxora.qpon",
-      "last_seen": "2026-10-01T01:06:42.507Z",
+      "last_seen": "2026-10-05T12:47:00.763Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -401,7 +402,8 @@
         "01a0efd7-8810-74cf-bae3-6e13c5c75682",
         "01a0ee56-b856-762d-a600-0a51e525dbfd",
         "01a0f3b5-ef71-75ca-8635-5a0fa71ba98d",
-        "01a0f4ff-6761-746c-8efe-fdd7e501490a"
+        "01a0f4ff-6761-746c-8efe-fdd7e501490a",
+        "01a10c1a-317c-740e-9a1a-38508ecee287"
       ]
     },
     "lyonbuy.shop": {
@@ -456,6 +458,30 @@
         "01a0f682-f260-7485-b0eb-07619737e312",
         "01a0f8a0-e60c-732b-9d7b-507ed12416bb",
         "01a0f85d-98f3-72cd-9689-6c99e083eb8a"
+      ]
+    },
+    "pdf-viewer-five-virid.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-05T14:29:51Z",
+      "first_seen": "2026-10-05T13:00:42.225Z",
+      "hosts": [
+        "pdf-viewer-five-virid.vercel.app"
+      ],
+      "ip": "64.29.17.195",
+      "key": "pdf-viewer-five-virid.vercel.app",
+      "last_seen": "2026-10-05T13:00:44.326Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://pdf-viewer-five-virid.vercel.app/"
+      ],
+      "uuids": [
+        "01a10c26-e2a5-75ba-901c-4bac86176ebf",
+        "01a10c26-dcd7-71af-bbcd-985fb7c6d246"
       ]
     },
     "pdfinstalls-2.vercel.app": {
@@ -594,7 +620,7 @@
       ],
       "ip": "217.160.0.108",
       "key": "strutsupportsystems.com",
-      "last_seen": "2026-10-04T00:49:53.889Z",
+      "last_seen": "2026-10-05T12:57:48.181Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -612,7 +638,8 @@
         "01a0f85d-80d4-719b-b54d-20277b8335dd",
         "01a0fc1c-1087-775e-9d06-2fffadf5a27e",
         "01a0fe0a-e304-7103-b524-e89ca1a8d798",
-        "01a10463-6c0f-7498-b9e1-b49133e338fe"
+        "01a10463-6c0f-7498-b9e1-b49133e338fe",
+        "01a10c24-3476-73fb-8b3b-76e7be679018"
       ]
     },
     "taslimaenterprise.com": {
@@ -787,8 +814,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-05T05:33:07Z",
-    "last_success": "2026-10-05T05:33:07Z",
+    "last_run": "2026-10-05T14:29:51Z",
+    "last_success": "2026-10-05T14:29:51Z",
     "window_hours": 10
   }
 }
