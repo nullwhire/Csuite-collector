@@ -329,7 +329,7 @@
       ],
       "ip": "192.185.143.249",
       "key": "laboratoires-azbane.com",
-      "last_seen": "2026-10-02T15:04:41.169Z",
+      "last_seen": "2026-10-06T13:22:14.670Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -338,12 +338,14 @@
       "urls": [
         "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/",
         "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/",
-        "https://laboratoires-azbane.com/ftx/tmbhp3-1790953474-35051ab6319b/"
+        "https://laboratoires-azbane.com/ftx/tmbhp3-1790953474-35051ab6319b/",
+        "https://laboratoires-azbane.com/ftx/q3te0o-1791292928-1a0a192af2ac/"
       ],
       "uuids": [
         "01a0f1c5-b9a8-776d-8209-066b95fef751",
         "01a0f6c2-bb21-764d-825b-0ad4d4e0d945",
-        "01a0fd25-47fe-7774-af3a-3c3d8708bb0b"
+        "01a0fd25-47fe-7774-af3a-3c3d8708bb0b",
+        "01a11160-ed2a-755e-868d-d65cfdbc9d2b"
       ]
     },
     "luxfab.luxe": {
@@ -495,7 +497,7 @@
       ],
       "ip": "64.29.17.195",
       "key": "pdf-viewer-five-virid.vercel.app",
-      "last_seen": "2026-10-05T16:47:25.267Z",
+      "last_seen": "2026-10-06T17:06:31.716Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -508,7 +510,8 @@
         "01a10c26-e2a5-75ba-901c-4bac86176ebf",
         "01a10c26-dcd7-71af-bbcd-985fb7c6d246",
         "01a10cf6-639f-753e-af74-2e10cdeae66c",
-        "01a10cf6-62d5-7667-9b41-f922a49c91d3"
+        "01a10cf6-62d5-7667-9b41-f922a49c91d3",
+        "01a1122e-4710-7137-8278-0a21cdfe93c7"
       ]
     },
     "pdfinstalls-2.vercel.app": {
@@ -661,6 +664,29 @@
       ],
       "uuids": [
         "01a0f2c0-0d6a-74c5-910e-05eb1b905bf1"
+      ]
+    },
+    "pub-def1757768e44ee4901749848f225c06.r2.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-06T22:38:01Z",
+      "first_seen": "2026-10-06T19:40:43.188Z",
+      "hosts": [
+        "pub-def1757768e44ee4901749848f225c06.r2.dev"
+      ],
+      "ip": "104.18.54.45",
+      "key": "pub-def1757768e44ee4901749848f225c06.r2.dev",
+      "last_seen": "2026-10-06T19:40:43.188Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "status": "new",
+      "title": "Suspected Phishing | Cloudflare",
+      "urls": [
+        "https://pub-def1757768e44ee4901749848f225c06.r2.dev/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a112bb-019b-711d-bf7b-2c8d6e22d375"
       ]
     },
     "strutsupportsystems.com": {
@@ -959,8 +985,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-06T13:18:38Z",
-    "last_success": "2026-10-06T13:18:38Z",
-    "window_hours": 9
+    "last_run": "2026-10-06T22:38:01Z",
+    "last_success": "2026-10-06T22:38:01Z",
+    "window_hours": 11
   }
 }

@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-06T13:18:38Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-06T22:38:01Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 38 | ips: 0 | urls: 42
+// domains: 39 | ips: 0 | urls: 44
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -29,6 +29,7 @@ let csuite_domains = dynamic([
     "pokeventas.com",
     "ptai.in",
     "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev",
+    "pub-def1757768e44ee4901749848f225c06.r2.dev",
     "strutsupportsystems.com",
     "surat-kabar.com",
     "taslimaenterprise.com",
@@ -42,7 +43,7 @@ let csuite_domains = dynamic([
     "yonataxi.at",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|geotehnica\.com|gudwa\.com|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|nilehost\.cloud|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|thamizhnadu\.com|thesocialnexus\.co\.za|thiswoodeno\.com|verfiynewdocument\.icu|whisperingjessie\.com|workers\.dev|xureto\.shop|yonataxi\.at|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|geotehnica\.com|gudwa\.com|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|nilehost\.cloud|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|thamizhnadu\.com|thesocialnexus\.co\.za|thiswoodeno\.com|verfiynewdocument\.icu|whisperingjessie\.com|workers\.dev|xureto\.shop|yonataxi\.at|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
@@ -58,6 +59,7 @@ let csuite_urls = dynamic([
     "https://jbreganfrf1.github.io/bergangroupllc/",
     "https://karrasconsulting.net/instqll/adobe/index2.html",
     "https://laboratoires-azbane.com/ftx/9ul34o-1790762666-62cdc6fcc175/",
+    "https://laboratoires-azbane.com/ftx/q3te0o-1791292928-1a0a192af2ac/",
     "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/",
     "https://laboratoires-azbane.com/ftx/tmbhp3-1790953474-35051ab6319b/",
     "https://luxfab.luxe/Adobe_Installer.html",
@@ -74,6 +76,7 @@ let csuite_urls = dynamic([
     "https://pokeventas.com/zqqqpr.html",
     "https://ptai.in/dsb/page.html",
     "https://pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev/Adobe_installer.html",
+    "https://pub-def1757768e44ee4901749848f225c06.r2.dev/Adobe_Installer.html",
     "https://strutsupportsystems.com/Adobe_Installer.html",
     "https://surat-kabar.com/Adobe_Installer.html",
     "https://taslimaenterprise.com/adobe/",
