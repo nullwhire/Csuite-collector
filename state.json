@@ -172,6 +172,29 @@
         "01a0fb87-ecd7-704b-a5a5-b0cea48a3cef"
       ]
     },
+    "eporaimoveisefacilities.com.br": {
+      "asn": "AS16276",
+      "confidence": "low",
+      "first_run": "2026-10-07T13:15:52Z",
+      "first_seen": "2026-10-07T10:47:32.433Z",
+      "hosts": [
+        "eporaimoveisefacilities.com.br"
+      ],
+      "ip": "144.217.198.16",
+      "key": "eporaimoveisefacilities.com.br",
+      "last_seen": "2026-10-07T10:47:32.433Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "http://eporaimoveisefacilities.com.br/ftx/o9573e-1791370045-7c07aa763e61/"
+      ],
+      "uuids": [
+        "01a115f9-9af0-716b-80f1-1d23df8a4168"
+      ]
+    },
     "geotehnica.com": {
       "asn": "AS48452",
       "confidence": "medium",
@@ -358,7 +381,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "luxfab.luxe",
-      "last_seen": "2026-10-07T05:44:43.843Z",
+      "last_seen": "2026-10-07T07:39:41.650Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -502,7 +525,7 @@
       ],
       "ip": "64.29.17.195",
       "key": "pdf-viewer-five-virid.vercel.app",
-      "last_seen": "2026-10-06T23:37:52.311Z",
+      "last_seen": "2026-10-07T07:59:12.866Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -519,7 +542,8 @@
         "01a1122e-4710-7137-8278-0a21cdfe93c7",
         "01a11394-93a0-70fe-a34c-372717733473",
         "01a11362-c45b-73fb-9a54-ba51783b0e19",
-        "01a11361-b5c3-763c-8c54-fc06b2887d30"
+        "01a11361-b5c3-763c-8c54-fc06b2887d30",
+        "01a1155f-8e28-768e-b4b8-aad6ade48950"
       ]
     },
     "pdfinstalls-2.vercel.app": {
@@ -996,8 +1020,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-07T05:53:20Z",
-    "last_success": "2026-10-07T05:53:20Z",
+    "last_run": "2026-10-07T13:15:52Z",
+    "last_success": "2026-10-07T13:15:52Z",
     "window_hours": 9
   }
 }

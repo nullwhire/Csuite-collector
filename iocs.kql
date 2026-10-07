@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-07T05:53:20Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-07T13:15:52Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 39 | ips: 0 | urls: 45
+// domains: 40 | ips: 0 | urls: 46
 let csuite_domains = dynamic([
     "atikurbd.com",
     "audtfnaurth.com.es",
@@ -10,6 +10,7 @@ let csuite_domains = dynamic([
     "cvouab.com",
     "dndair.com",
     "docvyrview.de",
+    "eporaimoveisefacilities.com.br",
     "geotehnica.com",
     "gudwa.com",
     "hotelvaldecans.com.br",
@@ -43,9 +44,10 @@ let csuite_domains = dynamic([
     "yonataxi.at",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|geotehnica\.com|gudwa\.com|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|nilehost\.cloud|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|thamizhnadu\.com|thesocialnexus\.co\.za|thiswoodeno\.com|verfiynewdocument\.icu|whisperingjessie\.com|workers\.dev|xureto\.shop|yonataxi\.at|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|cvouab\.com|dndair\.com|docvyrview\.de|eporaimoveisefacilities\.com\.br|geotehnica\.com|gudwa\.com|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|nilehost\.cloud|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|thamizhnadu\.com|thesocialnexus\.co\.za|thiswoodeno\.com|verfiynewdocument\.icu|whisperingjessie\.com|workers\.dev|xureto\.shop|yonataxi\.at|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
+    "http://eporaimoveisefacilities.com.br/ftx/o9573e-1791370045-7c07aa763e61/",
     "http://luxfab.luxe/Adobe_Installer.html",
     "https://atikurbd.com/pdfreader/update/",
     "https://audtfnaurth.com.es/8nde11/adobe-reader",
