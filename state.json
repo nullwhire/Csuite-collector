@@ -195,6 +195,30 @@
         "01a115f9-9af0-716b-80f1-1d23df8a4168"
       ]
     },
+    "fourbrixsolar.com": {
+      "asn": "AS26496",
+      "confidence": "high",
+      "first_run": "2026-10-07T23:02:41Z",
+      "first_seen": "2026-10-07T16:36:31.083Z",
+      "hosts": [
+        "fourbrixsolar.com"
+      ],
+      "ip": "184.168.127.41",
+      "key": "fourbrixsolar.com",
+      "last_seen": "2026-10-07T16:36:31.083Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://fourbrixsolar.com/br/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a11739-27b3-714f-bb92-128a728036f0"
+      ]
+    },
     "geotehnica.com": {
       "asn": "AS48452",
       "confidence": "medium",
@@ -216,6 +240,29 @@
       ],
       "uuids": [
         "01a10997-de42-7714-9534-b0d7e08ce17e"
+      ]
+    },
+    "gidsux.cc": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-07T23:02:41Z",
+      "first_seen": "2026-10-07T14:23:11.474Z",
+      "hosts": [
+        "gidsux.cc"
+      ],
+      "ip": "2606:4700:3037::ac43:8c68",
+      "key": "gidsux.cc",
+      "last_seen": "2026-10-07T14:23:11.474Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://gidsux.cc/pvolvestudios/Document_0016452026.html"
+      ],
+      "uuids": [
+        "01a116be-152e-7070-b3c2-9c354a15766c"
       ]
     },
     "gudwa.com": {
@@ -342,6 +389,29 @@
         "01a10c96-c8fa-71be-881f-79c7aaacfd5f"
       ]
     },
+    "kwestventures.com": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-07T23:02:41Z",
+      "first_seen": "2026-10-07T19:20:47.110Z",
+      "hosts": [
+        "kwestventures.com"
+      ],
+      "ip": "172.67.149.58",
+      "key": "kwestventures.com",
+      "last_seen": "2026-10-07T19:20:47.110Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://kwestventures.com/gf/review.html"
+      ],
+      "uuids": [
+        "01a117cf-8bc0-7509-a0cd-adba2e60abe8"
+      ]
+    },
     "laboratoires-azbane.com": {
       "asn": "AS31898",
       "confidence": "low",
@@ -381,7 +451,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "luxfab.luxe",
-      "last_seen": "2026-10-07T07:39:41.650Z",
+      "last_seen": "2026-10-07T14:00:21.799Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -603,7 +673,7 @@
       ],
       "ip": "167.250.5.47",
       "key": "piedrasdecolon.com.ar",
-      "last_seen": "2026-10-04T00:58:54.115Z",
+      "last_seen": "2026-10-07T14:04:38.634Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -620,7 +690,8 @@
         "01a0fd1b-e6b4-7024-a3da-d51466cdd359",
         "01a0fcb4-138f-74b6-a94a-c8b2b8044486",
         "01a0ff7b-0cdf-73a9-aef9-172cb9785b8d",
-        "01a1046b-9cab-7025-88fe-2748ec99bbb4"
+        "01a1046b-9cab-7025-88fe-2748ec99bbb4",
+        "01a116ae-0417-7058-a249-5f4d86011357"
       ]
     },
     "pokeventas.com": {
@@ -1020,8 +1091,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-07T13:15:52Z",
-    "last_success": "2026-10-07T13:15:52Z",
-    "window_hours": 9
+    "last_run": "2026-10-07T23:02:41Z",
+    "last_success": "2026-10-07T23:02:41Z",
+    "window_hours": 11
   }
 }
