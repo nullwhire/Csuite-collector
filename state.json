@@ -1,5 +1,28 @@
 {
   "iocs": {
+    "06webmeet.us": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-08T23:18:15Z",
+      "first_seen": "2026-10-08T22:06:30.763Z",
+      "hosts": [
+        "06webmeet.us"
+      ],
+      "ip": "104.21.87.145",
+      "key": "06webmeet.us",
+      "last_seen": "2026-10-08T22:06:30.763Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "status": "new",
+      "title": "Suspected Phishing | Cloudflare",
+      "urls": [
+        "https://06webmeet.us/exp/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a11d8d-33a9-74fd-b2f3-c0aea358f538"
+      ]
+    },
     "atikurbd.com": {
       "asn": "AS153528",
       "confidence": "medium",
@@ -195,6 +218,52 @@
         "01a115f9-9af0-716b-80f1-1d23df8a4168"
       ]
     },
+    "fdihub.com.ng": {
+      "asn": "AS329278",
+      "confidence": "medium",
+      "first_run": "2026-10-08T23:18:15Z",
+      "first_seen": "2026-10-08T21:36:32.196Z",
+      "hosts": [
+        "www.fdihub.com.ng"
+      ],
+      "ip": "102.212.246.90",
+      "key": "fdihub.com.ng",
+      "last_seen": "2026-10-08T21:36:32.196Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "status": "new",
+      "title": "403 Forbidden",
+      "urls": [
+        "https://www.fdihub.com.ng/file/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a11d72-2bdc-7089-95c0-1767c6ff407e"
+      ]
+    },
+    "floridabloghealth.us": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-08T23:18:15Z",
+      "first_seen": "2026-10-08T22:08:23.373Z",
+      "hosts": [
+        "floridabloghealth.us"
+      ],
+      "ip": "172.67.176.42",
+      "key": "floridabloghealth.us",
+      "last_seen": "2026-10-08T22:08:23.373Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "status": "new",
+      "title": "floridabloghealth.us | 522: Connection timed out",
+      "urls": [
+        "https://floridabloghealth.us/Update/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a11d8f-0a8a-7262-8dc3-da1da89dd70b"
+      ]
+    },
     "fourbrixsolar.com": {
       "asn": "AS26496",
       "confidence": "high",
@@ -346,7 +415,7 @@
       ],
       "ip": "2606:50c0:8003::153",
       "key": "jbreganfrf1.github.io",
-      "last_seen": "2026-10-04T19:09:43.666Z",
+      "last_seen": "2026-10-08T13:48:24.577Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -356,7 +425,8 @@
         "https://jbreganfrf1.github.io/bergangroupllc/"
       ],
       "uuids": [
-        "01a10852-5ad7-749b-bfde-9d3139c3ae74"
+        "01a10852-5ad7-749b-bfde-9d3139c3ae74",
+        "01a11bc5-986f-75a9-b40b-3dc69d54389e"
       ]
     },
     "karrasconsulting.net": {
@@ -485,7 +555,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "luxora.qpon",
-      "last_seen": "2026-10-07T05:33:28.672Z",
+      "last_seen": "2026-10-08T14:35:13.141Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -504,7 +574,8 @@
         "01a0f3b5-ef71-75ca-8635-5a0fa71ba98d",
         "01a0f4ff-6761-746c-8efe-fdd7e501490a",
         "01a10c1a-317c-740e-9a1a-38508ecee287",
-        "01a114da-16db-769b-b90e-ad1e8915d929"
+        "01a114da-16db-769b-b90e-ad1e8915d929",
+        "01a11bf0-5cf2-70f9-8bc8-67b219c24df9"
       ]
     },
     "lyonbuy.shop": {
@@ -755,7 +826,7 @@
       ],
       "ip": "104.18.50.34",
       "key": "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev",
-      "last_seen": "2026-09-30T14:37:54.885Z",
+      "last_seen": "2026-10-08T22:47:00.216Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -766,7 +837,8 @@
         "https://pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev/Adobe_installer.html"
       ],
       "uuids": [
-        "01a0f2c0-0d6a-74c5-910e-05eb1b905bf1"
+        "01a0f2c0-0d6a-74c5-910e-05eb1b905bf1",
+        "01a11db2-aec9-7555-92e9-8dc8df9f51d2"
       ]
     },
     "pub-def1757768e44ee4901749848f225c06.r2.dev": {
@@ -790,6 +862,28 @@
       ],
       "uuids": [
         "01a112bb-019b-711d-bf7b-2c8d6e22d375"
+      ]
+    },
+    "resultsfinderonline.com": {
+      "asn": "AS40034",
+      "confidence": "medium",
+      "first_run": "2026-10-08T23:18:15Z",
+      "first_seen": "2026-10-08T22:28:02.228Z",
+      "hosts": [
+        "resultsfinderonline.com"
+      ],
+      "ip": "199.191.50.11",
+      "key": "resultsfinderonline.com",
+      "last_seen": "2026-10-08T22:28:02.228Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "status": "new",
+      "urls": [
+        "https://resultsfinderonline.com/"
+      ],
+      "uuids": [
+        "01a11da0-eb87-73be-8844-25fc0bba78f8"
       ]
     },
     "strutsupportsystems.com": {
@@ -876,6 +970,29 @@
         "01a1007b-1676-71fd-bae9-5413487e3e4e"
       ]
     },
+    "tavix.vu": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-08T23:18:15Z",
+      "first_seen": "2026-10-08T19:45:31.602Z",
+      "hosts": [
+        "tavix.vu"
+      ],
+      "ip": "172.67.182.129",
+      "key": "tavix.vu",
+      "last_seen": "2026-10-08T19:45:31.602Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "status": "new",
+      "title": "Just a moment...",
+      "urls": [
+        "https://tavix.vu/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a11d0c-83a9-7695-8f23-c20d4e19c5e2"
+      ]
+    },
     "thamizhnadu.com": {
       "asn": "AS46606",
       "confidence": "low",
@@ -945,6 +1062,29 @@
         "01a0f5c9-a78f-72f4-940b-0a25fd6a5dc6",
         "01a0f4fa-eeb9-776c-a724-7b72120118ab",
         "01a0f8a0-899b-73a3-98fa-1482530eca5d"
+      ]
+    },
+    "twentytwentydigital.com": {
+      "asn": "AS54641",
+      "confidence": "medium",
+      "first_run": "2026-10-08T23:18:15Z",
+      "first_seen": "2026-10-08T13:36:10.879Z",
+      "hosts": [
+        "doc.twentytwentydigital.com"
+      ],
+      "ip": "168.235.116.67",
+      "key": "twentytwentydigital.com",
+      "last_seen": "2026-10-08T13:36:10.879Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://doc.twentytwentydigital.com/RFQ/index.php"
+      ],
+      "uuids": [
+        "01a11bba-0d02-753d-a297-19cbaf076c87"
       ]
     },
     "verfiynewdocument.icu": {
@@ -1062,6 +1202,29 @@
         "01a10ded-3baf-71aa-a1e7-d4bbbd3f0d15"
       ]
     },
+    "zentexa.com": {
+      "asn": "AS55293",
+      "confidence": "medium",
+      "first_run": "2026-10-08T23:18:15Z",
+      "first_seen": "2026-10-08T14:16:45.393Z",
+      "hosts": [
+        "zentexa.com"
+      ],
+      "ip": "68.66.226.89",
+      "key": "zentexa.com",
+      "last_seen": "2026-10-08T14:16:45.393Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://zentexa.com/acrobat/dc/"
+      ],
+      "uuids": [
+        "01a11bdf-36f3-75d0-bfa2-6afef75728b3"
+      ]
+    },
     "znbbmwq.com": {
       "asn": "AS31898",
       "confidence": "high",
@@ -1091,8 +1254,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-08T13:22:31Z",
-    "last_success": "2026-10-08T13:22:31Z",
-    "window_hours": 9
+    "last_run": "2026-10-08T23:18:15Z",
+    "last_success": "2026-10-08T23:18:15Z",
+    "window_hours": 11
   }
 }
