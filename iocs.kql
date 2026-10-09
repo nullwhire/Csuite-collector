@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-08T23:18:15Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-09T06:03:37Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 50 | ips: 0 | urls: 56
+// domains: 50 | ips: 0 | urls: 57
 let csuite_domains = dynamic([
     "06webmeet.us",
     "atikurbd.com",
@@ -112,5 +112,6 @@ let csuite_urls = dynamic([
     "https://www.taslimaenterprise.com/adobe/",
     "https://xureto.shop/xyz/Adobe_Installer.html",
     "https://yonataxi.at/ftx/gu6icp-1791235015-82d47349186b/",
+    "https://yonataxi.at/ftx/onf1ci-1791520434-0255a2978568/",
     "https://zentexa.com/acrobat/dc/"
 ]);

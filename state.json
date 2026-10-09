@@ -392,7 +392,7 @@
       ],
       "ip": "185.199.111.153",
       "key": "innovative-sub.github.io",
-      "last_seen": "2026-10-04T19:16:44.343Z",
+      "last_seen": "2026-10-09T05:55:02.462Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -402,7 +402,8 @@
         "https://innovative-sub.github.io/departmentprojection/"
       ],
       "uuids": [
-        "01a10858-c4b5-76d8-b2a5-934e4a634385"
+        "01a10858-c4b5-76d8-b2a5-934e4a634385",
+        "01a11f3a-94cb-74eb-b97e-404cad3b8c8d"
       ]
     },
     "jbreganfrf1.github.io": {
@@ -896,7 +897,7 @@
       ],
       "ip": "217.160.0.108",
       "key": "strutsupportsystems.com",
-      "last_seen": "2026-10-07T05:35:25.643Z",
+      "last_seen": "2026-10-09T04:57:13.187Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1189,17 +1190,19 @@
       ],
       "ip": "192.185.100.214",
       "key": "yonataxi.at",
-      "last_seen": "2026-10-05T21:17:04.894Z",
+      "last_seen": "2026-10-09T04:34:00.183Z",
       "queries": [
         "Q1c_icon"
       ],
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://yonataxi.at/ftx/gu6icp-1791235015-82d47349186b/"
+        "https://yonataxi.at/ftx/gu6icp-1791235015-82d47349186b/",
+        "https://yonataxi.at/ftx/onf1ci-1791520434-0255a2978568/"
       ],
       "uuids": [
-        "01a10ded-3baf-71aa-a1e7-d4bbbd3f0d15"
+        "01a10ded-3baf-71aa-a1e7-d4bbbd3f0d15",
+        "01a11ef0-617f-77dd-bef9-9d3b07e90165"
       ]
     },
     "zentexa.com": {
@@ -1254,8 +1257,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-08T23:18:15Z",
-    "last_success": "2026-10-08T23:18:15Z",
-    "window_hours": 11
+    "last_run": "2026-10-09T06:03:37Z",
+    "last_success": "2026-10-09T06:03:37Z",
+    "window_hours": 8
   }
 }
