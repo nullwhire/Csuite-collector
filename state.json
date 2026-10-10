@@ -23,6 +23,32 @@
         "01a11d8d-33a9-74fd-b2f3-c0aea358f538"
       ]
     },
+    "1yz.com": {
+      "asn": "AS16276",
+      "confidence": "high",
+      "first_run": "2026-10-10T05:46:23Z",
+      "first_seen": "2026-10-10T01:05:19.405Z",
+      "hosts": [
+        "1yz.com"
+      ],
+      "ip": "51.81.213.116",
+      "key": "1yz.com",
+      "last_seen": "2026-10-10T04:31:29.826Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://1yz.com/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a12414-586c-7447-99e7-87f73544202c",
+        "01a12357-b25f-747c-936a-64bd00cd0c6b",
+        "01a12357-ac85-72e5-b5b8-3ee083ae72d1"
+      ]
+    },
     "atikurbd.com": {
       "asn": "AS153528",
       "confidence": "medium",
@@ -1258,8 +1284,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-09T22:35:11Z",
-    "last_success": "2026-10-09T22:35:11Z",
-    "window_hours": 11
+    "last_run": "2026-10-10T05:46:23Z",
+    "last_success": "2026-10-10T05:46:23Z",
+    "window_hours": 9
   }
 }
