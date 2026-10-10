@@ -33,7 +33,7 @@
       ],
       "ip": "51.81.213.116",
       "key": "1yz.com",
-      "last_seen": "2026-10-10T04:31:29.826Z",
+      "last_seen": "2026-10-10T09:39:47.248Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -46,7 +46,54 @@
       "uuids": [
         "01a12414-586c-7447-99e7-87f73544202c",
         "01a12357-b25f-747c-936a-64bd00cd0c6b",
-        "01a12357-ac85-72e5-b5b8-3ee083ae72d1"
+        "01a12357-ac85-72e5-b5b8-3ee083ae72d1",
+        "01a1252e-ae2d-7084-82e3-a886a3c12e30"
+      ]
+    },
+    "adbacrbt-afk.github.io": {
+      "asn": "AS54113",
+      "confidence": "medium",
+      "first_run": "2026-10-10T12:25:38Z",
+      "first_seen": "2026-10-10T11:48:51.235Z",
+      "hosts": [
+        "adbacrbt-afk.github.io"
+      ],
+      "ip": "185.199.110.153",
+      "key": "adbacrbt-afk.github.io",
+      "last_seen": "2026-10-10T11:48:51.235Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://adbacrbt-afk.github.io/vsbcrbat/"
+      ],
+      "uuids": [
+        "01a125a4-dca5-704f-be6d-54976c6ec572"
+      ]
+    },
+    "adcoxlaw.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-10-10T12:25:38Z",
+      "first_seen": "2026-10-10T11:48:53.212Z",
+      "hosts": [
+        "adcoxlaw.com"
+      ],
+      "ip": "192.185.118.213",
+      "key": "adcoxlaw.com",
+      "last_seen": "2026-10-10T11:48:53.212Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://adcoxlaw.com/.cgi/"
+      ],
+      "uuids": [
+        "01a125a4-e02d-744d-ac64-39bc8fc0fc6f"
       ]
     },
     "atikurbd.com": {
@@ -142,6 +189,52 @@
         "01a0f78f-349b-74ad-bcd3-02992a5cbbde",
         "01a0f84e-86a1-768a-852f-f27edb1742e0",
         "01a0fdc5-0f17-73ec-8eed-07b4ecc14c36"
+      ]
+    },
+    "browardcountypdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-10T12:25:38Z",
+      "first_seen": "2026-10-10T08:30:10.141Z",
+      "hosts": [
+        "browardcountypdf-viewer.vercel.app"
+      ],
+      "ip": "216.198.79.67",
+      "key": "browardcountypdf-viewer.vercel.app",
+      "last_seen": "2026-10-10T08:30:10.141Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://browardcountypdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a124ee-f995-779b-baa3-b9b9da5a2366"
+      ]
+    },
+    "browardpdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-10T12:25:38Z",
+      "first_seen": "2026-10-10T08:31:13.567Z",
+      "hosts": [
+        "browardpdf-viewer.vercel.app"
+      ],
+      "ip": "216.198.79.67",
+      "key": "browardpdf-viewer.vercel.app",
+      "last_seen": "2026-10-10T08:31:13.567Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://browardpdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a124ef-e1e0-70bc-aaf5-78de3486a724"
       ]
     },
     "cvouab.com": {
@@ -486,6 +579,29 @@
         "01a10c96-c8fa-71be-881f-79c7aaacfd5f"
       ]
     },
+    "keithwishard24-coder.github.io": {
+      "asn": "AS54113",
+      "confidence": "medium",
+      "first_run": "2026-10-10T12:25:38Z",
+      "first_seen": "2026-10-10T11:27:39.879Z",
+      "hosts": [
+        "keithwishard24-coder.github.io"
+      ],
+      "ip": "2606:50c0:8001::153",
+      "key": "keithwishard24-coder.github.io",
+      "last_seen": "2026-10-10T11:27:39.879Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://keithwishard24-coder.github.io/adobe_reader/"
+      ],
+      "uuids": [
+        "01a12591-4f91-74ce-ae47-f8df005526c0"
+      ]
+    },
     "kwestventures.com": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -653,6 +769,29 @@
         "01a10c89-9187-70e9-9085-5a25f85c0bb0"
       ]
     },
+    "mx-flow.de": {
+      "asn": "AS51167",
+      "confidence": "medium",
+      "first_run": "2026-10-10T12:25:38Z",
+      "first_seen": "2026-10-10T10:18:04.262Z",
+      "hosts": [
+        "mx-flow.de"
+      ],
+      "ip": "213.136.93.167",
+      "key": "mx-flow.de",
+      "last_seen": "2026-10-10T10:18:04.262Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://mx-flow.de/help/wollinkaa/WollinkaWollinkaAttorneys.html"
+      ],
+      "uuids": [
+        "01a12551-c3fe-710d-a4dd-c52a8d98177d"
+      ]
+    },
     "nilehost.cloud": {
       "asn": "AS31898",
       "confidence": "high",
@@ -693,7 +832,7 @@
       ],
       "ip": "64.29.17.195",
       "key": "pdf-viewer-five-virid.vercel.app",
-      "last_seen": "2026-10-09T11:58:24.444Z",
+      "last_seen": "2026-10-10T11:56:43.982Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -748,7 +887,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-04T01:26:08.818Z",
+      "last_seen": "2026-10-10T11:43:05.854Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -759,7 +898,8 @@
         "https://peputragroup.com/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a10484-9690-757e-bf5c-fad71d3c26d8"
+        "01a10484-9690-757e-bf5c-fad71d3c26d8",
+        "01a1259f-5ba1-77f7-9223-b2c589602b9d"
       ]
     },
     "piedrasdecolon.com.ar": {
@@ -803,7 +943,7 @@
       ],
       "ip": "209.222.98.213",
       "key": "pokeventas.com",
-      "last_seen": "2026-10-06T01:01:03.761Z",
+      "last_seen": "2026-10-10T12:18:49.211Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -814,7 +954,8 @@
       ],
       "uuids": [
         "01a10eba-592f-76de-ba91-8a7cd835fef8",
-        "01a10eba-55f2-76e5-a6f2-b0c30353bf1f"
+        "01a10eba-55f2-76e5-a6f2-b0c30353bf1f",
+        "01a125c0-40fd-70a8-9cd9-42bd6dc8f626"
       ]
     },
     "ptai.in": {
@@ -1284,8 +1425,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-10T05:46:23Z",
-    "last_success": "2026-10-10T05:46:23Z",
-    "window_hours": 9
+    "last_run": "2026-10-10T12:25:38Z",
+    "last_success": "2026-10-10T12:25:38Z",
+    "window_hours": 8
   }
 }
