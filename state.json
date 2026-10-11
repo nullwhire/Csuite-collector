@@ -109,7 +109,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "adobeinstaller-virid.vercel.app",
-      "last_seen": "2026-10-11T04:31:09.946Z",
+      "last_seen": "2026-10-11T16:31:09.320Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -122,7 +122,9 @@
         "01a1273e-5404-7789-8317-0be63da8daee",
         "01a12738-449c-771b-871f-0fbce8ca386a",
         "01a1293a-6cab-7528-86cc-64903677d93c",
-        "01a12879-fe85-765b-9e4d-f17fe5a3ef76"
+        "01a12879-fe85-765b-9e4d-f17fe5a3ef76",
+        "01a12bcd-99e9-7038-a7c9-7ad2101c52ab",
+        "01a12b0e-3d6f-73bd-8ab5-47714fb85f63"
       ]
     },
     "atikurbd.com": {
@@ -596,7 +598,7 @@
     },
     "hart.inf.br": {
       "asn": "AS47583",
-      "confidence": "medium",
+      "confidence": "high",
       "first_run": "2026-10-11T12:43:26Z",
       "first_seen": "2026-10-11T11:15:57.506Z",
       "hosts": [
@@ -604,9 +606,10 @@
       ],
       "ip": "109.106.250.212",
       "key": "hart.inf.br",
-      "last_seen": "2026-10-11T11:15:57.506Z",
+      "last_seen": "2026-10-11T21:50:06.244Z",
       "queries": [
-        "Q3a_adobe_html"
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
       ],
       "status": "new",
       "title": "PDF Viewer",
@@ -614,7 +617,31 @@
         "https://hart.inf.br/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a12aac-fa55-7306-b636-2c200c8050f5"
+        "01a12aac-fa55-7306-b636-2c200c8050f5",
+        "01a12cf1-aacd-705f-8e55-ee2cdad78766"
+      ]
+    },
+    "healthflpdf-viewer-nine.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-11T21:54:08Z",
+      "first_seen": "2026-10-11T21:50:17.368Z",
+      "hosts": [
+        "healthflpdf-viewer-nine.vercel.app"
+      ],
+      "ip": "216.198.79.131",
+      "key": "healthflpdf-viewer-nine.vercel.app",
+      "last_seen": "2026-10-11T21:50:17.368Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://healthflpdf-viewer-nine.vercel.app/"
+      ],
+      "uuids": [
+        "01a12cf1-df1a-71ce-b751-a6ebc3230677"
       ]
     },
     "hotelvaldecans.com.br": {
@@ -1616,8 +1643,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-11T12:43:26Z",
-    "last_success": "2026-10-11T12:43:26Z",
-    "window_hours": 9
+    "last_run": "2026-10-11T21:54:08Z",
+    "last_success": "2026-10-11T21:54:08Z",
+    "window_hours": 11
   }
 }
