@@ -1,0 +1,23 @@
+let lookback = 1h;   // scheduled rule: 1h. Retro-hunt: 30d
+let csuite_hosts = externaldata(
+        ioc_key: string, ioc_status: string, ioc_confidence: string, ioc_queries: string,
+        first_seen: string, last_seen: string, ip: string, asn: string,
+        title: string, hosts: string, urls: string, uuids: string
+    )
+    [@"https://raw.githubusercontent.com/nullwhire/Csuite-collector/refs/heads/main/iocs.csv"]
+    with (format="csv", ignoreFirstRecord=true)
+    | where ioc_status != "false_positive"
+    // | where ioc_confidence in ("high", "medium")   // uncomment to drop the low tier
+    | mv-expand Host = split(tolower(hosts), " | ") to typeof(string)
+    | extend Host = trim(@"\s+", Host)
+    | where isnotempty(Host)
+    | project Host, IocKey = ioc_key, Confidence = ioc_confidence, Queries = ioc_queries
+    | distinct Host, IocKey, Confidence, Queries;
+DeviceNetworkEvents
+| where Timestamp > ago(lookback)
+| extend DnsQuery = trim_end(@"\.", tolower(iif(ActionType == "DnsConnectionInspected", tostring(parse_json(AdditionalFields).query), "")))
+| extend UrlHost = tolower(tostring(parse_url(iff(RemoteUrl has "://", RemoteUrl, strcat("http://", RemoteUrl))).Host))
+| extend Host = iff(isnotempty(UrlHost), UrlHost, DnsQuery)
+| lookup kind=inner (csuite_hosts) on Host
+| project Timestamp, ReportId, DeviceId, DeviceName, ActionType, Host, RemoteUrl, RemoteIP, InitiatingProcessFileName, InitiatingProcessAccountName, IocKey, Confidence, Queries
+| order by Timestamp desc
