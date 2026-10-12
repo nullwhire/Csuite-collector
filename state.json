@@ -33,7 +33,7 @@
       ],
       "ip": "51.81.213.116",
       "key": "1yz.com",
-      "last_seen": "2026-10-10T18:39:01.258Z",
+      "last_seen": "2026-10-12T10:35:03.785Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -50,7 +50,8 @@
         "01a12357-ac85-72e5-b5b8-3ee083ae72d1",
         "01a1252e-ae2d-7084-82e3-a886a3c12e30",
         "01a1271c-5cca-7049-b730-6bb7b5877020",
-        "01a12618-a3f3-752a-98a9-991bae50d015"
+        "01a12618-a3f3-752a-98a9-991bae50d015",
+        "01a12fad-ffb3-753d-ae7a-9d6822dff5d8"
       ]
     },
     "adbacrbt-afk.github.io": {
@@ -109,7 +110,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "adobeinstaller-virid.vercel.app",
-      "last_seen": "2026-10-11T16:31:09.320Z",
+      "last_seen": "2026-10-12T07:13:46.467Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -124,7 +125,8 @@
         "01a1293a-6cab-7528-86cc-64903677d93c",
         "01a12879-fe85-765b-9e4d-f17fe5a3ef76",
         "01a12bcd-99e9-7038-a7c9-7ad2101c52ab",
-        "01a12b0e-3d6f-73bd-8ab5-47714fb85f63"
+        "01a12b0e-3d6f-73bd-8ab5-47714fb85f63",
+        "01a12ef5-bf74-764d-b7c8-af88914ae5cc"
       ]
     },
     "atikurbd.com": {
@@ -1215,7 +1217,7 @@
       ],
       "ip": "104.18.54.45",
       "key": "pub-def1757768e44ee4901749848f225c06.r2.dev",
-      "last_seen": "2026-10-06T19:40:43.188Z",
+      "last_seen": "2026-10-12T12:50:48.570Z",
       "queries": [
         "Q3a_adobe_html"
       ],
@@ -1225,7 +1227,9 @@
         "https://pub-def1757768e44ee4901749848f225c06.r2.dev/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a112bb-019b-711d-bf7b-2c8d6e22d375"
+        "01a112bb-019b-711d-bf7b-2c8d6e22d375",
+        "01a13029-e11c-7268-a3b9-0e2f2a897232",
+        "01a12fcf-ef12-749d-b2ed-e5784f64ee01"
       ]
     },
     "resultsfinderonline.com": {
@@ -1644,8 +1648,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-12T05:50:49Z",
-    "last_success": "2026-10-12T05:50:49Z",
-    "window_hours": 9
+    "last_run": "2026-10-12T15:15:28Z",
+    "last_success": "2026-10-12T15:15:28Z",
+    "window_hours": 11
   }
 }
