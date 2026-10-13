@@ -1,13 +1,14 @@
-// CSuite candidate IOCs, generated 2026-10-13T00:35:45Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-13T14:06:10Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 65 | ips: 0 | urls: 73
+// domains: 66 | ips: 0 | urls: 75
 let csuite_domains = dynamic([
     "06webmeet.us",
     "1yz.com",
     "adbacrbt-afk.github.io",
     "adcoxlaw.com",
     "adobeinstaller-virid.vercel.app",
+    "aligra.net",
     "atikurbd.com",
     "audtfnaurth.com.es",
     "blackprimehouse.com.br",
@@ -69,7 +70,7 @@ let csuite_domains = dynamic([
     "zentexa.com",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(06webmeet\.us|1yz\.com|adbacrbt\-afk\.github\.io|adcoxlaw\.com|adobeinstaller\-virid\.vercel\.app|atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|browardcountypdf\-viewer\.vercel\.app|browardpdf\-viewer\.vercel\.app|clementspools\.github\.io|cvouab\.com|dndair\.com|docvyrview\.de|eporaimoveisefacilities\.com\.br|fdihub\.com\.ng|fllicensehealthpdf\-viewer\.vercel\.app|floridabloghealth\.us|fourbrixsolar\.com|geotehnica\.com|gidsux\.cc|groundview\.pt|gudwa\.com|hart\.inf\.br|healthflpdf\-viewer\-nine\.vercel\.app|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|keithwishard24\-coder\.github\.io|kwestventures\.com|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|mx\-flow\.de|nilehost\.cloud|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|prsnrw\.de|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|resultsfinderonline\.com|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|tavix\.vu|thamizhnadu\.com|thesocialnexus\.co\.za|thiswoodeno\.com|twentytwentydigital\.com|verfiynewdocument\.icu|whisperingjessie\.com|workers\.dev|wrproducoes\.com\.br|xureto\.shop|yonataxi\.at|zentexa\.com|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(06webmeet\.us|1yz\.com|adbacrbt\-afk\.github\.io|adcoxlaw\.com|adobeinstaller\-virid\.vercel\.app|aligra\.net|atikurbd\.com|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|browardcountypdf\-viewer\.vercel\.app|browardpdf\-viewer\.vercel\.app|clementspools\.github\.io|cvouab\.com|dndair\.com|docvyrview\.de|eporaimoveisefacilities\.com\.br|fdihub\.com\.ng|fllicensehealthpdf\-viewer\.vercel\.app|floridabloghealth\.us|fourbrixsolar\.com|geotehnica\.com|gidsux\.cc|groundview\.pt|gudwa\.com|hart\.inf\.br|healthflpdf\-viewer\-nine\.vercel\.app|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|keithwishard24\-coder\.github\.io|kwestventures\.com|laboratoires\-azbane\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|mx\-flow\.de|nilehost\.cloud|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|prsnrw\.de|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|resultsfinderonline\.com|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|tavix\.vu|thamizhnadu\.com|thesocialnexus\.co\.za|thiswoodeno\.com|twentytwentydigital\.com|verfiynewdocument\.icu|whisperingjessie\.com|workers\.dev|wrproducoes\.com\.br|xureto\.shop|yonataxi\.at|zentexa\.com|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "http://eporaimoveisefacilities.com.br/ftx/o9573e-1791370045-7c07aa763e61/",
@@ -80,6 +81,7 @@ let csuite_urls = dynamic([
     "https://adbacrbt-afk.github.io/vsbcrbat/",
     "https://adcoxlaw.com/.cgi/",
     "https://adobeinstaller-virid.vercel.app/",
+    "https://aligra.net/cg/",
     "https://atikurbd.com/pdfreader/update/",
     "https://audtfnaurth.com.es/8nde11/adobe-reader",
     "https://boxercourier.com/en/",
@@ -137,6 +139,7 @@ let csuite_urls = dynamic([
     "https://verfiynewdocument.icu/Adobe_Installer.html",
     "https://vr.znbbmwq.com/inv/Adobe_Installer.html",
     "https://whisperingjessie.com/ftx/om8ed4-1790761233-641f025b68d2/",
+    "https://www.aligra.net/cg/",
     "https://www.blackprimehouse.com.br/works39330/adoreader.html",
     "https://www.fdihub.com.ng/file/Adobe_Installer.html",
     "https://www.taslimaenterprise.com/adobe/",

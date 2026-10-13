@@ -33,7 +33,7 @@
       ],
       "ip": "51.81.213.116",
       "key": "1yz.com",
-      "last_seen": "2026-10-12T17:53:09.187Z",
+      "last_seen": "2026-10-13T00:50:15.333Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -52,7 +52,8 @@
         "01a1271c-5cca-7049-b730-6bb7b5877020",
         "01a12618-a3f3-752a-98a9-991bae50d015",
         "01a12fad-ffb3-753d-ae7a-9d6822dff5d8",
-        "01a1313f-192e-70ef-9b81-a6a8a4a0f32b"
+        "01a1313f-192e-70ef-9b81-a6a8a4a0f32b",
+        "01a132bc-d210-768f-874e-17aa7038ac32"
       ]
     },
     "adbacrbt-afk.github.io": {
@@ -111,7 +112,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "adobeinstaller-virid.vercel.app",
-      "last_seen": "2026-10-12T23:05:21.784Z",
+      "last_seen": "2026-10-13T04:56:16.413Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -131,6 +132,33 @@
         "01a1325c-e7b3-7725-b4af-4fbb6a5da656",
         "01a13164-9e5c-730e-aaf1-347f59390d0c",
         "01a13164-29cd-764d-9c7c-92823e2612ef"
+      ]
+    },
+    "aligra.net": {
+      "asn": "AS398101",
+      "confidence": "medium",
+      "first_run": "2026-10-13T14:06:10Z",
+      "first_seen": "2026-10-13T01:02:57.419Z",
+      "hosts": [
+        "www.aligra.net",
+        "aligra.net"
+      ],
+      "ip": "208.109.33.211",
+      "key": "aligra.net",
+      "last_seen": "2026-10-13T04:30:57.164Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://www.aligra.net/cg/",
+        "https://aligra.net/cg/"
+      ],
+      "uuids": [
+        "01a13387-0a20-742c-adc6-5e81d12704c2",
+        "01a1335d-715e-74b4-a4ac-0708cebfbd0c",
+        "01a132c7-ca72-7537-a91d-c133d8d1eb04"
       ]
     },
     "atikurbd.com": {
@@ -616,7 +644,7 @@
       ],
       "ip": "109.106.250.212",
       "key": "hart.inf.br",
-      "last_seen": "2026-10-11T21:50:06.244Z",
+      "last_seen": "2026-10-13T06:37:11.068Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -628,7 +656,8 @@
       ],
       "uuids": [
         "01a12aac-fa55-7306-b636-2c200c8050f5",
-        "01a12cf1-aacd-705f-8e55-ee2cdad78766"
+        "01a12cf1-aacd-705f-8e55-ee2cdad78766",
+        "01a133fa-956c-76aa-a010-5558efc90d33"
       ]
     },
     "healthflpdf-viewer-nine.vercel.app": {
@@ -1612,7 +1641,7 @@
       ],
       "ip": "68.66.226.89",
       "key": "zentexa.com",
-      "last_seen": "2026-10-11T01:01:46.699Z",
+      "last_seen": "2026-10-13T01:56:20.869Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1623,7 +1652,8 @@
       ],
       "uuids": [
         "01a11bdf-36f3-75d0-bfa2-6afef75728b3",
-        "01a1287a-c4d2-7738-8a23-a340a882712d"
+        "01a1287a-c4d2-7738-8a23-a340a882712d",
+        "01a132f9-7969-7651-89d3-32bd8bda5113"
       ]
     },
     "znbbmwq.com": {
@@ -1656,8 +1686,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-13T00:35:45Z",
-    "last_success": "2026-10-13T00:35:45Z",
-    "window_hours": 11
+    "last_run": "2026-10-13T14:06:10Z",
+    "last_success": "2026-10-13T14:06:10Z",
+    "window_hours": 15
   }
 }
