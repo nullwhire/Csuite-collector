@@ -33,7 +33,7 @@
       ],
       "ip": "51.81.213.116",
       "key": "1yz.com",
-      "last_seen": "2026-10-12T10:35:03.785Z",
+      "last_seen": "2026-10-12T17:53:09.187Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -51,7 +51,8 @@
         "01a1252e-ae2d-7084-82e3-a886a3c12e30",
         "01a1271c-5cca-7049-b730-6bb7b5877020",
         "01a12618-a3f3-752a-98a9-991bae50d015",
-        "01a12fad-ffb3-753d-ae7a-9d6822dff5d8"
+        "01a12fad-ffb3-753d-ae7a-9d6822dff5d8",
+        "01a1313f-192e-70ef-9b81-a6a8a4a0f32b"
       ]
     },
     "adbacrbt-afk.github.io": {
@@ -110,7 +111,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "adobeinstaller-virid.vercel.app",
-      "last_seen": "2026-10-12T07:13:46.467Z",
+      "last_seen": "2026-10-12T23:05:21.784Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -126,7 +127,10 @@
         "01a12879-fe85-765b-9e4d-f17fe5a3ef76",
         "01a12bcd-99e9-7038-a7c9-7ad2101c52ab",
         "01a12b0e-3d6f-73bd-8ab5-47714fb85f63",
-        "01a12ef5-bf74-764d-b7c8-af88914ae5cc"
+        "01a12ef5-bf74-764d-b7c8-af88914ae5cc",
+        "01a1325c-e7b3-7725-b4af-4fbb6a5da656",
+        "01a13164-9e5c-730e-aaf1-347f59390d0c",
+        "01a13164-29cd-764d-9c7c-92823e2612ef"
       ]
     },
     "atikurbd.com": {
@@ -234,7 +238,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardcountypdf-viewer.vercel.app",
-      "last_seen": "2026-10-11T04:47:56.216Z",
+      "last_seen": "2026-10-12T23:38:46.485Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -249,7 +253,8 @@
         "01a12629-aea7-709b-b37c-fbda72e0caf5",
         "01a125e6-d0b1-76ca-a810-2c13c84ed47b",
         "01a12949-de5e-708f-af17-07fdc973aa8e",
-        "01a1287d-553a-72a5-a252-a3f3a95cb8df"
+        "01a1287d-553a-72a5-a252-a3f3a95cb8df",
+        "01a1327b-7cd2-762a-a5d0-2ee221260c03"
       ]
     },
     "browardpdf-viewer.vercel.app": {
@@ -262,7 +267,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardpdf-viewer.vercel.app",
-      "last_seen": "2026-10-11T04:47:57.146Z",
+      "last_seen": "2026-10-12T21:59:07.435Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -277,7 +282,8 @@
         "01a12626-f1f9-75ec-ac27-ac1fb89faf53",
         "01a125e6-c912-703d-9ad7-8e665e36e8f7",
         "01a12949-e135-7579-8ff1-a465751b2d42",
-        "01a1287d-5eb6-71b9-8b13-edd38a046af1"
+        "01a1287d-5eb6-71b9-8b13-edd38a046af1",
+        "01a13220-4d22-707f-acf0-8d1b2950d7fa"
       ]
     },
     "clementspools.github.io": {
@@ -439,7 +445,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "fllicensehealthpdf-viewer.vercel.app",
-      "last_seen": "2026-10-11T11:20:26.813Z",
+      "last_seen": "2026-10-12T15:42:07.145Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -454,7 +460,8 @@
         "01a1293a-69aa-72f8-8500-271df0a040de",
         "01a12879-b6aa-70fb-aa4d-4c1059199155",
         "01a12879-99fc-7258-89d6-0f73f33d7cdc",
-        "01a12ab1-3c62-70ad-89f3-8a41e12fce65"
+        "01a12ab1-3c62-70ad-89f3-8a41e12fce65",
+        "01a130c7-199f-72df-afe1-a7ba01f54e35"
       ]
     },
     "floridabloghealth.us": {
@@ -1085,7 +1092,7 @@
       ],
       "ip": "167.250.5.47",
       "key": "piedrasdecolon.com.ar",
-      "last_seen": "2026-10-07T14:04:38.634Z",
+      "last_seen": "2026-10-13T00:10:12.537Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -1103,7 +1110,8 @@
         "01a0fcb4-138f-74b6-a94a-c8b2b8044486",
         "01a0ff7b-0cdf-73a9-aef9-172cb9785b8d",
         "01a1046b-9cab-7025-88fe-2748ec99bbb4",
-        "01a116ae-0417-7058-a249-5f4d86011357"
+        "01a116ae-0417-7058-a249-5f4d86011357",
+        "01a13298-4f47-72f8-92b1-63f308cb51c8"
       ]
     },
     "pokeventas.com": {
@@ -1648,8 +1656,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-12T15:15:28Z",
-    "last_success": "2026-10-12T15:15:28Z",
+    "last_run": "2026-10-13T00:35:45Z",
+    "last_success": "2026-10-13T00:35:45Z",
     "window_hours": 11
   }
 }
