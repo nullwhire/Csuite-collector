@@ -1097,7 +1097,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "pdfinstalls-2.vercel.app",
-      "last_seen": "2026-10-11T10:32:35.179Z",
+      "last_seen": "2026-10-15T03:59:05.060Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1109,7 +1109,8 @@
       "uuids": [
         "01a1047e-b102-7426-855c-b06e95cf90f5",
         "01a1278f-b941-712a-9fa2-4c69491cb74b",
-        "01a12a85-6564-7059-9384-5888237a7af2"
+        "01a12a85-6564-7059-9384-5888237a7af2",
+        "01a13db6-965d-74f9-9390-3ca74e523b49"
       ]
     },
     "peputragroup.com": {
@@ -1147,7 +1148,7 @@
       ],
       "ip": "167.250.5.47",
       "key": "piedrasdecolon.com.ar",
-      "last_seen": "2026-10-13T00:10:12.537Z",
+      "last_seen": "2026-10-15T02:30:39.458Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -1327,7 +1328,7 @@
       ],
       "ip": "217.160.0.108",
       "key": "strutsupportsystems.com",
-      "last_seen": "2026-10-09T04:57:13.187Z",
+      "last_seen": "2026-10-15T02:18:59.565Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1735,8 +1736,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-14T21:37:55Z",
-    "last_success": "2026-10-14T21:37:55Z",
-    "window_hours": 6
+    "last_run": "2026-10-15T04:32:05Z",
+    "last_success": "2026-10-15T04:32:05Z",
+    "window_hours": 8
   }
 }
