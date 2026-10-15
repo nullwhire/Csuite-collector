@@ -514,6 +514,35 @@
         "01a0f376-f519-7119-9624-2429be97ea39"
       ]
     },
+    "docsewallet.com": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-10-15T21:19:14Z",
+      "first_seen": "2026-10-15T17:12:41.963Z",
+      "hosts": [
+        "docsewallet.com"
+      ],
+      "ip": "66.116.209.139",
+      "key": "docsewallet.com",
+      "last_seen": "2026-10-15T20:33:47.850Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://docsewallet.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a14145-3f9c-76ac-874d-50f57417e9c9",
+        "01a140bc-eb57-74ee-b45b-d48b67bed57a",
+        "01a140b7-e1be-714f-8824-1df360f032e8",
+        "01a140b6-807f-733b-a78c-d6482f9bbc7d",
+        "01a140b3-bac6-71f1-b9e2-a905e170b3a1",
+        "01a1408d-24e6-736d-a837-f24225804f2a"
+      ]
+    },
     "docvyrview.de": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -616,7 +645,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "fllicensehealthpdf-viewer.vercel.app",
-      "last_seen": "2026-10-15T15:10:26.540Z",
+      "last_seen": "2026-10-15T18:01:00.093Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -730,6 +759,30 @@
       ],
       "uuids": [
         "01a116be-152e-7070-b3c2-9c354a15766c"
+      ]
+    },
+    "googleapis.com": {
+      "asn": "AS396982",
+      "confidence": "medium",
+      "first_run": "2026-10-15T21:19:14Z",
+      "first_seen": "2026-10-15T20:01:50.101Z",
+      "hosts": [
+        "storage.googleapis.com"
+      ],
+      "ip": "2600:1901:4023:1b00::",
+      "key": "googleapis.com",
+      "last_seen": "2026-10-15T20:03:22.217Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://storage.googleapis.com/new-inv-doc/Installer_Adobe.html"
+      ],
+      "uuids": [
+        "01a14129-689c-76a7-8d48-381790f749b2",
+        "01a14128-03f1-710f-afa6-a43305454578"
       ]
     },
     "groundview.pt": {
@@ -1624,7 +1677,7 @@
       ],
       "ip": "62.182.23.110",
       "key": "thegouldings.co.uk",
-      "last_seen": "2026-10-15T15:09:59.616Z",
+      "last_seen": "2026-10-15T17:59:48.918Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1635,7 +1688,8 @@
       ],
       "uuids": [
         "01a13b9b-e3ba-76cd-86b8-7ad5e98b4ab9",
-        "01a1401c-d1f9-719e-9dec-c535aad31d94"
+        "01a1401c-d1f9-719e-9dec-c535aad31d94",
+        "01a140b8-4d9c-72ca-af38-63a506c46226"
       ]
     },
     "thesocialnexus.co.za": {
@@ -1903,8 +1957,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-15T16:55:58Z",
-    "last_success": "2026-10-15T16:55:58Z",
-    "window_hours": 7
+    "last_run": "2026-10-15T21:19:14Z",
+    "last_success": "2026-10-15T21:19:14Z",
+    "window_hours": 6
   }
 }
