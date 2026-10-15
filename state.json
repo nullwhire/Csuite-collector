@@ -103,6 +103,29 @@
         "01a125a4-e02d-744d-ac64-39bc8fc0fc6f"
       ]
     },
+    "adiosalosmosquitos.com": {
+      "asn": "AS24940",
+      "confidence": "low",
+      "first_run": "2026-10-15T16:55:58Z",
+      "first_seen": "2026-10-15T15:30:24.061Z",
+      "hosts": [
+        "adiosalosmosquitos.com"
+      ],
+      "ip": "213.239.206.158",
+      "key": "adiosalosmosquitos.com",
+      "last_seen": "2026-10-15T15:30:24.061Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://adiosalosmosquitos.com/ftx/hbt9xv-1792078220-75b6fae79e23/"
+      ],
+      "uuids": [
+        "01a1402f-754f-7676-90ed-7d486ec416d4"
+      ]
+    },
     "adobeinstaller-virid.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -133,6 +156,53 @@
         "01a1325c-e7b3-7725-b4af-4fbb6a5da656",
         "01a13164-9e5c-730e-aaf1-347f59390d0c",
         "01a13164-29cd-764d-9c7c-92823e2612ef"
+      ]
+    },
+    "adobesdocs.sbs": {
+      "asn": "AS150303",
+      "confidence": "medium",
+      "first_run": "2026-10-15T16:55:58Z",
+      "first_seen": "2026-10-15T11:29:53.062Z",
+      "hosts": [
+        "adobesdocs.sbs"
+      ],
+      "ip": "103.215.75.124",
+      "key": "adobesdocs.sbs",
+      "last_seen": "2026-10-15T11:29:53.062Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://adobesdocs.sbs/"
+      ],
+      "uuids": [
+        "01a13f53-4b63-7159-9137-9e7bea9d3cb4"
+      ]
+    },
+    "advanceddatapro.com": {
+      "asn": "AS36454",
+      "confidence": "high",
+      "first_run": "2026-10-15T16:55:58Z",
+      "first_seen": "2026-10-15T14:42:47.225Z",
+      "hosts": [
+        "advanceddatapro.com"
+      ],
+      "ip": "65.181.124.235",
+      "key": "advanceddatapro.com",
+      "last_seen": "2026-10-15T14:42:47.225Z",
+      "queries": [
+        "Q1a_edocusign",
+        "Q1c_icon"
+      ],
+      "status": "new",
+      "title": "Strategic Partnership Proposal",
+      "urls": [
+        "https://advanceddatapro.com/DocuSign/eDocusign.php"
+      ],
+      "uuids": [
+        "01a14003-e7c2-747e-acb9-56f3a24b6c42"
       ]
     },
     "aligra.net": {
@@ -287,6 +357,29 @@
         "01a13f33-d893-75eb-bf4b-3c8fb572d36d"
       ]
     },
+    "browardcourtpdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-15T16:55:58Z",
+      "first_seen": "2026-10-15T15:41:56.088Z",
+      "hosts": [
+        "browardcourtpdf-viewer.vercel.app"
+      ],
+      "ip": "216.198.79.67",
+      "key": "browardcourtpdf-viewer.vercel.app",
+      "last_seen": "2026-10-15T15:41:56.088Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://browardcourtpdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a1403a-0943-76a1-9b52-aa53e49b7cd6"
+      ]
+    },
     "browardpdf-viewer.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -374,6 +467,29 @@
         "01a12a11-9b88-7434-b8f8-b84e5cb22395"
       ]
     },
+    "dicksine.info": {
+      "asn": "AS53667",
+      "confidence": "medium",
+      "first_run": "2026-10-15T16:55:58Z",
+      "first_seen": "2026-10-15T13:12:21.511Z",
+      "hosts": [
+        "cdn.dicksine.info"
+      ],
+      "ip": "198.251.84.236",
+      "key": "dicksine.info",
+      "last_seen": "2026-10-15T13:12:21.511Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://cdn.dicksine.info/vault/"
+      ],
+      "uuids": [
+        "01a13fb0-e606-776b-8413-240383f45a36"
+      ]
+    },
     "dndair.com": {
       "asn": "AS46606",
       "confidence": "medium",
@@ -419,6 +535,29 @@
       ],
       "uuids": [
         "01a0fb87-ecd7-704b-a5a5-b0cea48a3cef"
+      ]
+    },
+    "duvic.vu": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-15T16:55:58Z",
+      "first_seen": "2026-10-15T16:03:01.162Z",
+      "hosts": [
+        "check.duvic.vu"
+      ],
+      "ip": "188.114.97.3",
+      "key": "duvic.vu",
+      "last_seen": "2026-10-15T16:03:01.162Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "status": "new",
+      "title": "Suspected Phishing | Cloudflare",
+      "urls": [
+        "https://check.duvic.vu/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1404c-d770-7296-a15a-54dd187f4754"
       ]
     },
     "eporaimoveisefacilities.com.br": {
@@ -477,7 +616,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "fllicensehealthpdf-viewer.vercel.app",
-      "last_seen": "2026-10-14T08:07:58.494Z",
+      "last_seen": "2026-10-15T15:10:26.540Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -494,7 +633,9 @@
         "01a12879-99fc-7258-89d6-0f73f33d7cdc",
         "01a12ab1-3c62-70ad-89f3-8a41e12fce65",
         "01a130c7-199f-72df-afe1-a7ba01f54e35",
-        "01a13974-1a29-709f-ba1f-2d5b75dabf68"
+        "01a13974-1a29-709f-ba1f-2d5b75dabf68",
+        "01a1401d-3dfe-72a8-8b17-c600f13f7191",
+        "01a1401d-2eaa-72d6-8e0f-f9f4037642c7"
       ]
     },
     "floridabloghealth.us": {
@@ -1483,7 +1624,7 @@
       ],
       "ip": "62.182.23.110",
       "key": "thegouldings.co.uk",
-      "last_seen": "2026-10-14T18:10:43.277Z",
+      "last_seen": "2026-10-15T15:09:59.616Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1493,7 +1634,8 @@
         "https://thegouldings.co.uk/m/"
       ],
       "uuids": [
-        "01a13b9b-e3ba-76cd-86b8-7ad5e98b4ab9"
+        "01a13b9b-e3ba-76cd-86b8-7ad5e98b4ab9",
+        "01a1401c-d1f9-719e-9dec-c535aad31d94"
       ]
     },
     "thesocialnexus.co.za": {
@@ -1761,8 +1903,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-15T11:22:27Z",
-    "last_success": "2026-10-15T11:22:27Z",
-    "window_hours": 8
+    "last_run": "2026-10-15T16:55:58Z",
+    "last_success": "2026-10-15T16:55:58Z",
+    "window_hours": 7
   }
 }
