@@ -27,7 +27,13 @@ lists ready to use in KQL (Microsoft Defender / Sentinel).
    * the full hostname for shared hosting where the subdomain identifies the tenant
      (`vercel.app`, `r2.dev`, `github.io`, `amazonaws.com`, `pages.dev`, `netlify.app`,
      `office-on-the.net`; edit `SHARED_HOSTING` in `collect.py`);
-   * the IP itself when the host is an IP address.
+   * the IP itself when the host is an IP address;
+   * `host/first-path-segment` for shared platforms where the hostname is the same for
+     everyone and the tenant is in the path (`storage.googleapis.com/<bucket>`, path-style
+     S3, Google Docs and Drive, Dropbox, GitHub; see `PATH_TENANT_HOSTS`). These are
+     tracked at URL level only: the platform host never goes into `domains.txt`,
+     `iocs.kql` or the `hosts` column of `iocs.csv`, because flagging it would flag all
+     legitimate traffic to the platform.
 5. Each record gets a confidence level, and the state and exports are written back to
    the repository by the workflow.
 6. If any query fails, the time window does **not** advance, so the next run covers the
@@ -42,13 +48,14 @@ lists ready to use in KQL (Microsoft Defender / Sentinel).
 | Q1c | `filename:"Icon-pdf-file-svg.png"` | Shared icon. Broad: also matches pages with other URL patterns (`/ftx/...`, `/dsb/...`) that may be a different family |
 | Q2 | `page.title:"Secure Document Verification" AND filename:"yes.html"` | First-stage Turnstile gate page |
 | Q3a | `filename:"Adobe_Installer.html"` | Adobe-themed lure |
+| Q3c | `filename:"Installer_Adobe.html"` | Same Adobe lure with the words swapped (seen on a storage bucket and confirmed by ANY.RUN's CSuite tracker) |
 | Q3b | `filename:"utils.js" AND page.title:"PDF Viewer"` | Gate script request. urlscan records the request even when the file returns 404 |
 | Q4 | `hash:` of the three gate files (`utils.js`, `captcha.js`, `fingerprint.js`) | Complete deployments with byte-identical files. Mostly older builds |
 
 ### Confidence (heuristic, tune with real data)
 
 * **high**: matched by Q4, or by two or more different queries.
-* **medium**: matched by one of Q1a, Q1b, Q2, Q3a, Q3b.
+* **medium**: matched by one of Q1a, Q1b, Q2, Q3a, Q3b, Q3c.
 * **low**: matched only by Q1c.
 
 ## Outputs
@@ -132,7 +139,8 @@ and are untested there, so run them over a short window first. Advanced Hunting 
   `externaldata`, explodes it to one row per host and matches it exactly against
   `DeviceNetworkEvents` (URL host and DNS queries). The raw URL must be reachable
   without authentication, so this only works while the repository is public. It
-  excludes `false_positive`. Subdomains that are not listed in `hosts` are not matched.
+  excludes `false_positive` and, by default, the `low` confidence tier (comment out one line
+  for a retro-hunt). Subdomains that are not listed in `hosts` are not matched.
 * **`KQL_detection_rule.kql`** expects the contents of `iocs.kql` pasted above the
   query and matches by anchored regex (domain and subdomains), IP and URL. It also
   contains a commented block for reading `domains.txt` with `externaldata`, and a
@@ -155,6 +163,9 @@ and are untested there, so run them over a short window first. Advanced Hunting 
 * **File hashes (Q4)** only match complete deployments with identical files, and the
   operator can change a file at any time. `/m/js/utils.js` often returns 404 on lure
   hosts, which is why Q3b matches on the request instead.
+* **Platform tenants (buckets) are matched by URL, not by host.** Network events often
+  record only the hostname, so use `UrlClickEvents`, `EmailUrlInfo` or proxy logs for
+  them (`csuite_urls_check.kql`).
 * **Q1c is noisy** and probably mixes more than one family.
 * **Compromised legitimate sites** (old domains with a recent `/iv/...` or
   `/eDocusign.php` path) match at domain level and will also match normal traffic. The
@@ -178,6 +189,7 @@ and are untested there, so run them over a short window first. Advanced Hunting 
 ├── iocs.kql                        # KQL let statements
 ├── domains.txt / ips.txt / urls.txt
 ├── KQL_detection_rule.kql          # detection / retro-hunt using iocs.kql
+├── csuite_urls_check.kql           # URL-level matching for platform tenants (buckets)
 └── csuite_hosts_check.kql          # detection using externaldata over iocs.csv
 ```
 
