@@ -21,7 +21,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -36,7 +36,8 @@ jobs:
         env:
           URLSCAN_API_KEY: ${{ secrets.URLSCAN_API_KEY }}
           BACKFILL_DAYS: ${{ github.event.inputs.backfill_days }}
-          KQL_MIN_CONFIDENCE: low
+          # Minimum confidence for iocs.kql and the .txt lists (low | medium | high).
+          MIN_CONFIDENCE: low
         run: python collect.py
 
       - name: Save state
@@ -44,6 +45,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state.json iocs.csv iocs.kql
+          git add state.json iocs.csv iocs.kql domains.txt ips.txt urls.txt
           git diff --cached --quiet || git commit -m "collect: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
