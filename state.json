@@ -391,7 +391,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardcourtpdf-viewer.vercel.app",
-      "last_seen": "2026-10-16T04:48:51.150Z",
+      "last_seen": "2026-10-16T11:15:39.124Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -405,7 +405,8 @@
         "01a1423c-af6a-721e-b0c6-b9674c0eab95",
         "01a14239-7bb9-75ab-bb48-e317a02308f2",
         "01a1430a-688f-7669-96ce-a05cb9f36ecf",
-        "01a142fa-8222-7408-b8b0-a5c2a2f2db4c"
+        "01a142fa-8222-7408-b8b0-a5c2a2f2db4c",
+        "01a1446c-9adf-7108-b3f8-534d382214e0"
       ]
     },
     "browardpdf-viewer.vercel.app": {
@@ -1239,7 +1240,7 @@
       ],
       "ip": "162.241.222.199",
       "key": "nhhydraulik.co.in",
-      "last_seen": "2026-10-16T05:04:30.041Z",
+      "last_seen": "2026-10-16T10:18:24.993Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1251,7 +1252,8 @@
       ],
       "uuids": [
         "01a1423e-d7ee-71af-95ac-bf7b845f3170",
-        "01a14318-d1fd-740a-bd28-1560897312aa"
+        "01a14318-d1fd-740a-bd28-1560897312aa",
+        "01a14438-2983-72bb-9ed1-65355c9caf20"
       ]
     },
     "nilehost.cloud": {
@@ -1568,6 +1570,51 @@
       ],
       "uuids": [
         "01a11da0-eb87-73be-8844-25fc0bba78f8"
+      ]
+    },
+    "s3.us-east-1.amazonaws.com/amznadobe.bamv8": {
+      "asn": "AS14618",
+      "confidence": "low",
+      "first_run": "2026-10-16T11:17:14Z",
+      "first_seen": "2026-10-16T10:08:30.989Z",
+      "hosts": [],
+      "ip": "16.15.236.226",
+      "key": "s3.us-east-1.amazonaws.com/amznadobe.bamv8",
+      "last_seen": "2026-10-16T10:08:30.989Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "url",
+      "status": "new",
+      "title": "Cloud Share",
+      "urls": [
+        "https://s3.us-east-1.amazonaws.com/amznadobe.bamv8/Adobe_NnewV.1.2/en/next.html"
+      ],
+      "uuids": [
+        "01a1442f-1bfc-775d-aee8-47dd4a7918ed"
+      ]
+    },
+    "screenconnect.com": {
+      "confidence": "low",
+      "first_run": "2026-10-16T11:17:14Z",
+      "first_seen": "2026-10-16T10:07:12.657Z",
+      "hosts": [
+        "northbridgecapitalpartner.screenconnect.com"
+      ],
+      "ip": "104.45.153.136",
+      "key": "screenconnect.com",
+      "last_seen": "2026-10-16T10:07:12.657Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Cloud Share",
+      "urls": [
+        "https://northbridgecapitalpartner.screenconnect.com/"
+      ],
+      "uuids": [
+        "01a1442d-ed39-704c-973a-30c6cf3aa80c"
       ]
     },
     "strutsupportsystems.com": {
@@ -2014,8 +2061,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-16T08:48:48Z",
-    "last_success": "2026-10-16T08:48:48Z",
-    "window_hours": 6
+    "last_run": "2026-10-16T11:17:14Z",
+    "last_success": "2026-10-16T11:17:14Z",
+    "window_hours": 4
   }
 }
