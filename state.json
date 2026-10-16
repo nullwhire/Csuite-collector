@@ -553,7 +553,7 @@
       ],
       "ip": "66.116.209.139",
       "key": "docsewallet.com",
-      "last_seen": "2026-10-16T00:30:11.140Z",
+      "last_seen": "2026-10-16T13:05:24.934Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -570,7 +570,9 @@
         "01a140b6-807f-733b-a78c-d6482f9bbc7d",
         "01a140b3-bac6-71f1-b9e2-a905e170b3a1",
         "01a1408d-24e6-736d-a837-f24225804f2a",
-        "01a1421d-a2ed-7382-9479-46c0e3c585ad"
+        "01a1421d-a2ed-7382-9479-46c0e3c585ad",
+        "01a144d1-1b25-754c-a97d-18980cf53acc",
+        "01a144b2-9d8c-75da-a624-1540c5bd40f5"
       ]
     },
     "docvyrview.de": {
@@ -1580,7 +1582,7 @@
       "hosts": [],
       "ip": "16.15.236.226",
       "key": "s3.us-east-1.amazonaws.com/amznadobe.bamv8",
-      "last_seen": "2026-10-16T10:08:30.989Z",
+      "last_seen": "2026-10-16T11:25:25.041Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -1588,10 +1590,12 @@
       "status": "new",
       "title": "Cloud Share",
       "urls": [
-        "https://s3.us-east-1.amazonaws.com/amznadobe.bamv8/Adobe_NnewV.1.2/en/next.html"
+        "https://s3.us-east-1.amazonaws.com/amznadobe.bamv8/Adobe_NnewV.1.2/en/next.html",
+        "https://s3.us-east-1.amazonaws.com/amznadobe.bamv8/Adobe_NnewV.1.2update/en/next.html"
       ],
       "uuids": [
-        "01a1442f-1bfc-775d-aee8-47dd4a7918ed"
+        "01a1442f-1bfc-775d-aee8-47dd4a7918ed",
+        "01a14475-9533-70bc-999b-dee0597b6b38"
       ]
     },
     "screenconnect.com": {
@@ -2061,8 +2065,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-16T11:17:14Z",
-    "last_success": "2026-10-16T11:17:14Z",
-    "window_hours": 4
+    "last_run": "2026-10-16T16:34:42Z",
+    "last_success": "2026-10-16T16:34:42Z",
+    "window_hours": 7
   }
 }

@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-16T11:17:14Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-16T16:34:42Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 78 | ips: 0 | urls: 89
+// domains: 78 | ips: 0 | urls: 90
 let csuite_domains = dynamic([
     "06webmeet.us",
     "1yz.com",
@@ -152,6 +152,7 @@ let csuite_urls = dynamic([
     "https://pub-def1757768e44ee4901749848f225c06.r2.dev/Adobe_Installer.html",
     "https://resultsfinderonline.com/",
     "https://s3.us-east-1.amazonaws.com/amznadobe.bamv8/Adobe_NnewV.1.2/en/next.html",
+    "https://s3.us-east-1.amazonaws.com/amznadobe.bamv8/Adobe_NnewV.1.2update/en/next.html",
     "https://strutsupportsystems.com/Adobe_Installer.html",
     "https://surat-kabar.com/Adobe_Installer.html",
     "https://taslimaenterprise.com/adobe/",
