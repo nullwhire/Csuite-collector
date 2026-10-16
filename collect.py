@@ -5,18 +5,31 @@ Produces CANDIDATES with a heuristic confidence level. It does not verify that
 a domain is malicious: that still requires manual analysis.
 
 State files (repository root):
-  state.json  full state (meta + IOCs). Each IOC's "status" field can be edited
-              by hand (new | reviewed | blocked | false_positive); the script
-              never overwrites it.
-  iocs.csv    export of the state, regenerated on every run.
-  iocs.kql    KQL `let` statements (domains, regex, IPs, URLs) ready to paste
-              in front of a hunting query. Regenerated on every run.
+  state.json   full state (meta + IOCs). Each IOC's "status" field can be edited
+               by hand (new | reviewed | blocked | false_positive); the script
+               never overwrites it.
+  iocs.csv     export of the state, regenerated on every run.
+  iocs.kql     KQL `let` statements (domains, regex, IPs, URLs) to paste in front
+               of a hunting query (see KQL_detection_rule.kql).
+  domains.txt  one domain/hostname per line (for `externaldata` once the repo
+  ips.txt      is public, or for any other tool that wants plain lists).
+  urls.txt     URLs without query string.
+
+The kql/txt exports honour MIN_CONFIDENCE and skip status=false_positive.
+
+Platform hosts where the tenant lives in the URL path (storage.googleapis.com, S3
+path-style, docs.google.com, ...) are tracked at URL level only (key "host/bucket",
+scope "url") and never appear in domains.txt, iocs.kql hosts or the iocs.csv hosts
+column.
 
 Environment variables:
   URLSCAN_API_KEY          required
-  BACKFILL_DAYS            optional, one-off history window in days (e.g. 60)
+  MIN_CONFIDENCE           low | medium | high (default low = everything).
+                           KQL_MIN_CONFIDENCE is still read as a fallback.
+  BACKFILL_DAYS            optional, one-off history window in days (e.g. 60).
+                           Queries that come back incomplete (plan result ceiling
+                           or page cap) are re-run one day at a time.
   INITIAL_LOOKBACK_HOURS   first-run window when there is no state (default 24)
-  KQL_MIN_CONFIDENCE       low | medium | high (default low = everything)
 """
 import csv
 import ipaddress
@@ -37,6 +50,9 @@ API = "https://urlscan.io/api/v1/search/"
 STATE_FILE = Path("state.json")
 CSV_FILE = Path("iocs.csv")
 KQL_FILE = Path("iocs.kql")
+DOMAINS_FILE = Path("domains.txt")
+IPS_FILE = Path("ips.txt")
+URLS_FILE = Path("urls.txt")
 
 PAGE_SIZE = 100
 MAX_PAGES = 5
@@ -44,13 +60,16 @@ BACKFILL_MAX_PAGES = 30
 OVERLAP_HOURS = 1
 MAX_LOOKBACK_HOURS = 72
 INITIAL_LOOKBACK_HOURS = int(os.getenv("INITIAL_LOOKBACK_HOURS", "24"))
-KQL_MIN_CONFIDENCE = os.getenv("KQL_MIN_CONFIDENCE", "low").strip().lower()
+MIN_CONFIDENCE = (
+    os.getenv("MIN_CONFIDENCE") or os.getenv("KQL_MIN_CONFIDENCE") or "low"
+).strip().lower()
 PAUSE_SECONDS = 1.0
-USER_AGENT = "csuite-collector/0.2"
+USER_AGENT = "csuite-collector/0.3"
 
 # On shared hosting the subdomain identifies the tenant, so the dedup key is
 # the full hostname instead of the registrable domain. Edit freely (dyndns,
 # other CDNs, etc.).
+# Matched by hostname suffix, so multi-label platforms work too.
 SHARED_HOSTING = {
     "vercel.app",
     "r2.dev",
@@ -59,7 +78,51 @@ SHARED_HOSTING = {
     "pages.dev",
     "netlify.app",
     "office-on-the.net",
+    "workers.dev",
+    "web.app",
+    "firebaseapp.com",
+    "herokuapp.com",
+    "onrender.com",
+    "azurewebsites.net",
+    "blob.core.windows.net",
+    "web.core.windows.net",
+    "cloudfront.net",
+    "trycloudflare.com",
+    "ngrok-free.app",
+    "ngrok.io",
+    "glitch.me",
+    "blogspot.com",
+    "weebly.com",
+    "wixsite.com",
+    "webflow.io",
+    "framer.app",
+    "lovable.app",
+    "surge.sh",
+    "myshopify.com",
 }
+
+# Platforms whose HOSTNAME is the same for everyone, with the tenant in the URL path
+# (cloud storage, file sharing). Flagging the hostname would flag all legitimate
+# traffic to the platform (this caused hundreds of false positives on
+# storage.googleapis.com). They are tracked at URL level only: the key becomes
+# "host/first-path-segment" (for example a storage bucket) and the host itself never
+# goes into the host/domain exports.
+PATH_TENANT_HOSTS = {
+    "storage.googleapis.com",
+    "firebasestorage.googleapis.com",
+    "docs.google.com",
+    "drive.google.com",
+    "sites.google.com",
+    "dropbox.com",
+    "www.dropbox.com",
+    "github.com",
+    "raw.githubusercontent.com",
+    "onedrive.live.com",
+}
+# Path-style S3 endpoints (s3.amazonaws.com, s3.us-east-1.amazonaws.com, s3-us-west-2...).
+# Virtual-hosted buckets (bucket.s3.amazonaws.com) do not match: there the tenant is
+# in the hostname.
+_S3_PATH_STYLE = re.compile(r"^s3[.-]([a-z0-9-]+\.)?amazonaws\.com$")
 
 # Gate file hashes (utils.js, captcha.js, fingerprint.js) from the ANY.RUN article.
 HASHES = [
@@ -74,6 +137,7 @@ QUERIES = {
     "Q1c_icon": 'filename:"Icon-pdf-file-svg.png"',
     "Q2_turnstile": 'page.title:"Secure Document Verification" AND filename:"yes.html"',
     "Q3a_adobe_html": 'filename:"Adobe_Installer.html"',
+    "Q3c_installer_adobe": 'filename:"Installer_Adobe.html"',
     "Q3b_utils_pdfviewer": 'filename:"utils.js" AND page.title:"PDF Viewer"',
     "Q4_hash": "(" + " OR ".join(f"hash:{h}" for h in HASHES) + ")",
 }
@@ -106,11 +170,23 @@ def registered_domain(host):
     return ".".join(parts[-2:]) if len(parts) >= 2 else host
 
 
-def make_key(host):
+def is_shared_hosting(host):
+    return any(host == p or host.endswith("." + p) for p in SHARED_HOSTING)
+
+
+def is_path_tenant(host):
+    return host in PATH_TENANT_HOSTS or bool(_S3_PATH_STYLE.match(host))
+
+
+def make_key(host, url=""):
+    """Dedup key, or None when the hit cannot be identified safely."""
     if is_ip(host):
         return host
-    reg = registered_domain(host)
-    return host if reg in SHARED_HOSTING else reg
+    if is_path_tenant(host):
+        segment = urlparse(url).path.strip("/").split("/")[0]
+        # Without a path segment we cannot tell tenants apart: skip the hit.
+        return f"{host}/{segment}" if segment else None
+    return host if is_shared_hosting(host) else registered_domain(host)
 
 
 def confidence(queries):
@@ -124,6 +200,7 @@ def confidence(queries):
         "Q2_turnstile",
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer",
+        "Q3c_installer_adobe",
         "Q3_adobe",  # legacy label from the first version; safe to drop after re-seeding
     }:
         return "medium"
@@ -157,11 +234,14 @@ def search(session, query, search_after=None):
     raise RuntimeError("rate limit still exceeded after several retries")
 
 
-def collect_query(session, query, hours, max_pages):
-    full = f"({query}) AND date:>now-{hours}h"
-    results, after, truncated = [], None, False
+def collect_query(session, query, date_clause, max_pages):
+    """Run one query over one date clause. Returns (results, truncated, total)."""
+    full = f"({query}) AND {date_clause}"
+    results, after, total, truncated = [], None, None, False
     for page in range(max_pages):
         data = search(session, full, after)
+        if total is None and isinstance(data.get("total"), int):
+            total = data["total"]
         batch = data.get("results", [])
         results.extend(batch)
         more = data.get("has_more", len(batch) >= PAGE_SIZE)
@@ -173,7 +253,35 @@ def collect_query(session, query, hours, max_pages):
         if page == max_pages - 1:
             truncated = True
         time.sleep(PAUSE_SECONDS)
-    return results, truncated
+    return results, truncated, total
+
+
+def run_query(session, query, hours, max_pages, by_day):
+    """Run a query over the last `hours`; in backfill mode, split by day if incomplete."""
+    results, truncated, total = collect_query(
+        session, query, f"date:>now-{hours}h", max_pages
+    )
+    incomplete = truncated or (total is not None and len(results) < total)
+    if not incomplete:
+        return results, False
+    if not by_day:
+        return results, True
+
+    print(f"  incomplete ({len(results)} of {total}), splitting by day")
+    seen = {r.get("_id") for r in results}
+    any_truncated = False
+    for day in range(math.ceil(hours / 24)):
+        clause = f"date:>=now-{(day + 1) * 24}h"
+        if day:
+            clause += f" AND date:<now-{day * 24}h"
+        batch, slice_truncated, _ = collect_query(session, query, clause, max_pages)
+        any_truncated = any_truncated or slice_truncated
+        for r in batch:
+            if r.get("_id") not in seen:
+                seen.add(r.get("_id"))
+                results.append(r)
+        time.sleep(PAUSE_SECONDS)
+    return results, any_truncated
 
 
 # --------------------------------------------------------------------------
@@ -190,6 +298,37 @@ def save_state(state):
         json.dumps(state, indent=2, sort_keys=True, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
+
+
+def migrate_platform_records(iocs):
+    """Fix records created before PATH_TENANT_HOSTS existed.
+
+    Those were keyed by the registrable domain of a platform (for example
+    googleapis.com) and listed the platform host, so every device talking to the
+    platform matched. Strip the host and, if still untouched, mark them as false
+    positives. Run a backfill afterwards to re-create the real tenant (URL level).
+    """
+    fixed = []
+    for key, rec in iocs.items():
+        if rec.get("scope") == "url":
+            continue
+        # A record keyed by the platform apex itself (for example "workers.dev") would
+        # match every tenant of the platform. Drop it; tenants are re-collected per host.
+        if key in SHARED_HOSTING:
+            if rec.get("status", "new") == "new":
+                rec["status"] = "false_positive"
+            rec["note"] = "platform apex: tenants are tracked per hostname"
+            fixed.append(key)
+            continue
+        hosts = rec.get("hosts", [])
+        if not any(is_path_tenant(h) for h in hosts):
+            continue
+        rec["hosts"] = [h for h in hosts if not is_path_tenant(h)]
+        if rec.get("status", "new") == "new":
+            rec["status"] = "false_positive"
+        rec["note"] = "platform host: tracked at URL level only"
+        fixed.append(key)
+    return fixed
 
 
 def window_hours(last_success, now):
@@ -225,7 +364,10 @@ def ingest(hit, qname, iocs, run_ts, new_keys, upgraded):
     ).lower()
     if not host:
         return
-    key = make_key(host)
+    key = make_key(host, url)
+    if key is None:
+        return
+    url_scope = is_path_tenant(host)
     uuid = hit.get("_id") or task.get("uuid")
     seen_time = task.get("time") or run_ts
 
@@ -234,6 +376,7 @@ def ingest(hit, qname, iocs, run_ts, new_keys, upgraded):
     if created:
         rec = {
             "key": key,
+            "scope": "url" if url_scope else "host",
             "status": "new",
             "first_seen": seen_time,
             "first_run": run_ts,
@@ -249,7 +392,8 @@ def ingest(hit, qname, iocs, run_ts, new_keys, upgraded):
     rec["first_seen"] = min(rec["first_seen"], seen_time)
     rec["last_seen"] = max(rec.get("last_seen", seen_time), seen_time)
     add_unique(rec["queries"], qname, None)
-    add_unique(rec["hosts"], host, 10)
+    if not url_scope:
+        add_unique(rec["hosts"], host, 10)
     if url:
         add_unique(rec["urls"], strip_query(url), 5)
     if uuid:
@@ -292,6 +436,32 @@ def write_csv(iocs):
             writer.writerow(row)
 
 
+def select_iocs(iocs):
+    """Pick what goes into the kql/txt exports (MIN_CONFIDENCE, no false positives)."""
+    min_rank = RANK.get(MIN_CONFIDENCE, 0)
+    domains, ips, urls = set(), set(), set()
+    for rec in iocs.values():
+        if rec.get("status") == "false_positive":
+            continue
+        if RANK.get(rec.get("confidence"), 0) < min_rank:
+            continue
+        key = rec["key"]
+        urls.update(rec.get("urls", []))
+        if rec.get("scope") == "url":
+            continue  # platform tenant: URL-level only, never host/domain level
+        (ips if is_ip(key) else domains).add(key)
+    return sorted(domains), sorted(ips), sorted(urls)
+
+
+def write_lists(domains, ips, urls):
+    """Plain one-per-line lists (same shape as a urlscan-tracker domains.txt)."""
+    for path, values in ((DOMAINS_FILE, domains), (IPS_FILE, ips), (URLS_FILE, urls)):
+        clean = [v.replace("\r", "").replace("\n", "") for v in values]
+        path.write_text(
+            "\n".join(clean) + ("\n" if clean else ""), encoding="utf-8"
+        )
+
+
 def kql_str(value):
     # Single-line KQL string literal. Nothing from scan data ever goes into a
     # comment, only into escaped string literals.
@@ -306,20 +476,8 @@ def kql_array(name, values):
     return f"let {name} = dynamic([\n    {body}\n]);"
 
 
-def write_kql(iocs, run_ts):
+def write_kql(domains, ips, urls, run_ts):
     """Write KQL `let` statements with the candidate IOCs (domains, IPs, URLs)."""
-    min_rank = RANK.get(KQL_MIN_CONFIDENCE, 0)
-    domains, ips, urls = set(), set(), set()
-    for rec in iocs.values():
-        if rec.get("status") == "false_positive":
-            continue
-        if RANK.get(rec.get("confidence"), 0) < min_rank:
-            continue
-        key = rec["key"]
-        (ips if is_ip(key) else domains).add(key)
-        urls.update(rec.get("urls", []))
-
-    domains, ips, urls = sorted(domains), sorted(ips), sorted(urls)
     if domains:
         alternation = "|".join(re.escape(d) for d in domains)
         regex = f"(?i)(^|\\.)({alternation})$"  # matches the domain and its subdomains
@@ -328,7 +486,7 @@ def write_kql(iocs, run_ts):
     lines = [
         f"// CSuite candidate IOCs, generated {run_ts} by collect.py",
         "// Heuristic candidates, NOT verified as malicious.",
-        f"// Minimum confidence: {KQL_MIN_CONFIDENCE}. Excludes status=false_positive.",
+        f"// Minimum confidence: {MIN_CONFIDENCE}. Excludes status=false_positive.",
         f"// domains: {len(domains)} | ips: {len(ips)} | urls: {len(urls)}",
         kql_array("csuite_domains", domains),
         f'let csuite_re = @"{regex}";',
@@ -363,7 +521,10 @@ def write_summary(lines):
     print(text)
 
 
-def build_summary(run_ts, hours, backfill, counts, new_keys, upgraded, iocs, failed, truncated, max_pages):
+def build_summary(
+    run_ts, hours, backfill, counts, new_keys, upgraded, iocs,
+    failed, truncated, max_pages, exported,
+):
     mode = "BACKFILL " if backfill else ""
     lines = [f"## CSuite {mode}collection {run_ts} ({hours}h window)", ""]
     lines.append("Heuristic candidates. None has been verified as malicious.")
@@ -373,12 +534,19 @@ def build_summary(run_ts, hours, backfill, counts, new_keys, upgraded, iocs, fai
     for name, n in counts.items():
         lines.append(f"- {name}: {n}")
     lines.append("")
+    d, i, u = exported
+    lines.append(
+        f"Exported (min confidence {MIN_CONFIDENCE}): "
+        f"{d} domains, {i} IPs, {u} URLs."
+    )
+    lines.append("")
     if failed:
         lines.append(f"**Queries with errors (window not advanced):** {', '.join(failed)}")
         lines.append("")
     if truncated:
         lines.append(
-            f"**Pagination truncated at {max_pages} pages:** {', '.join(truncated)}"
+            f"**Results may be incomplete (page cap {max_pages} or plan ceiling):** "
+            f"{', '.join(truncated)}"
         )
         lines.append("")
 
@@ -394,7 +562,7 @@ def build_summary(run_ts, hours, backfill, counts, new_keys, upgraded, iocs, fai
             rows.append(
                 "| {c} | `{k}` | {q} | {ip} | {asn} | {t} | {s} |".format(
                     c=r["confidence"],
-                    k=defang(k),
+                    k=defang(k).replace("`", "'"),
                     q=md_escape(", ".join(r["queries"])),
                     ip=defang(r.get("ip", "")),
                     asn=md_escape(r.get("asn", "")),
@@ -425,6 +593,9 @@ def main():
     state = load_state()
     iocs = state.setdefault("iocs", {})
     meta = state.setdefault("meta", {})
+    migrated = migrate_platform_records(iocs)
+    if migrated:
+        print(f"Migrated legacy platform records: {', '.join(migrated)}")
 
     backfill_raw = os.getenv("BACKFILL_DAYS", "").strip()
     backfill = bool(backfill_raw)
@@ -450,13 +621,13 @@ def main():
     for name, query in QUERIES.items():
         print(f"[{name}]")
         try:
-            results, was_truncated = collect_query(session, query, hours, max_pages)
+            results, incomplete = run_query(session, query, hours, max_pages, backfill)
         except Exception as exc:  # noqa: BLE001 - keep going with the other queries
             print(f"  ERROR: {exc}")
             failed.append(name)
             continue
         counts[name] = len(results)
-        if was_truncated:
+        if incomplete:
             truncated.append(name)
         for hit in results:
             ingest(hit, name, iocs, run_ts, new_keys, upgraded)
@@ -469,11 +640,13 @@ def main():
 
     save_state(state)
     write_csv(iocs)
-    write_kql(iocs, run_ts)
+    domains, ips, urls = select_iocs(iocs)
+    write_kql(domains, ips, urls, run_ts)
+    write_lists(domains, ips, urls)
     write_summary(
         build_summary(
             run_ts, hours, backfill, counts, new_keys, upgraded, iocs,
-            failed, truncated, max_pages,
+            failed, truncated, max_pages, (len(domains), len(ips), len(urls)),
         )
     )
     return 1 if failed else 0
