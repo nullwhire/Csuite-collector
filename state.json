@@ -704,7 +704,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "fllicensehealthpdf-viewer.vercel.app",
-      "last_seen": "2026-10-15T18:01:00.093Z",
+      "last_seen": "2026-10-17T12:36:46.953Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -950,7 +950,7 @@
       ],
       "ip": "108.167.168.42",
       "key": "hipercromo.com.br",
-      "last_seen": "2026-10-17T04:30:42.789Z",
+      "last_seen": "2026-10-17T11:11:33.121Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -963,7 +963,9 @@
       ],
       "uuids": [
         "01a14760-1860-7589-8fa1-f4eb24e046f3",
-        "01a14820-3270-76ac-bfac-6fdc66ea9087"
+        "01a14820-3270-76ac-bfac-6fdc66ea9087",
+        "01a1498f-380f-770f-8a2b-b1c6807ee2af",
+        "01a14982-daab-77b9-8cf5-b431b0c471b9"
       ]
     },
     "hotelvaldecans.com.br": {
@@ -1839,7 +1841,7 @@
       ],
       "ip": "62.182.23.110",
       "key": "thegouldings.co.uk",
-      "last_seen": "2026-10-15T17:59:48.918Z",
+      "last_seen": "2026-10-17T12:35:39.800Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1851,7 +1853,8 @@
       "uuids": [
         "01a13b9b-e3ba-76cd-86b8-7ad5e98b4ab9",
         "01a1401c-d1f9-719e-9dec-c535aad31d94",
-        "01a140b8-4d9c-72ca-af38-63a506c46226"
+        "01a140b8-4d9c-72ca-af38-63a506c46226",
+        "01a149dc-3eaf-754a-ab71-e9e65fcc01a1"
       ]
     },
     "thesocialnexus.co.za": {
@@ -2120,8 +2123,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-17T10:37:02Z",
-    "last_success": "2026-10-17T10:37:02Z",
-    "window_hours": 8
+    "last_run": "2026-10-17T15:29:23Z",
+    "last_success": "2026-10-17T15:29:23Z",
+    "window_hours": 6
   }
 }
