@@ -387,7 +387,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardcountypdf-viewer.vercel.app",
-      "last_seen": "2026-10-15T10:55:31.390Z",
+      "last_seen": "2026-10-17T17:08:15.159Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -404,7 +404,8 @@
         "01a12949-de5e-708f-af17-07fdc973aa8e",
         "01a1287d-553a-72a5-a252-a3f3a95cb8df",
         "01a1327b-7cd2-762a-a5d0-2ee221260c03",
-        "01a13f33-d893-75eb-bf4b-3c8fb572d36d"
+        "01a13f33-d893-75eb-bf4b-3c8fb572d36d",
+        "01a14ad5-cdd2-734e-a233-9a0bf0e16627"
       ]
     },
     "browardcourtpdf-viewer.vercel.app": {
@@ -445,7 +446,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardpdf-viewer.vercel.app",
-      "last_seen": "2026-10-15T10:39:56.175Z",
+      "last_seen": "2026-10-17T17:08:27.287Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -462,7 +463,8 @@
         "01a12949-e135-7579-8ff1-a465751b2d42",
         "01a1287d-5eb6-71b9-8b13-edd38a046af1",
         "01a13220-4d22-707f-acf0-8d1b2950d7fa",
-        "01a13f25-9471-751e-93b7-cf7f5de825fc"
+        "01a13f25-9471-751e-93b7-cf7f5de825fc",
+        "01a14ad5-e90e-7513-ad40-131e5db158e1"
       ]
     },
     "clementspools.github.io": {
@@ -2123,8 +2125,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-17T15:29:23Z",
-    "last_success": "2026-10-17T15:29:23Z",
-    "window_hours": 6
+    "last_run": "2026-10-17T20:32:51Z",
+    "last_success": "2026-10-17T20:32:51Z",
+    "window_hours": 7
   }
 }
