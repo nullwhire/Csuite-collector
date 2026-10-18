@@ -1156,7 +1156,7 @@
       ],
       "ip": "193.34.145.201",
       "key": "lagerhaus-freising.de",
-      "last_seen": "2026-10-18T13:02:28.044Z",
+      "last_seen": "2026-10-18T17:02:22.733Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1167,7 +1167,8 @@
         "https://lagerhaus-freising.de/os/oj.html"
       ],
       "uuids": [
-        "01a14f1b-25dd-7309-841d-75dc02157c37"
+        "01a14f1b-25dd-7309-841d-75dc02157c37",
+        "01a14ff6-bb36-759a-a5b9-a5fdba25d2cf"
       ]
     },
     "luxfab.luxe": {
@@ -1489,7 +1490,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-18T05:03:03.902Z",
+      "last_seen": "2026-10-18T18:42:58.395Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1503,7 +1504,8 @@
         "01a10484-9690-757e-bf5c-fad71d3c26d8",
         "01a1259f-5ba1-77f7-9223-b2c589602b9d",
         "01a14c8a-fbbc-7091-aef6-794af700ff26",
-        "01a14d63-fbc1-70a8-a9e9-396b7f5fd2f2"
+        "01a14d63-fbc1-70a8-a9e9-396b7f5fd2f2",
+        "01a15052-d66c-704e-af74-8fa036fd29f8"
       ]
     },
     "piedrasdecolon.com.ar": {
@@ -2178,8 +2180,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-18T15:48:53Z",
-    "last_success": "2026-10-18T15:48:53Z",
+    "last_run": "2026-10-18T20:36:57Z",
+    "last_success": "2026-10-18T20:36:57Z",
     "window_hours": 6
   }
 }
