@@ -90,7 +90,7 @@
       ],
       "ip": "192.185.118.213",
       "key": "adcoxlaw.com",
-      "last_seen": "2026-10-10T11:48:53.212Z",
+      "last_seen": "2026-10-19T10:07:04.577Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -100,7 +100,8 @@
         "https://adcoxlaw.com/.cgi/"
       ],
       "uuids": [
-        "01a125a4-e02d-744d-ac64-39bc8fc0fc6f"
+        "01a125a4-e02d-744d-ac64-39bc8fc0fc6f",
+        "01a153a0-d7b8-75dd-be9d-e0dbd978d674"
       ]
     },
     "adiosalosmosquitos.com": {
@@ -602,6 +603,34 @@
         "01a144d1-1b25-754c-a97d-18980cf53acc",
         "01a144b2-9d8c-75da-a624-1540c5bd40f5",
         "01a1467a-709f-71e9-aa43-66e6d33dd9ce"
+      ]
+    },
+    "docu-signs.cc": {
+      "asn": "AS202412",
+      "confidence": "high",
+      "first_run": "2026-10-19T13:04:20Z",
+      "first_seen": "2026-10-19T06:15:51.882Z",
+      "hosts": [
+        "mail.docu-signs.cc",
+        "docu-signs.cc"
+      ],
+      "ip": "178.16.54.253",
+      "key": "docu-signs.cc",
+      "last_seen": "2026-10-19T06:47:03.759Z",
+      "queries": [
+        "Q1a_edocusign",
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Strategic Partnership Proposal",
+      "urls": [
+        "https://mail.docu-signs.cc/eDocusign.php",
+        "https://docu-signs.cc/eDocusign.php"
+      ],
+      "uuids": [
+        "01a152e9-d100-7038-ba96-c7cf081d715a",
+        "01a152cd-40dd-731a-ad8e-73283f590c8c"
       ]
     },
     "docvyrview.de": {
@@ -1289,6 +1318,54 @@
         "01a10c89-9187-70e9-9085-5a25f85c0bb0"
       ]
     },
+    "mastertechcorp.com": {
+      "asn": "AS40021",
+      "confidence": "medium",
+      "first_run": "2026-10-19T13:04:20Z",
+      "first_seen": "2026-10-19T06:45:42.736Z",
+      "hosts": [
+        "mastertechcorp.com"
+      ],
+      "ip": "195.26.249.22",
+      "key": "mastertechcorp.com",
+      "last_seen": "2026-10-19T06:45:42.736Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://mastertechcorp.com/Aiii/Index.html"
+      ],
+      "uuids": [
+        "01a152e8-83a2-7201-a812-be6f907fbcca"
+      ]
+    },
+    "matakwan.com": {
+      "asn": "AS36874",
+      "confidence": "low",
+      "first_run": "2026-10-19T13:04:20Z",
+      "first_seen": "2026-10-19T05:57:01.947Z",
+      "hosts": [
+        "matakwan.com"
+      ],
+      "ip": "196.41.122.177",
+      "key": "matakwan.com",
+      "last_seen": "2026-10-19T05:57:01.947Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://matakwan.com/ngx(2)/ngx(2)/ngx(2)/ngx(1)/ngx/"
+      ],
+      "uuids": [
+        "01a152bc-031a-70d0-9b20-805e37e1d3dd"
+      ]
+    },
     "mncacompany.com": {
       "asn": "AS40244",
       "confidence": "low",
@@ -1354,7 +1431,7 @@
       ],
       "ip": "162.241.222.199",
       "key": "nhhydraulik.co.in",
-      "last_seen": "2026-10-19T00:51:26.229Z",
+      "last_seen": "2026-10-19T08:35:54.789Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1370,7 +1447,8 @@
         "01a14438-2983-72bb-9ed1-65355c9caf20",
         "01a14679-8f3f-748f-8536-fb495da0d281",
         "01a146e2-e4c4-75d7-b2a3-c66e9f4dd461",
-        "01a151a4-2d82-724e-a7f3-8fc9e622dc77"
+        "01a151a4-2d82-724e-a7f3-8fc9e622dc77",
+        "01a1534d-690e-768a-8f90-02380d603983"
       ]
     },
     "nilehost.cloud": {
@@ -1494,7 +1572,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-19T01:06:34.134Z",
+      "last_seen": "2026-10-19T10:11:08.362Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1502,7 +1580,8 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://peputragroup.com/Adobe_Installer.html"
+        "https://peputragroup.com/Adobe_Installer.html",
+        "http://peputragroup.com/Adobe_Installer.html"
       ],
       "uuids": [
         "01a10484-9690-757e-bf5c-fad71d3c26d8",
@@ -1510,7 +1589,10 @@
         "01a14c8a-fbbc-7091-aef6-794af700ff26",
         "01a14d63-fbc1-70a8-a9e9-396b7f5fd2f2",
         "01a15052-d66c-704e-af74-8fa036fd29f8",
-        "01a151b2-0c85-74ff-ae6d-93de894aaeae"
+        "01a151b2-0c85-74ff-ae6d-93de894aaeae",
+        "01a153a4-4a4d-735d-9d1e-1fb0e51da733",
+        "01a152f9-54b6-73c6-9b2b-f74a26bd9bc3",
+        "01a15280-6277-722a-9493-13d661d412b9"
       ]
     },
     "piedrasdecolon.com.ar": {
@@ -2185,8 +2267,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-19T04:34:43Z",
-    "last_success": "2026-10-19T04:34:43Z",
-    "window_hours": 9
+    "last_run": "2026-10-19T13:04:20Z",
+    "last_success": "2026-10-19T13:04:20Z",
+    "window_hours": 10
   }
 }
