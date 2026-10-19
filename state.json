@@ -782,21 +782,24 @@
       "first_run": "2026-10-05T05:33:07Z",
       "first_seen": "2026-10-05T01:05:21.188Z",
       "hosts": [
-        "geotehnica.com"
+        "geotehnica.com",
+        "www.geotehnica.com"
       ],
       "ip": "94.26.91.102",
       "key": "geotehnica.com",
-      "last_seen": "2026-10-05T01:05:21.188Z",
+      "last_seen": "2026-10-19T01:01:59.809Z",
       "queries": [
         "Q1b_esign"
       ],
       "status": "new",
       "title": "404 Not Found",
       "urls": [
-        "https://geotehnica.com/docusignreader/e-sign.php"
+        "https://geotehnica.com/docusignreader/e-sign.php",
+        "https://www.geotehnica.com/docusignreader/e-sign.php"
       ],
       "uuids": [
-        "01a10997-de42-7714-9534-b0d7e08ce17e"
+        "01a10997-de42-7714-9534-b0d7e08ce17e",
+        "01a151ad-e770-756a-b17f-7621cbbe9e64"
       ]
     },
     "gidsux.cc": {
@@ -1351,7 +1354,7 @@
       ],
       "ip": "162.241.222.199",
       "key": "nhhydraulik.co.in",
-      "last_seen": "2026-10-16T22:44:07.019Z",
+      "last_seen": "2026-10-19T00:51:26.229Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1366,7 +1369,8 @@
         "01a14318-d1fd-740a-bd28-1560897312aa",
         "01a14438-2983-72bb-9ed1-65355c9caf20",
         "01a14679-8f3f-748f-8536-fb495da0d281",
-        "01a146e2-e4c4-75d7-b2a3-c66e9f4dd461"
+        "01a146e2-e4c4-75d7-b2a3-c66e9f4dd461",
+        "01a151a4-2d82-724e-a7f3-8fc9e622dc77"
       ]
     },
     "nilehost.cloud": {
@@ -1490,7 +1494,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-18T18:42:58.395Z",
+      "last_seen": "2026-10-19T01:06:34.134Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1505,7 +1509,8 @@
         "01a1259f-5ba1-77f7-9223-b2c589602b9d",
         "01a14c8a-fbbc-7091-aef6-794af700ff26",
         "01a14d63-fbc1-70a8-a9e9-396b7f5fd2f2",
-        "01a15052-d66c-704e-af74-8fa036fd29f8"
+        "01a15052-d66c-704e-af74-8fa036fd29f8",
+        "01a151b2-0c85-74ff-ae6d-93de894aaeae"
       ]
     },
     "piedrasdecolon.com.ar": {
@@ -2180,8 +2185,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-18T20:36:57Z",
-    "last_success": "2026-10-18T20:36:57Z",
-    "window_hours": 6
+    "last_run": "2026-10-19T04:34:43Z",
+    "last_success": "2026-10-19T04:34:43Z",
+    "window_hours": 9
   }
 }
