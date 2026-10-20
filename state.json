@@ -257,6 +257,31 @@
         "01a132c7-ca72-7537-a91d-c133d8d1eb04"
       ]
     },
+    "aral-latam.com": {
+      "asn": "AS27715",
+      "confidence": "medium",
+      "first_run": "2026-10-20T16:58:52Z",
+      "first_seen": "2026-10-20T13:04:02.327Z",
+      "hosts": [
+        "aral-latam.com"
+      ],
+      "ip": "191.252.141.106",
+      "key": "aral-latam.com",
+      "last_seen": "2026-10-20T16:47:30.482Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "aral-latam.com",
+      "urls": [
+        "https://aral-latam.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a15a35-e069-754e-9066-60191e16fdb1",
+        "01a15969-3b2a-75ca-b943-d87f9dfa8cfc"
+      ]
+    },
     "ashland-energy.com": {
       "asn": "AS23470",
       "confidence": "medium",
@@ -388,7 +413,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "botsea.club",
-      "last_seen": "2026-10-20T05:35:41.095Z",
+      "last_seen": "2026-10-20T13:12:21.916Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -401,7 +426,8 @@
       "uuids": [
         "01a156d2-da2c-73ea-8b19-9889d88202e7",
         "01a156aa-0bcd-76ea-83a7-d970f6ab6a18",
-        "01a157ce-bc94-70dc-8287-78ec4053c49d"
+        "01a157ce-bc94-70dc-8287-78ec4053c49d",
+        "01a15970-dfaf-75b2-8fed-fd7d93aa14cc"
       ]
     },
     "boxercourier.com": {
@@ -543,6 +569,31 @@
         "01a1287b-28b1-762f-9fb0-eec6dee790e2",
         "01a12d15-e295-76bf-b9b8-5d2d84d2b3a9",
         "01a137e2-ba83-712a-81fe-0671e672a9ca"
+      ]
+    },
+    "contract-quotation89573.s3.us-east-2.amazonaws.com": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-20T16:58:52Z",
+      "first_seen": "2026-10-20T13:05:19.840Z",
+      "hosts": [
+        "contract-quotation89573.s3.us-east-2.amazonaws.com"
+      ],
+      "ip": "3.5.89.54",
+      "key": "contract-quotation89573.s3.us-east-2.amazonaws.com",
+      "last_seen": "2026-10-20T16:47:51.095Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://contract-quotation89573.s3.us-east-2.amazonaws.com/index.html"
+      ],
+      "uuids": [
+        "01a15a36-02d2-71b7-b93a-af65a11c970b",
+        "01a1596a-7c57-733c-af90-ce5f02de0e4e"
       ]
     },
     "cvouab.com": {
@@ -1074,6 +1125,31 @@
       ],
       "uuids": [
         "01a12cf1-df1a-71ce-b751-a6ebc3230677"
+      ]
+    },
+    "hernunspnc.github.io": {
+      "asn": "AS54113",
+      "confidence": "medium",
+      "first_run": "2026-10-20T16:58:52Z",
+      "first_seen": "2026-10-20T13:00:11.212Z",
+      "hosts": [
+        "hernunspnc.github.io"
+      ],
+      "ip": "185.199.108.153",
+      "key": "hernunspnc.github.io",
+      "last_seen": "2026-10-20T16:30:36.568Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://hernunspnc.github.io/Adobe_Reader.github.io/"
+      ],
+      "uuids": [
+        "01a15a26-6b7b-7336-885f-ede25f18f3ff",
+        "01a15965-c8b5-7135-bbc4-01fab8334603"
       ]
     },
     "hipercromo.com.br": {
@@ -1952,6 +2028,31 @@
         "01a1442d-ed39-704c-973a-30c6cf3aa80c"
       ]
     },
+    "stein-sudo.github.io": {
+      "asn": "AS54113",
+      "confidence": "medium",
+      "first_run": "2026-10-20T16:58:52Z",
+      "first_seen": "2026-10-20T13:01:56.000Z",
+      "hosts": [
+        "stein-sudo.github.io"
+      ],
+      "ip": "185.199.109.153",
+      "key": "stein-sudo.github.io",
+      "last_seen": "2026-10-20T16:30:52.156Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://stein-sudo.github.io/cfcd/"
+      ],
+      "uuids": [
+        "01a15a26-9c32-761f-a90c-4bf33189ed6a",
+        "01a15967-5ff1-762f-9658-a29ec7638183"
+      ]
+    },
     "strutsupportsystems.com": {
       "asn": "AS8560",
       "confidence": "high",
@@ -2352,7 +2453,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "zcontainx.cloud",
-      "last_seen": "2026-10-20T07:11:42.427Z",
+      "last_seen": "2026-10-20T13:18:04.891Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -2361,11 +2462,14 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://zcontainx.cloud/fold.html"
+        "https://zcontainx.cloud/fold.html",
+        "http://zcontainx.cloud/fold.html"
       ],
       "uuids": [
         "01a156d6-5ccf-7084-be1c-0bc449ffa019",
-        "01a15826-649c-7294-aa93-af26c4bd064b"
+        "01a15826-649c-7294-aa93-af26c4bd064b",
+        "01a15976-12db-74ac-aeaf-4520711c1742",
+        "01a15970-b49b-76bb-b7eb-850465bf620b"
       ]
     },
     "zentexa.com": {
@@ -2423,8 +2527,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-20T11:30:11Z",
-    "last_success": "2026-10-20T11:30:11Z",
-    "window_hours": 8
+    "last_run": "2026-10-20T16:58:52Z",
+    "last_success": "2026-10-20T16:58:52Z",
+    "window_hours": 7
   }
 }
