@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-19T22:18:41Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-20T04:43:25Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 86 | ips: 0 | urls: 102
+// domains: 91 | ips: 0 | urls: 107
 let csuite_domains = dynamic([
     "06webmeet.us",
     "1yz.com",
@@ -18,6 +18,7 @@ let csuite_domains = dynamic([
     "audicomst.com.mx",
     "audtfnaurth.com.es",
     "blackprimehouse.com.br",
+    "botsea.club",
     "boxercourier.com",
     "browardcountypdf-viewer.vercel.app",
     "browardcourtpdf-viewer.vercel.app",
@@ -30,11 +31,13 @@ let csuite_domains = dynamic([
     "docu-signs.cc",
     "docvyrview.de",
     "duvic.vu",
+    "emaycartabogados.com",
     "eporaimoveisefacilities.com.br",
     "fdihub.com.ng",
     "fllicensehealthpdf-viewer.vercel.app",
     "floridabloghealth.us",
     "fourbrixsolar.com",
+    "futuredataconcepts.com",
     "geotehnica.com",
     "gidsux.cc",
     "groundview.pt",
@@ -60,6 +63,7 @@ let csuite_domains = dynamic([
     "mx-flow.de",
     "nhhydraulik.co.in",
     "nilehost.cloud",
+    "noisy-morning-0c4b.orders-bed.workers.dev",
     "pageview.es",
     "pdf-viewer-five-virid.vercel.app",
     "pdfinstalls-2.vercel.app",
@@ -87,10 +91,11 @@ let csuite_domains = dynamic([
     "wrproducoes.com.br",
     "xureto.shop",
     "yonataxi.at",
+    "zcontainx.cloud",
     "zentexa.com",
     "znbbmwq.com"
 ]);
-let csuite_re = @"(?i)(^|\.)(06webmeet\.us|1yz\.com|adbacrbt\-afk\.github\.io|adbecrest\.icu|adcoxlaw\.com|adiosalosmosquitos\.com|adobeinstaller\-virid\.vercel\.app|adobesdocs\.sbs|advanceddatapro\.com|aligra\.net|ashland\-energy\.com|atikurbd\.com|audicomst\.com\.mx|audtfnaurth\.com\.es|blackprimehouse\.com\.br|boxercourier\.com|browardcountypdf\-viewer\.vercel\.app|browardcourtpdf\-viewer\.vercel\.app|browardpdf\-viewer\.vercel\.app|clementspools\.github\.io|cvouab\.com|dicksine\.info|dndair\.com|docsewallet\.com|docu\-signs\.cc|docvyrview\.de|duvic\.vu|eporaimoveisefacilities\.com\.br|fdihub\.com\.ng|fllicensehealthpdf\-viewer\.vercel\.app|floridabloghealth\.us|fourbrixsolar\.com|geotehnica\.com|gidsux\.cc|groundview\.pt|gudwa\.com|hart\.inf\.br|healthflpdf\-viewer\-nine\.vercel\.app|hipercromo\.com\.br|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|keithwishard24\-coder\.github\.io|kwestventures\.com|laboratoires\-azbane\.com|lagerhaus\-freising\.de|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|mastertechcorp\.com|matakwan\.com|mncacompany\.com|mx\-flow\.de|nhhydraulik\.co\.in|nilehost\.cloud|pageview\.es|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|prsnrw\.de|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|resultsfinderonline\.com|screenconnect\.com|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|tavix\.vu|thamizhnadu\.com|thecloudtechnologies\.com|thegouldings\.co\.uk|thesocialnexus\.co\.za|thiswoodeno\.com|twentytwentydigital\.com|verfiynewdocument\.icu|whisperingjessie\.com|wrproducoes\.com\.br|xureto\.shop|yonataxi\.at|zentexa\.com|znbbmwq\.com)$";
+let csuite_re = @"(?i)(^|\.)(06webmeet\.us|1yz\.com|adbacrbt\-afk\.github\.io|adbecrest\.icu|adcoxlaw\.com|adiosalosmosquitos\.com|adobeinstaller\-virid\.vercel\.app|adobesdocs\.sbs|advanceddatapro\.com|aligra\.net|ashland\-energy\.com|atikurbd\.com|audicomst\.com\.mx|audtfnaurth\.com\.es|blackprimehouse\.com\.br|botsea\.club|boxercourier\.com|browardcountypdf\-viewer\.vercel\.app|browardcourtpdf\-viewer\.vercel\.app|browardpdf\-viewer\.vercel\.app|clementspools\.github\.io|cvouab\.com|dicksine\.info|dndair\.com|docsewallet\.com|docu\-signs\.cc|docvyrview\.de|duvic\.vu|emaycartabogados\.com|eporaimoveisefacilities\.com\.br|fdihub\.com\.ng|fllicensehealthpdf\-viewer\.vercel\.app|floridabloghealth\.us|fourbrixsolar\.com|futuredataconcepts\.com|geotehnica\.com|gidsux\.cc|groundview\.pt|gudwa\.com|hart\.inf\.br|healthflpdf\-viewer\-nine\.vercel\.app|hipercromo\.com\.br|hotelvaldecans\.com\.br|innovative\-sub\.github\.io|jbreganfrf1\.github\.io|karrasconsulting\.net|keithwishard24\-coder\.github\.io|kwestventures\.com|laboratoires\-azbane\.com|lagerhaus\-freising\.de|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|mastertechcorp\.com|matakwan\.com|mncacompany\.com|mx\-flow\.de|nhhydraulik\.co\.in|nilehost\.cloud|noisy\-morning\-0c4b\.orders\-bed\.workers\.dev|pageview\.es|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|prsnrw\.de|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|resultsfinderonline\.com|screenconnect\.com|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|tavix\.vu|thamizhnadu\.com|thecloudtechnologies\.com|thegouldings\.co\.uk|thesocialnexus\.co\.za|thiswoodeno\.com|twentytwentydigital\.com|verfiynewdocument\.icu|whisperingjessie\.com|wrproducoes\.com\.br|xureto\.shop|yonataxi\.at|zcontainx\.cloud|zentexa\.com|znbbmwq\.com)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "http://eporaimoveisefacilities.com.br/ftx/o9573e-1791370045-7c07aa763e61/",
@@ -111,6 +116,7 @@ let csuite_urls = dynamic([
     "https://atikurbd.com/pdfreader/update/",
     "https://audicomst.com.mx/cgi/",
     "https://audtfnaurth.com.es/8nde11/adobe-reader",
+    "https://botsea.club/76etfl/g5eg/",
     "https://boxercourier.com/en/",
     "https://browardcountypdf-viewer.vercel.app/",
     "https://browardcourtpdf-viewer.vercel.app/",
@@ -123,9 +129,11 @@ let csuite_urls = dynamic([
     "https://docsewallet.com/Adobe_Installer.html",
     "https://docu-signs.cc/eDocusign.php",
     "https://docvyrview.de/sign/",
+    "https://emaycartabogados.com/cgibin/docu.html",
     "https://fllicensehealthpdf-viewer.vercel.app/",
     "https://floridabloghealth.us/Update/Adobe_Installer.html",
     "https://fourbrixsolar.com/br/Adobe_Installer.html",
+    "https://futuredataconcepts.com/cgibin/doc.html",
     "https://geotehnica.com/docusignreader/e-sign.php",
     "https://gidsux.cc/pvolvestudios/Document_0016452026.html",
     "https://gm.cvouab.com/xyz/Adobe_Installer.html",
@@ -158,6 +166,7 @@ let csuite_urls = dynamic([
     "https://mx-flow.de/help/wollinkaa/WollinkaWollinkaAttorneys.html",
     "https://nilehost.cloud/Adobe_Installer.html",
     "https://nilehost.cloud/Adobe_Inz.html",
+    "https://noisy-morning-0c4b.orders-bed.workers.dev/Adobe_Installer",
     "https://northbridgecapitalpartner.screenconnect.com/",
     "https://pageview.es/file/Adobe_Installer.html",
     "https://pdf-viewer-five-virid.vercel.app/",
@@ -194,5 +203,6 @@ let csuite_urls = dynamic([
     "https://xureto.shop/xyz/Adobe_Installer.html",
     "https://yonataxi.at/ftx/gu6icp-1791235015-82d47349186b/",
     "https://yonataxi.at/ftx/onf1ci-1791520434-0255a2978568/",
+    "https://zcontainx.cloud/fold.html",
     "https://zentexa.com/acrobat/dc/"
 ]);

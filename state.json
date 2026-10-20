@@ -267,7 +267,7 @@
       ],
       "ip": "172.93.106.214",
       "key": "ashland-energy.com",
-      "last_seen": "2026-10-17T05:02:56.340Z",
+      "last_seen": "2026-10-20T02:52:34.543Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -280,7 +280,8 @@
       "uuids": [
         "01a14764-f09a-71fd-8fce-8bbfd801fec9",
         "01a14731-63ab-7678-a28c-d5bb38dae1c3",
-        "01a1483d-5eae-760a-8e99-1cb16e3daa38"
+        "01a1483d-5eae-760a-8e99-1cb16e3daa38",
+        "01a15739-7a9d-7078-86b8-d571014b3eb2"
       ]
     },
     "atikurbd.com": {
@@ -375,6 +376,31 @@
       "uuids": [
         "01a0fa27-9aee-72ba-a74b-7a333a16ef17",
         "01a0fa22-1c81-729e-800a-ac88f5fe345a"
+      ]
+    },
+    "botsea.club": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-10-20T04:43:25Z",
+      "first_seen": "2026-10-20T00:15:54.104Z",
+      "hosts": [
+        "botsea.club"
+      ],
+      "ip": "50.6.202.214",
+      "key": "botsea.club",
+      "last_seen": "2026-10-20T01:00:28.271Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://botsea.club/76etfl/g5eg/"
+      ],
+      "uuids": [
+        "01a156d2-da2c-73ea-8b19-9889d88202e7",
+        "01a156aa-0bcd-76ea-83a7-d970f6ab6a18"
       ]
     },
     "boxercourier.com": {
@@ -703,6 +729,31 @@
         "01a1404c-d770-7296-a15a-54dd187f4754"
       ]
     },
+    "emaycartabogados.com": {
+      "asn": "AS395111",
+      "confidence": "medium",
+      "first_run": "2026-10-20T04:43:25Z",
+      "first_seen": "2026-10-20T01:01:42.236Z",
+      "hosts": [
+        "emaycartabogados.com"
+      ],
+      "ip": "142.214.190.131",
+      "key": "emaycartabogados.com",
+      "last_seen": "2026-10-20T04:31:28.718Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://emaycartabogados.com/cgibin/docu.html"
+      ],
+      "uuids": [
+        "01a15793-b538-767f-a34b-b0ec719cebd0",
+        "01a156d3-f37c-745e-afe0-8108c2ae5b63"
+      ]
+    },
     "eporaimoveisefacilities.com.br": {
       "asn": "AS16276",
       "confidence": "low",
@@ -827,6 +878,30 @@
       "uuids": [
         "01a11739-27b3-714f-bb92-128a728036f0",
         "01a125e1-f557-7760-93a5-5df3937d13ba"
+      ]
+    },
+    "futuredataconcepts.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-10-20T04:43:25Z",
+      "first_seen": "2026-10-20T01:02:03.495Z",
+      "hosts": [
+        "futuredataconcepts.com"
+      ],
+      "ip": "192.185.21.205",
+      "key": "futuredataconcepts.com",
+      "last_seen": "2026-10-20T01:02:03.495Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://futuredataconcepts.com/cgibin/doc.html"
+      ],
+      "uuids": [
+        "01a156d4-3ef8-76ad-889a-c4a1b822701f"
       ]
     },
     "geotehnica.com": {
@@ -1425,7 +1500,7 @@
       ],
       "ip": "213.136.93.167",
       "key": "mx-flow.de",
-      "last_seen": "2026-10-18T04:48:35.950Z",
+      "last_seen": "2026-10-20T00:10:40.724Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1443,7 +1518,8 @@
         "01a1423b-6a22-757b-91ee-8a49ccc4a3ce",
         "01a142fa-b361-70ad-8d90-3137bdc4abf9",
         "01a14c89-fd64-701e-9bcb-2f232693948c",
-        "01a14d56-89d4-769f-999e-23307f7eff1c"
+        "01a14d56-89d4-769f-999e-23307f7eff1c",
+        "01a156a5-48f5-75cb-b695-b115b9feb618"
       ]
     },
     "nhhydraulik.co.in": {
@@ -1504,6 +1580,31 @@
         "01a0f682-f260-7485-b0eb-07619737e312",
         "01a0f8a0-e60c-732b-9d7b-507ed12416bb",
         "01a0f85d-98f3-72cd-9689-6c99e083eb8a"
+      ]
+    },
+    "noisy-morning-0c4b.orders-bed.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-20T04:43:25Z",
+      "first_seen": "2026-10-20T03:53:36.062Z",
+      "hosts": [
+        "noisy-morning-0c4b.orders-bed.workers.dev"
+      ],
+      "ip": "188.114.96.3",
+      "key": "noisy-morning-0c4b.orders-bed.workers.dev",
+      "last_seen": "2026-10-20T03:57:38.964Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://noisy-morning-0c4b.orders-bed.workers.dev/Adobe_Installer"
+      ],
+      "uuids": [
+        "01a15775-13bc-74d1-91e1-81c9e4642312",
+        "01a15771-5df0-7728-ac9c-02879c532f77"
       ]
     },
     "pageview.es": {
@@ -1597,7 +1698,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-19T10:11:08.362Z",
+      "last_seen": "2026-10-19T22:52:38.544Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1617,7 +1718,8 @@
         "01a151b2-0c85-74ff-ae6d-93de894aaeae",
         "01a153a4-4a4d-735d-9d1e-1fb0e51da733",
         "01a152f9-54b6-73c6-9b2b-f74a26bd9bc3",
-        "01a15280-6277-722a-9493-13d661d412b9"
+        "01a15280-6277-722a-9493-13d661d412b9",
+        "01a1565d-cb51-7394-818a-5a0f93d55d70"
       ]
     },
     "piedrasdecolon.com.ar": {
@@ -2237,6 +2339,31 @@
         "01a11ef0-617f-77dd-bef9-9d3b07e90165"
       ]
     },
+    "zcontainx.cloud": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-10-20T04:43:25Z",
+      "first_seen": "2026-10-20T01:04:27.292Z",
+      "hosts": [
+        "zcontainx.cloud"
+      ],
+      "ip": "50.6.202.214",
+      "key": "zcontainx.cloud",
+      "last_seen": "2026-10-20T01:04:27.292Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://zcontainx.cloud/fold.html"
+      ],
+      "uuids": [
+        "01a156d6-5ccf-7084-be1c-0bc449ffa019"
+      ]
+    },
     "zentexa.com": {
       "asn": "AS55293",
       "confidence": "medium",
@@ -2292,8 +2419,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-19T22:18:41Z",
-    "last_success": "2026-10-19T22:18:41Z",
-    "window_hours": 11
+    "last_run": "2026-10-20T04:43:25Z",
+    "last_success": "2026-10-20T04:43:25Z",
+    "window_hours": 8
   }
 }
