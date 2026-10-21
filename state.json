@@ -230,6 +230,30 @@
         "01a14003-e7c2-747e-acb9-56f3a24b6c42"
       ]
     },
+    "airconalgarve.com": {
+      "asn": "AS46606",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:34:49.639Z",
+      "hosts": [
+        "airconalgarve.com"
+      ],
+      "ip": "204.11.59.228",
+      "key": "airconalgarve.com",
+      "last_seen": "2026-10-21T04:34:49.639Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://airconalgarve.com/ftx/ex1ygo-1792557274-3057a9d82bed/"
+      ],
+      "uuids": [
+        "01a15cbd-4b2a-71fa-8dd1-821a68b65ede"
+      ]
+    },
     "aligra.net": {
       "asn": "AS398101",
       "confidence": "medium",
@@ -255,6 +279,30 @@
         "01a13387-0a20-742c-adc6-5e81d12704c2",
         "01a1335d-715e-74b4-a4ac-0708cebfbd0c",
         "01a132c7-ca72-7537-a91d-c133d8d1eb04"
+      ]
+    },
+    "amepiequipamentos.com.br": {
+      "asn": "AS31898",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:34:20.482Z",
+      "hosts": [
+        "amepiequipamentos.com.br"
+      ],
+      "ip": "162.241.3.25",
+      "key": "amepiequipamentos.com.br",
+      "last_seen": "2026-10-21T04:34:20.482Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://amepiequipamentos.com.br/ftx/u3l6yv-1792557253-10e98fae77d6/"
+      ],
+      "uuids": [
+        "01a15cbc-fa5b-73fe-8401-b8eded5674f8"
       ]
     },
     "aral-latam.com": {
@@ -380,6 +428,54 @@
         "01a0f0b1-1fa5-71ea-8718-dd8158a0f0d5"
       ]
     },
+    "beservicesit.mx": {
+      "asn": "AS19318",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:35:21.254Z",
+      "hosts": [
+        "beservicesit.mx"
+      ],
+      "ip": "205.209.103.115",
+      "key": "beservicesit.mx",
+      "last_seen": "2026-10-21T04:35:21.254Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Document Verification – DocuSign (Lab Demo)",
+      "urls": [
+        "https://beservicesit.mx/ftx/3u4zm7-1792557301-9be52775744d/"
+      ],
+      "uuids": [
+        "01a15cbd-bb5d-712b-8485-1e0c34cf1f01"
+      ]
+    },
+    "bestcareindia.com": {
+      "asn": "AS136258",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:35:11.833Z",
+      "hosts": [
+        "bestcareindia.com"
+      ],
+      "ip": "94.229.208.55",
+      "key": "bestcareindia.com",
+      "last_seen": "2026-10-21T04:35:11.833Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://bestcareindia.com/ftx/945zlf-1792557298-c276453cf034/"
+      ],
+      "uuids": [
+        "01a15cbd-abe8-7176-97d3-457b460d6c17"
+      ]
+    },
     "blackprimehouse.com.br": {
       "asn": "AS31898",
       "confidence": "medium",
@@ -402,6 +498,30 @@
       "uuids": [
         "01a0fa27-9aee-72ba-a74b-7a333a16ef17",
         "01a0fa22-1c81-729e-800a-ac88f5fe345a"
+      ]
+    },
+    "bolsasgotadagua.com": {
+      "asn": "AS53107",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:27:18.430Z",
+      "hosts": [
+        "bolsasgotadagua.com"
+      ],
+      "ip": "186.194.51.11",
+      "key": "bolsasgotadagua.com",
+      "last_seen": "2026-10-21T04:27:18.430Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "DocuSign · e-sign",
+      "urls": [
+        "https://bolsasgotadagua.com/ftx/brneo4-1792556830-bfa1488cd6b0/"
+      ],
+      "uuids": [
+        "01a15cb6-89bf-749b-a2e3-3936ad429769"
       ]
     },
     "botsea.club": {
@@ -544,6 +664,30 @@
         "01a13220-4d22-707f-acf0-8d1b2950d7fa",
         "01a13f25-9471-751e-93b7-cf7f5de825fc",
         "01a14ad5-e90e-7513-ad40-131e5db158e1"
+      ]
+    },
+    "caminospordescubrir.cl": {
+      "asn": "AS46606",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:35:55.649Z",
+      "hosts": [
+        "caminospordescubrir.cl"
+      ],
+      "ip": "162.240.0.242",
+      "key": "caminospordescubrir.cl",
+      "last_seen": "2026-10-21T04:35:55.649Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://caminospordescubrir.cl/ftx/ujopnr-1792557341-2f1dbd1fd071/"
+      ],
+      "uuids": [
+        "01a15cbe-6899-75ac-a566-24d209106c71"
       ]
     },
     "clementspools.github.io": {
@@ -1009,6 +1153,30 @@
         "01a116be-152e-7070-b3c2-9c354a15766c"
       ]
     },
+    "gigarush.com": {
+      "asn": "AS13335",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:38:31.873Z",
+      "hosts": [
+        "gigarush.com"
+      ],
+      "ip": "172.67.164.84",
+      "key": "gigarush.com",
+      "last_seen": "2026-10-21T04:38:31.873Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://gigarush.com/ftx/y69rj8-1792557501-67f3d4c3fb2d/"
+      ],
+      "uuids": [
+        "01a15cc0-cb13-75f1-bf44-5a443ef8914c"
+      ]
+    },
     "googleapis.com": {
       "asn": "AS396982",
       "confidence": "medium",
@@ -1139,7 +1307,7 @@
       ],
       "ip": "185.199.108.153",
       "key": "hernunspnc.github.io",
-      "last_seen": "2026-10-20T19:07:58.960Z",
+      "last_seen": "2026-10-21T00:31:00.216Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1152,7 +1320,8 @@
       "uuids": [
         "01a15a26-6b7b-7336-885f-ede25f18f3ff",
         "01a15965-c8b5-7135-bbc4-01fab8334603",
-        "01a15ab6-6ba7-73c0-89f0-fa29fa3a05d2"
+        "01a15ab6-6ba7-73c0-89f0-fa29fa3a05d2",
+        "01a15bdd-e350-7748-8a1b-c364dc423e33"
       ]
     },
     "hipercromo.com.br": {
@@ -1369,7 +1538,7 @@
       ],
       "ip": "193.34.145.201",
       "key": "lagerhaus-freising.de",
-      "last_seen": "2026-10-19T16:54:58.027Z",
+      "last_seen": "2026-10-21T01:16:40.592Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1382,7 +1551,8 @@
       "uuids": [
         "01a14f1b-25dd-7309-841d-75dc02157c37",
         "01a14ff6-bb36-759a-a5b9-a5fdba25d2cf",
-        "01a15516-603b-707b-a18a-32f3a2c4d643"
+        "01a15516-603b-707b-a18a-32f3a2c4d643",
+        "01a15c08-1064-7028-99a2-84a3c295f459"
       ]
     },
     "luxfab.luxe": {
@@ -1687,6 +1857,30 @@
       "uuids": [
         "01a15775-13bc-74d1-91e1-81c9e4642312",
         "01a15771-5df0-7728-ac9c-02879c532f77"
+      ]
+    },
+    "padmaelectricals.com": {
+      "asn": "AS136258",
+      "confidence": "low",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T04:26:37.278Z",
+      "hosts": [
+        "padmaelectricals.com"
+      ],
+      "ip": "94.229.208.55",
+      "key": "padmaelectricals.com",
+      "last_seen": "2026-10-21T04:26:37.278Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://padmaelectricals.com/ftx/q5i7gf-1792556790-ca67cddae9fe/"
+      ],
+      "uuids": [
+        "01a15cb5-e617-7460-a0f4-098b75ad6bad"
       ]
     },
     "pageview.es": {
@@ -2031,6 +2225,31 @@
         "01a1442d-ed39-704c-973a-30c6cf3aa80c"
       ]
     },
+    "sdzgranitephils.com": {
+      "asn": "AS26496",
+      "confidence": "high",
+      "first_run": "2026-10-21T04:40:06Z",
+      "first_seen": "2026-10-21T00:21:11.618Z",
+      "hosts": [
+        "sdzgranitephils.com"
+      ],
+      "ip": "97.74.91.240",
+      "key": "sdzgranitephils.com",
+      "last_seen": "2026-10-21T00:21:11.618Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://sdzgranitephils.com/xy/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a15bd5-3afc-744d-b413-c5924e4afff0"
+      ]
+    },
     "skyloghomes.com": {
       "asn": "AS394456",
       "confidence": "medium",
@@ -2041,7 +2260,7 @@
       ],
       "ip": "66.223.49.32",
       "key": "skyloghomes.com",
-      "last_seen": "2026-10-20T19:19:05.031Z",
+      "last_seen": "2026-10-21T01:03:24.872Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2052,7 +2271,8 @@
         "https://skyloghomes.com/on/"
       ],
       "uuids": [
-        "01a15ac0-99be-729d-8db2-b773dd05a8f9"
+        "01a15ac0-99be-729d-8db2-b773dd05a8f9",
+        "01a15bfb-dbdf-72ff-81f2-bc3588d8beb1"
       ]
     },
     "stein-sudo.github.io": {
@@ -2555,8 +2775,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-20T21:34:07Z",
-    "last_success": "2026-10-20T21:34:07Z",
-    "window_hours": 6
+    "last_run": "2026-10-21T04:40:06Z",
+    "last_success": "2026-10-21T04:40:06Z",
+    "window_hours": 9
   }
 }
