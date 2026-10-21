@@ -534,7 +534,7 @@
       ],
       "ip": "50.6.202.214",
       "key": "botsea.club",
-      "last_seen": "2026-10-20T13:12:21.916Z",
+      "last_seen": "2026-10-21T07:16:25.370Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -548,7 +548,8 @@
         "01a156d2-da2c-73ea-8b19-9889d88202e7",
         "01a156aa-0bcd-76ea-83a7-d970f6ab6a18",
         "01a157ce-bc94-70dc-8287-78ec4053c49d",
-        "01a15970-dfaf-75b2-8fed-fd7d93aa14cc"
+        "01a15970-dfaf-75b2-8fed-fd7d93aa14cc",
+        "01a15d51-661c-758b-af58-ed9241b2aca9"
       ]
     },
     "boxercourier.com": {
@@ -1128,6 +1129,30 @@
       "uuids": [
         "01a10997-de42-7714-9534-b0d7e08ce17e",
         "01a151ad-e770-756a-b17f-7621cbbe9e64"
+      ]
+    },
+    "getthehat.online": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-21T11:41:57Z",
+      "first_seen": "2026-10-21T10:37:39.783Z",
+      "hosts": [
+        "ton.getthehat.online"
+      ],
+      "ip": "172.67.220.33",
+      "key": "getthehat.online",
+      "last_seen": "2026-10-21T10:37:39.783Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://ton.getthehat.online/"
+      ],
+      "uuids": [
+        "01a15e09-a72c-73c8-9670-167cf5f0b77a"
       ]
     },
     "gidsux.cc": {
@@ -1728,7 +1753,7 @@
       ],
       "ip": "208.85.7.205",
       "key": "mncacompany.com",
-      "last_seen": "2026-10-18T03:14:33.141Z",
+      "last_seen": "2026-10-21T04:40:29.555Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -1736,10 +1761,37 @@
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://mncacompany.com/ftx/iu1mv6-1792293261-6cd6cc03c2b2/"
+        "https://mncacompany.com/ftx/iu1mv6-1792293261-6cd6cc03c2b2/",
+        "https://mncacompany.com/ftx/rvify3-1792557620-fab9b9a94d0f/"
       ],
       "uuids": [
-        "01a14d00-d235-76eb-8920-6c3741938719"
+        "01a14d00-d235-76eb-8920-6c3741938719",
+        "01a15cc2-9d21-705d-b356-b74b1f382ae8"
+      ]
+    },
+    "morronetours.com": {
+      "asn": "AS20473",
+      "confidence": "high",
+      "first_run": "2026-10-21T11:41:57Z",
+      "first_seen": "2026-10-21T07:53:23.565Z",
+      "hosts": [
+        "morronetours.com"
+      ],
+      "ip": "45.77.199.242",
+      "key": "morronetours.com",
+      "last_seen": "2026-10-21T07:53:23.565Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://morronetours.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a15d73-0403-759a-b09a-1c1281be449c"
       ]
     },
     "mx-flow.de": {
@@ -2260,7 +2312,7 @@
       ],
       "ip": "66.223.49.32",
       "key": "skyloghomes.com",
-      "last_seen": "2026-10-21T01:03:24.872Z",
+      "last_seen": "2026-10-21T11:14:42.041Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2272,7 +2324,10 @@
       ],
       "uuids": [
         "01a15ac0-99be-729d-8db2-b773dd05a8f9",
-        "01a15bfb-dbdf-72ff-81f2-bc3588d8beb1"
+        "01a15bfb-dbdf-72ff-81f2-bc3588d8beb1",
+        "01a15e2b-88a6-769d-844b-7a48b90f6449",
+        "01a15de5-e34f-74e2-93cf-a0253c04cc57",
+        "01a15cd7-4aaf-70ee-a95b-a9db48a86444"
       ]
     },
     "stein-sudo.github.io": {
@@ -2584,17 +2639,19 @@
       ],
       "ip": "162.241.218.217",
       "key": "whisperingjessie.com",
-      "last_seen": "2026-09-30T09:40:40.120Z",
+      "last_seen": "2026-10-21T04:46:23.978Z",
       "queries": [
         "Q1c_icon"
       ],
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://whisperingjessie.com/ftx/om8ed4-1790761233-641f025b68d2/"
+        "https://whisperingjessie.com/ftx/om8ed4-1790761233-641f025b68d2/",
+        "https://whisperingjessie.com/ftx/8phj1r-1792557977-13f076837966/"
       ],
       "uuids": [
-        "01a0f1af-e24b-73a8-90eb-da052110e4df"
+        "01a0f1af-e24b-73a8-90eb-da052110e4df",
+        "01a15cc8-04b7-71f5-99fc-4a315562ef1b"
       ]
     },
     "workers.dev": {
@@ -2775,8 +2832,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-21T04:40:06Z",
-    "last_success": "2026-10-21T04:40:06Z",
+    "last_run": "2026-10-21T11:41:57Z",
+    "last_success": "2026-10-21T11:41:57Z",
     "window_hours": 9
   }
 }
