@@ -366,7 +366,7 @@
       ],
       "ip": "172.93.106.214",
       "key": "ashland-energy.com",
-      "last_seen": "2026-10-20T02:52:34.543Z",
+      "last_seen": "2026-10-22T12:44:37.432Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -380,7 +380,8 @@
         "01a14764-f09a-71fd-8fce-8bbfd801fec9",
         "01a14731-63ab-7678-a28c-d5bb38dae1c3",
         "01a1483d-5eae-760a-8e99-1cb16e3daa38",
-        "01a15739-7a9d-7078-86b8-d571014b3eb2"
+        "01a15739-7a9d-7078-86b8-d571014b3eb2",
+        "01a163a4-1ada-7391-b62c-c42213e03750"
       ]
     },
     "atikurbd.com": {
@@ -1458,6 +1459,29 @@
         "01a14982-daab-77b9-8cf5-b431b0c471b9"
       ]
     },
+    "hjp-s3-akf.s3.us-east-1.amazonaws.com": {
+      "asn": "AS16509",
+      "confidence": "low",
+      "first_run": "2026-10-22T17:06:33Z",
+      "first_seen": "2026-10-22T15:34:58.393Z",
+      "hosts": [
+        "hjp-s3-akf.s3.us-east-1.amazonaws.com"
+      ],
+      "ip": "54.231.204.58",
+      "key": "hjp-s3-akf.s3.us-east-1.amazonaws.com",
+      "last_seen": "2026-10-22T15:34:58.393Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "urls": [
+        "https://hjp-s3-akf.s3.us-east-1.amazonaws.com/Adobe_4u/Adobe_New/en/index.html"
+      ],
+      "uuids": [
+        "01a16440-081e-73ef-85b3-6b635561b470"
+      ]
+    },
     "hotelvaldecans.com.br": {
       "asn": "AS31898",
       "confidence": "low",
@@ -1491,7 +1515,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-22T04:30:58.426Z",
+      "last_seen": "2026-10-22T16:47:54.834Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1506,7 +1530,10 @@
         "01a161e0-48d4-73dd-8073-8604db052a35",
         "01a16151-0313-701c-97ee-54a9b47d995c",
         "01a16142-e421-74e9-a97e-309c89eae458",
-        "01a1611f-8492-7378-bf16-a2df4fc2afa0"
+        "01a1611f-8492-7378-bf16-a2df4fc2afa0",
+        "01a16482-f746-7122-bc12-90560221ddbf",
+        "01a16467-d814-7225-a454-7dd4d5728474",
+        "01a163b6-41f9-76e8-a1ac-bc4b3d6a6103"
       ]
     },
     "index-newproject.vercel.app": {
@@ -1519,7 +1546,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "index-newproject.vercel.app",
-      "last_seen": "2026-10-22T06:30:32.455Z",
+      "last_seen": "2026-10-22T16:47:52.514Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1533,7 +1560,10 @@
         "01a161e0-59fa-766f-bae0-04b463738d45",
         "01a16156-87bc-755e-b634-0c344700b87c",
         "01a16120-2d2d-74de-9c6b-94b64e56a775",
-        "01a1624d-c4d5-77e2-9e2d-f5506b41433a"
+        "01a1624d-c4d5-77e2-9e2d-f5506b41433a",
+        "01a16482-ec31-7785-b4e6-42bec4c7f585",
+        "01a1645b-d0cb-752c-90fd-dc5e8c0221d1",
+        "01a163b5-d200-778c-86bc-7600ef9faac5"
       ]
     },
     "innovative-sub.github.io": {
@@ -1972,7 +2002,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "new-indexproject.vercel.app",
-      "last_seen": "2026-10-22T09:27:36.082Z",
+      "last_seen": "2026-10-22T16:30:31.053Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1983,7 +2013,10 @@
         "https://new-indexproject.vercel.app/"
       ],
       "uuids": [
-        "01a162ef-dec2-74ae-acff-1b3c023afd78"
+        "01a162ef-dec2-74ae-acff-1b3c023afd78",
+        "01a16473-0ab3-733c-b750-bf93fbfba482",
+        "01a16408-cec9-757d-8dac-2db0d847feee",
+        "01a163b2-81fd-754b-b4db-947f99550918"
       ]
     },
     "nhhydraulik.co.in": {
@@ -2130,7 +2163,7 @@
       ],
       "ip": "64.29.17.195",
       "key": "pdf-viewer-five-virid.vercel.app",
-      "last_seen": "2026-10-11T10:39:41.908Z",
+      "last_seen": "2026-10-22T16:47:55.513Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2188,7 +2221,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-21T20:30:30.014Z",
+      "last_seen": "2026-10-22T15:53:21.515Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3021,8 +3054,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-22T11:45:26Z",
-    "last_success": "2026-10-22T11:45:26Z",
-    "window_hours": 9
+    "last_run": "2026-10-22T17:06:33Z",
+    "last_success": "2026-10-22T17:06:33Z",
+    "window_hours": 7
   }
 }
