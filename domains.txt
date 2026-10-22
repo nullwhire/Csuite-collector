@@ -54,6 +54,7 @@ hernunspnc.github.io
 hipercromo.com.br
 hotelvaldecans.com.br
 index-catty-neww.vercel.app
+index-newproject.vercel.app
 innovative-sub.github.io
 jbreganfrf1.github.io
 karrasconsulting.net

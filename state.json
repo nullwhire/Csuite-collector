@@ -1441,7 +1441,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-21T21:12:06.813Z",
+      "last_seen": "2026-10-22T04:30:58.426Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1452,7 +1452,37 @@
         "https://index-catty-neww.vercel.app/"
       ],
       "uuids": [
-        "01a1604e-824a-7036-a3e3-f337776399d8"
+        "01a1604e-824a-7036-a3e3-f337776399d8",
+        "01a161e0-48d4-73dd-8073-8604db052a35",
+        "01a16151-0313-701c-97ee-54a9b47d995c",
+        "01a16142-e421-74e9-a97e-309c89eae458",
+        "01a1611f-8492-7378-bf16-a2df4fc2afa0"
+      ]
+    },
+    "index-newproject.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-22T04:37:26Z",
+      "first_seen": "2026-10-22T01:01:09.503Z",
+      "hosts": [
+        "index-newproject.vercel.app"
+      ],
+      "ip": "216.198.79.3",
+      "key": "index-newproject.vercel.app",
+      "last_seen": "2026-10-22T04:31:09.471Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://index-newproject.vercel.app/"
+      ],
+      "uuids": [
+        "01a161e0-59fa-766f-bae0-04b463738d45",
+        "01a16156-87bc-755e-b634-0c344700b87c",
+        "01a16120-2d2d-74de-9c6b-94b64e56a775"
       ]
     },
     "innovative-sub.github.io": {
@@ -2891,8 +2921,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-21T21:37:45Z",
-    "last_success": "2026-10-21T21:37:45Z",
-    "window_hours": 6
+    "last_run": "2026-10-22T04:37:26Z",
+    "last_success": "2026-10-22T04:37:26Z",
+    "window_hours": 8
   }
 }
