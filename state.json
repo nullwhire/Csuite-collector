@@ -1225,7 +1225,7 @@
       ],
       "ip": "172.67.220.33",
       "key": "getthehat.online",
-      "last_seen": "2026-10-23T01:06:38.527Z",
+      "last_seen": "2026-10-23T05:15:17.114Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1237,7 +1237,9 @@
       ],
       "uuids": [
         "01a15e09-a72c-73c8-9670-167cf5f0b77a",
-        "01a1664b-5fe7-7022-9615-f91bb3408460"
+        "01a1664b-5fe7-7022-9615-f91bb3408460",
+        "01a1672f-36c2-718a-8ff0-54d4b1b6cd8c",
+        "01a16724-083f-7182-88c6-0226ac8d421d"
       ]
     },
     "gidsux.cc": {
@@ -1356,6 +1358,30 @@
         "01a0f10c-a381-735d-a6dd-2a53d20056fe",
         "01a1099b-8402-774a-844a-968cb1a4e5fe",
         "01a10994-1cf4-77e4-b591-42e9a9aca567"
+      ]
+    },
+    "haidantr.com": {
+      "asn": "AS397423",
+      "confidence": "medium",
+      "first_run": "2026-10-23T11:32:40Z",
+      "first_seen": "2026-10-23T09:39:44.553Z",
+      "hosts": [
+        "haidantr.com"
+      ],
+      "ip": "66.11.126.35",
+      "key": "haidantr.com",
+      "last_seen": "2026-10-23T09:39:44.553Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "404 Not Found",
+      "urls": [
+        "https://haidantr.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a16821-4b20-779b-a16d-a9e8032064fc"
       ]
     },
     "hart.inf.br": {
@@ -2006,7 +2032,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "new-indexproject.vercel.app",
-      "last_seen": "2026-10-23T01:06:27.167Z",
+      "last_seen": "2026-10-23T05:16:42.894Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2022,7 +2048,9 @@
         "01a16408-cec9-757d-8dac-2db0d847feee",
         "01a163b2-81fd-754b-b4db-947f99550918",
         "01a16512-86b1-7433-adfb-0a30bfb3a95c",
-        "01a1664b-6a1f-74da-a4f0-0facefccb2f9"
+        "01a1664b-6a1f-74da-a4f0-0facefccb2f9",
+        "01a16730-51ff-71d8-9303-467263039fca",
+        "01a16724-0ae8-72d3-b6ad-68aa8da55422"
       ]
     },
     "nexadocviewcloud.icu": {
@@ -2251,7 +2279,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-23T03:01:51.734Z",
+      "last_seen": "2026-10-23T07:30:26.782Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3084,8 +3112,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-23T04:43:35Z",
-    "last_success": "2026-10-23T04:43:35Z",
-    "window_hours": 9
+    "last_run": "2026-10-23T11:32:40Z",
+    "last_success": "2026-10-23T11:32:40Z",
+    "window_hours": 8
   }
 }
