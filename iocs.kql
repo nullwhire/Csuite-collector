@@ -1,4 +1,4 @@
-// CSuite candidate IOCs, generated 2026-10-23T11:32:40Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-23T17:02:51Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
 // domains: 117 | ips: 0 | urls: 138
