@@ -801,6 +801,32 @@
         "01a1626b-fcbd-7329-8a2c-5755c9015ebf"
       ]
     },
+    "csrdrywallss.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-24T04:30:43Z",
+      "first_seen": "2026-10-24T00:21:28.995Z",
+      "hosts": [
+        "csrdrywallss.vercel.app"
+      ],
+      "ip": "64.29.17.131",
+      "key": "csrdrywallss.vercel.app",
+      "last_seen": "2026-10-24T01:38:46.816Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://csrdrywallss.vercel.app/"
+      ],
+      "uuids": [
+        "01a16b8f-5cfc-7643-9c9d-b9009371942e",
+        "01a16b6e-55cc-76cf-b856-8d71f23c5a82",
+        "01a16b48-74c4-76b9-ad86-468f5a26d6cf"
+      ]
+    },
     "cvouab.com": {
       "asn": "AS51167",
       "confidence": "high",
@@ -1191,7 +1217,7 @@
     },
     "geotehnica.com": {
       "asn": "AS48452",
-      "confidence": "medium",
+      "confidence": "high",
       "first_run": "2026-10-05T05:33:07Z",
       "first_seen": "2026-10-05T01:05:21.188Z",
       "hosts": [
@@ -1200,19 +1226,22 @@
       ],
       "ip": "94.26.91.102",
       "key": "geotehnica.com",
-      "last_seen": "2026-10-19T01:01:59.809Z",
+      "last_seen": "2026-10-24T01:02:14.289Z",
       "queries": [
-        "Q1b_esign"
+        "Q1b_esign",
+        "Q1a_edocusign"
       ],
       "status": "new",
       "title": "404 Not Found",
       "urls": [
         "https://geotehnica.com/docusignreader/e-sign.php",
-        "https://www.geotehnica.com/docusignreader/e-sign.php"
+        "https://www.geotehnica.com/docusignreader/e-sign.php",
+        "https://www.geotehnica.com/docusignreader/eDocusign.php"
       ],
       "uuids": [
         "01a10997-de42-7714-9534-b0d7e08ce17e",
-        "01a151ad-e770-756a-b17f-7621cbbe9e64"
+        "01a151ad-e770-756a-b17f-7621cbbe9e64",
+        "01a16b6d-ecce-7666-b2d1-dc2b4ec7ed75"
       ]
     },
     "getthehat.online": {
@@ -1644,6 +1673,30 @@
         "01a11bc5-986f-75a9-b40b-3dc69d54389e"
       ]
     },
+    "jurassicfa.com": {
+      "asn": "AS398101",
+      "confidence": "low",
+      "first_run": "2026-10-24T04:30:43Z",
+      "first_seen": "2026-10-24T01:04:07.623Z",
+      "hosts": [
+        "jurassicfa.com"
+      ],
+      "ip": "148.72.59.210",
+      "key": "jurassicfa.com",
+      "last_seen": "2026-10-24T01:04:07.623Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://jurassicfa.com/docsign/page.html"
+      ],
+      "uuids": [
+        "01a16b6f-9ec5-754a-aff2-6c56ff46da81"
+      ]
+    },
     "karrasconsulting.net": {
       "asn": "AS22611",
       "confidence": "medium",
@@ -1937,6 +1990,30 @@
       ],
       "uuids": [
         "01a152bc-031a-70d0-9b20-805e37e1d3dd"
+      ]
+    },
+    "maxsegnr.com.br": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-10-24T04:30:43Z",
+      "first_seen": "2026-10-24T01:05:25.143Z",
+      "hosts": [
+        "maxsegnr.com.br"
+      ],
+      "ip": "108.167.188.63",
+      "key": "maxsegnr.com.br",
+      "last_seen": "2026-10-24T01:05:25.143Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://maxsegnr.com.br/vbs/adbe.html"
+      ],
+      "uuids": [
+        "01a16b70-cfad-75d8-b098-1ee7d3d22ee5"
       ]
     },
     "mncacompany.com": {
@@ -2279,7 +2356,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-23T07:30:26.782Z",
+      "last_seen": "2026-10-24T02:14:48.190Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -2346,7 +2423,7 @@
       ],
       "ip": "209.222.98.213",
       "key": "pokeventas.com",
-      "last_seen": "2026-10-10T20:28:17.633Z",
+      "last_seen": "2026-10-24T01:01:15.179Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2359,7 +2436,32 @@
         "01a10eba-592f-76de-ba91-8a7cd835fef8",
         "01a10eba-55f2-76e5-a6f2-b0c30353bf1f",
         "01a125c0-40fd-70a8-9cd9-42bd6dc8f626",
-        "01a12780-5e12-70fd-868f-db92c1e84512"
+        "01a12780-5e12-70fd-868f-db92c1e84512",
+        "01a16b6c-fd80-72af-8a91-ba3f6c9f6b87"
+      ]
+    },
+    "prasannashirol.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-10-24T04:30:43Z",
+      "first_seen": "2026-10-24T01:24:10.730Z",
+      "hosts": [
+        "prasannashirol.com"
+      ],
+      "ip": "173.254.79.114",
+      "key": "prasannashirol.com",
+      "last_seen": "2026-10-24T01:24:10.730Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://prasannashirol.com/wp-admin/Adb/"
+      ],
+      "uuids": [
+        "01a16b81-f9c6-756c-b658-7357b2bc84b4"
       ]
     },
     "prsnrw.de": {
@@ -2566,7 +2668,7 @@
       ],
       "ip": "66.223.49.32",
       "key": "skyloghomes.com",
-      "last_seen": "2026-10-21T11:14:42.041Z",
+      "last_seen": "2026-10-24T02:45:28.454Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2581,7 +2683,8 @@
         "01a15bfb-dbdf-72ff-81f2-bc3588d8beb1",
         "01a15e2b-88a6-769d-844b-7a48b90f6449",
         "01a15de5-e34f-74e2-93cf-a0253c04cc57",
-        "01a15cd7-4aaf-70ee-a95b-a9db48a86444"
+        "01a15cd7-4aaf-70ee-a95b-a9db48a86444",
+        "01a16bcc-664f-75ab-afd7-40ba2f7c0239"
       ]
     },
     "stein-sudo.github.io": {
@@ -3136,8 +3239,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-23T21:21:32Z",
-    "last_success": "2026-10-23T21:21:32Z",
-    "window_hours": 6
+    "last_run": "2026-10-24T04:30:43Z",
+    "last_success": "2026-10-24T04:30:43Z",
+    "window_hours": 9
   }
 }
