@@ -645,7 +645,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardcourtpdf-viewer.vercel.app",
-      "last_seen": "2026-10-23T11:48:42.287Z",
+      "last_seen": "2026-10-24T09:00:38.151Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -811,7 +811,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "csrdrywallss.vercel.app",
-      "last_seen": "2026-10-24T01:38:46.816Z",
+      "last_seen": "2026-10-24T09:02:48.323Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -824,7 +824,8 @@
       "uuids": [
         "01a16b8f-5cfc-7643-9c9d-b9009371942e",
         "01a16b6e-55cc-76cf-b856-8d71f23c5a82",
-        "01a16b48-74c4-76b9-ad86-468f5a26d6cf"
+        "01a16b48-74c4-76b9-ad86-468f5a26d6cf",
+        "01a16d25-dd1b-774b-ac5c-3e8f85bc258f"
       ]
     },
     "cvouab.com": {
@@ -891,7 +892,7 @@
       ],
       "ip": "50.87.143.172",
       "key": "dndair.com",
-      "last_seen": "2026-09-30T17:57:49.811Z",
+      "last_seen": "2026-10-24T10:10:56.967Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -902,7 +903,10 @@
       ],
       "uuids": [
         "01a0f209-5566-73d4-a65f-6d0579a4a1ba",
-        "01a0f376-f519-7119-9624-2429be97ea39"
+        "01a0f376-f519-7119-9624-2429be97ea39",
+        "01a16d62-d981-730e-ae9b-f007eba0c6c9",
+        "01a16d3a-75f9-7747-9ab8-4994e62deae0",
+        "01a16d33-d6b7-747c-8b67-621765b40dda"
       ]
     },
     "docsewallet.com": {
@@ -915,7 +919,7 @@
       ],
       "ip": "66.116.209.139",
       "key": "docsewallet.com",
-      "last_seen": "2026-10-17T01:02:53.422Z",
+      "last_seen": "2026-10-24T10:43:23.688Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -964,6 +968,30 @@
       "uuids": [
         "01a152e9-d100-7038-ba96-c7cf081d715a",
         "01a152cd-40dd-731a-ad8e-73283f590c8c"
+      ]
+    },
+    "documentshare.live": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-24T10:52:31Z",
+      "first_seen": "2026-10-24T06:04:28.457Z",
+      "hosts": [
+        "documentshare.live"
+      ],
+      "ip": "188.114.96.3",
+      "key": "documentshare.live",
+      "last_seen": "2026-10-24T06:04:28.457Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://documentshare.live/"
+      ],
+      "uuids": [
+        "01a16c82-9b29-75f8-bf5b-374ec540fa38"
       ]
     },
     "docvyrview.de": {
@@ -1574,7 +1602,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-22T16:47:54.834Z",
+      "last_seen": "2026-10-24T07:12:42.557Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1592,7 +1620,8 @@
         "01a1611f-8492-7378-bf16-a2df4fc2afa0",
         "01a16482-f746-7122-bc12-90560221ddbf",
         "01a16467-d814-7225-a454-7dd4d5728474",
-        "01a163b6-41f9-76e8-a1ac-bc4b3d6a6103"
+        "01a163b6-41f9-76e8-a1ac-bc4b3d6a6103",
+        "01a16cc1-17ac-706b-89c8-46acd2cf5b98"
       ]
     },
     "index-newproject.vercel.app": {
@@ -3239,8 +3268,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-24T04:30:43Z",
-    "last_success": "2026-10-24T04:30:43Z",
-    "window_hours": 9
+    "last_run": "2026-10-24T10:52:31Z",
+    "last_success": "2026-10-24T10:52:31Z",
+    "window_hours": 8
   }
 }
