@@ -185,7 +185,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "adobeinstaller-virid.vercel.app",
-      "last_seen": "2026-10-23T00:23:12.415Z",
+      "last_seen": "2026-10-25T13:02:06.882Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -366,7 +366,7 @@
       ],
       "ip": "172.93.106.214",
       "key": "ashland-energy.com",
-      "last_seen": "2026-10-23T04:26:41.942Z",
+      "last_seen": "2026-10-25T12:29:47.792Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -382,7 +382,8 @@
         "01a1483d-5eae-760a-8e99-1cb16e3daa38",
         "01a15739-7a9d-7078-86b8-d571014b3eb2",
         "01a163a4-1ada-7391-b62c-c42213e03750",
-        "01a16702-bbac-73ce-808e-44f69a2f30f1"
+        "01a16702-bbac-73ce-808e-44f69a2f30f1",
+        "01a17308-4523-71cb-84ae-ef4dec189bee"
       ]
     },
     "atikurbd.com": {
@@ -1668,7 +1669,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "index-newproject.vercel.app",
-      "last_seen": "2026-10-25T04:34:33.276Z",
+      "last_seen": "2026-10-25T11:31:25.690Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2471,7 +2472,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-24T02:14:48.190Z",
+      "last_seen": "2026-10-25T13:55:13.035Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3356,8 +3357,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-25T11:19:00Z",
-    "last_success": "2026-10-25T11:19:00Z",
-    "window_hours": 8
+    "last_run": "2026-10-25T16:10:00Z",
+    "last_success": "2026-10-25T16:10:00Z",
+    "window_hours": 6
   }
 }
