@@ -811,7 +811,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "csrdrywallss.vercel.app",
-      "last_seen": "2026-10-24T18:28:50.616Z",
+      "last_seen": "2026-10-24T21:27:55.510Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -829,7 +829,8 @@
         "01a16e02-e33e-70aa-9eaa-cf56c26d311a",
         "01a16deb-0a70-760d-acaa-3310d2414fa9",
         "01a16f2b-f080-7256-9810-a259c4648fb4",
-        "01a16ed0-0470-7560-8782-a0a3898c7b1d"
+        "01a16ed0-0470-7560-8782-a0a3898c7b1d",
+        "01a16fd0-0ac0-734c-871f-b684e131311e"
       ]
     },
     "cvouab.com": {
@@ -924,7 +925,7 @@
       ],
       "ip": "66.116.209.139",
       "key": "docsewallet.com",
-      "last_seen": "2026-10-24T10:43:23.688Z",
+      "last_seen": "2026-10-25T01:31:52.875Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1020,6 +1021,31 @@
       ],
       "uuids": [
         "01a0fb87-ecd7-704b-a5a5-b0cea48a3cef"
+      ]
+    },
+    "dupintt.com": {
+      "asn": "AS24961",
+      "confidence": "medium",
+      "first_run": "2026-10-25T04:35:17Z",
+      "first_seen": "2026-10-25T01:01:56.834Z",
+      "hosts": [
+        "rlp.dupintt.com"
+      ],
+      "ip": "89.163.155.33",
+      "key": "dupintt.com",
+      "last_seen": "2026-10-25T04:32:51.233Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://rlp.dupintt.com/data/voice-service-verify/"
+      ],
+      "uuids": [
+        "01a17153-8e6a-77c8-af3a-460cf40f82c3",
+        "01a17094-0304-775c-a389-4792fb6baddb"
       ]
     },
     "duvic.vu": {
@@ -1640,7 +1666,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "index-newproject.vercel.app",
-      "last_seen": "2026-10-24T16:33:48.724Z",
+      "last_seen": "2026-10-25T04:34:33.276Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1659,7 +1685,8 @@
         "01a1645b-d0cb-752c-90fd-dc5e8c0221d1",
         "01a163b5-d200-778c-86bc-7600ef9faac5",
         "01a16d92-de44-71c9-9320-b9999ff8fc76",
-        "01a16ec2-c086-749c-b3c3-443424239089"
+        "01a16ec2-c086-749c-b3c3-443424239089",
+        "01a17156-a99a-7559-9724-38137e9fae28"
       ]
     },
     "innovative-sub.github.io": {
@@ -1684,6 +1711,27 @@
       "uuids": [
         "01a10858-c4b5-76d8-b2a5-934e4a634385",
         "01a11f3a-94cb-74eb-b97e-404cad3b8c8d"
+      ]
+    },
+    "janrevell.com": {
+      "confidence": "medium",
+      "first_run": "2026-10-25T04:35:17Z",
+      "first_seen": "2026-10-25T01:29:30.664Z",
+      "hosts": [
+        "janrevell.com"
+      ],
+      "key": "janrevell.com",
+      "last_seen": "2026-10-25T01:29:30.664Z",
+      "queries": [
+        "Q1b_esign"
+      ],
+      "scope": "host",
+      "status": "new",
+      "urls": [
+        "data:truncated"
+      ],
+      "uuids": [
+        "01a170ac-e163-74d1-a621-635cfa0729d1"
       ]
     },
     "jbreganfrf1.github.io": {
@@ -2146,7 +2194,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "new-indexproject.vercel.app",
-      "last_seen": "2026-10-23T05:16:42.894Z",
+      "last_seen": "2026-10-24T20:49:56.231Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2164,7 +2212,8 @@
         "01a16512-86b1-7433-adfb-0a30bfb3a95c",
         "01a1664b-6a1f-74da-a4f0-0facefccb2f9",
         "01a16730-51ff-71d8-9303-467263039fca",
-        "01a16724-0ae8-72d3-b6ad-68aa8da55422"
+        "01a16724-0ae8-72d3-b6ad-68aa8da55422",
+        "01a16fad-41d2-72eb-8ab9-4e2cd62027c1"
       ]
     },
     "nexadocviewcloud.icu": {
@@ -2197,11 +2246,12 @@
       "first_run": "2026-10-16T04:25:50Z",
       "first_seen": "2026-10-16T01:06:25.779Z",
       "hosts": [
-        "www.nhhydraulik.co.in"
+        "www.nhhydraulik.co.in",
+        "nhhydraulik.co.in"
       ],
       "ip": "162.241.222.199",
       "key": "nhhydraulik.co.in",
-      "last_seen": "2026-10-21T17:43:39.814Z",
+      "last_seen": "2026-10-25T01:31:00.351Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -2210,7 +2260,8 @@
       "title": "PDF Viewer",
       "urls": [
         "https://www.nhhydraulik.co.in/secure/Adobe_Installer.html",
-        "https://www.nhhydraulik.co.in/secure/adobe_installer.html"
+        "https://www.nhhydraulik.co.in/secure/adobe_installer.html",
+        "https://nhhydraulik.co.in/secure/Adobe_Installer.html"
       ],
       "uuids": [
         "01a1423e-d7ee-71af-95ac-bf7b845f3170",
@@ -2220,7 +2271,8 @@
         "01a146e2-e4c4-75d7-b2a3-c66e9f4dd461",
         "01a151a4-2d82-724e-a7f3-8fc9e622dc77",
         "01a1534d-690e-768a-8f90-02380d603983",
-        "01a15f8f-851e-708b-9658-6b031cca1ce7"
+        "01a15f8f-851e-708b-9658-6b031cca1ce7",
+        "01a170ad-3f0a-751b-86b0-92e39638c6ae"
       ]
     },
     "nilehost.cloud": {
@@ -2276,6 +2328,30 @@
       "uuids": [
         "01a15775-13bc-74d1-91e1-81c9e4642312",
         "01a15771-5df0-7728-ac9c-02879c532f77"
+      ]
+    },
+    "ozan.life": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-10-25T04:35:17Z",
+      "first_seen": "2026-10-25T00:42:30.787Z",
+      "hosts": [
+        "ozan.life"
+      ],
+      "ip": "64.247.178.222",
+      "key": "ozan.life",
+      "last_seen": "2026-10-25T00:42:30.787Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://ozan.life/"
+      ],
+      "uuids": [
+        "01a17082-19da-74b9-9f36-a7adfb984f21"
       ]
     },
     "padmaelectricals.com": {
@@ -2335,7 +2411,7 @@
       ],
       "ip": "64.29.17.195",
       "key": "pdf-viewer-five-virid.vercel.app",
-      "last_seen": "2026-10-23T19:02:23.885Z",
+      "last_seen": "2026-10-25T00:48:12.992Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2460,21 +2536,23 @@
       ],
       "ip": "209.222.98.213",
       "key": "pokeventas.com",
-      "last_seen": "2026-10-24T01:01:15.179Z",
+      "last_seen": "2026-10-25T01:30:44.418Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://pokeventas.com/zqqqpr.html"
+        "https://pokeventas.com/zqqqpr.html",
+        "http://pokeventas.com/zqqqpr.html"
       ],
       "uuids": [
         "01a10eba-592f-76de-ba91-8a7cd835fef8",
         "01a10eba-55f2-76e5-a6f2-b0c30353bf1f",
         "01a125c0-40fd-70a8-9cd9-42bd6dc8f626",
         "01a12780-5e12-70fd-868f-db92c1e84512",
-        "01a16b6c-fd80-72af-8a91-ba3f6c9f6b87"
+        "01a16b6c-fd80-72af-8a91-ba3f6c9f6b87",
+        "01a170ae-2fda-77a8-ba01-cc2974602a75"
       ]
     },
     "prasannashirol.com": {
@@ -3276,8 +3354,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-24T20:43:40Z",
-    "last_success": "2026-10-24T20:43:40Z",
-    "window_hours": 6
+    "last_run": "2026-10-25T04:35:17Z",
+    "last_success": "2026-10-25T04:35:17Z",
+    "window_hours": 9
   }
 }
