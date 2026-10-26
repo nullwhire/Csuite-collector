@@ -80,6 +80,31 @@
         "01a125a4-dca5-704f-be6d-54976c6ec572"
       ]
     },
+    "adbeacrbtsdocs.cfd": {
+      "asn": "AS16276",
+      "confidence": "high",
+      "first_run": "2026-10-26T04:40:33Z",
+      "first_seen": "2026-10-26T00:52:57.642Z",
+      "hosts": [
+        "adbeacrbtsdocs.cfd"
+      ],
+      "ip": "141.95.120.221",
+      "key": "adbeacrbtsdocs.cfd",
+      "last_seen": "2026-10-26T00:52:57.642Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://adbeacrbtsdocs.cfd/ccd/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a175b2-23cf-738a-8c77-3a47b0782164"
+      ]
+    },
     "adbeacrobt.com": {
       "asn": "AS329278",
       "confidence": "medium",
@@ -1636,7 +1661,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-24T12:51:23.786Z",
+      "last_seen": "2026-10-26T04:05:18.075Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2592,7 +2617,7 @@
       ],
       "ip": "213.136.93.167",
       "key": "prsnrw.de",
-      "last_seen": "2026-10-10T22:07:36.991Z",
+      "last_seen": "2026-10-26T01:30:14.851Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2602,7 +2627,8 @@
         "https://prsnrw.de/eftpack/"
       ],
       "uuids": [
-        "01a127db-4335-750f-af86-02edd0b2b95c"
+        "01a127db-4335-750f-af86-02edd0b2b95c",
+        "01a175d4-3e37-75de-b65c-eb1c5f37e3a8"
       ]
     },
     "ptai.in": {
@@ -3154,6 +3180,30 @@
         "01a15cc8-04b7-71f5-99fc-4a315562ef1b"
       ]
     },
+    "wjsassoc.com": {
+      "asn": "AS13335",
+      "confidence": "low",
+      "first_run": "2026-10-26T04:40:33Z",
+      "first_seen": "2026-10-26T01:24:29.362Z",
+      "hosts": [
+        "sweetauburnmusicfest.wjsassoc.com"
+      ],
+      "ip": "188.114.96.3",
+      "key": "wjsassoc.com",
+      "last_seen": "2026-10-26T01:24:29.362Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "DocuSign - Document Signing",
+      "urls": [
+        "https://sweetauburnmusicfest.wjsassoc.com/sweetauburnmusicfest.html"
+      ],
+      "uuids": [
+        "01a175ce-ef0b-77dd-b57d-0bb219e4c568"
+      ]
+    },
     "workers.dev": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -3357,8 +3407,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-25T20:46:44Z",
-    "last_success": "2026-10-25T20:46:44Z",
-    "window_hours": 6
+    "last_run": "2026-10-26T04:40:33Z",
+    "last_success": "2026-10-26T04:40:33Z",
+    "window_hours": 9
   }
 }
