@@ -57,6 +57,31 @@
         "01a13883-9264-711b-a5de-e54b1d59cd4e"
       ]
     },
+    "abenetgeneralservices.ca": {
+      "asn": "AS398101",
+      "confidence": "high",
+      "first_run": "2026-10-26T22:37:08Z",
+      "first_seen": "2026-10-26T21:36:13.628Z",
+      "hosts": [
+        "abenetgeneralservices.ca"
+      ],
+      "ip": "97.74.209.172",
+      "key": "abenetgeneralservices.ca",
+      "last_seen": "2026-10-26T21:36:13.628Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://abenetgeneralservices.ca/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a17a24-548e-762e-8be6-df1e7144939a"
+      ]
+    },
     "adbacrbt-afk.github.io": {
       "asn": "AS54113",
       "confidence": "medium",
@@ -255,6 +280,30 @@
         "01a13f53-4b63-7159-9137-9e7bea9d3cb4"
       ]
     },
+    "adsdff.icu": {
+      "asn": "AS13335",
+      "confidence": "low",
+      "first_run": "2026-10-26T22:37:08Z",
+      "first_seen": "2026-10-26T18:03:03.463Z",
+      "hosts": [
+        "adsdff.icu"
+      ],
+      "ip": "188.114.97.3",
+      "key": "adsdff.icu",
+      "last_seen": "2026-10-26T18:03:03.463Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://adsdff.icu/d/page.html"
+      ],
+      "uuids": [
+        "01a17961-3437-766e-951e-64943472ac5d"
+      ]
+    },
     "advanceddatapro.com": {
       "asn": "AS36454",
       "confidence": "high",
@@ -364,7 +413,7 @@
       ],
       "ip": "108.167.181.19",
       "key": "apoyar.org",
-      "last_seen": "2026-10-26T07:00:03.464Z",
+      "last_seen": "2026-10-26T18:19:57.319Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -375,7 +424,9 @@
         "https://apoyar.org/adobe.html"
       ],
       "uuids": [
-        "01a17700-d4ae-7340-9803-9ca076f5eacf"
+        "01a17700-d4ae-7340-9803-9ca076f5eacf",
+        "01a1796f-c5d7-7768-a158-20361bdb47b7",
+        "01a1790c-c616-753e-8ad3-da5f51f21916"
       ]
     },
     "aral-latam.com": {
@@ -2522,7 +2573,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-26T07:58:39.424Z",
+      "last_seen": "2026-10-26T15:19:50.397Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3433,8 +3484,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-26T12:53:28Z",
-    "last_success": "2026-10-26T12:53:28Z",
-    "window_hours": 10
+    "last_run": "2026-10-26T22:37:08Z",
+    "last_success": "2026-10-26T22:37:08Z",
+    "window_hours": 11
   }
 }
