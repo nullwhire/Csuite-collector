@@ -67,7 +67,7 @@
       ],
       "ip": "97.74.209.172",
       "key": "abenetgeneralservices.ca",
-      "last_seen": "2026-10-27T17:02:30.237Z",
+      "last_seen": "2026-10-27T21:41:54.456Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -82,7 +82,8 @@
         "01a17a24-548e-762e-8be6-df1e7144939a",
         "01a17b40-52fa-727b-8178-69258f2455cf",
         "01a17e4f-d9d8-750e-a696-13f3c6efcca4",
-        "01a17d78-7e6e-710f-bda6-393f58846c02"
+        "01a17d78-7e6e-710f-bda6-393f58846c02",
+        "01a17f4f-d539-7440-97ff-f908a94a2527"
       ]
     },
     "adbacrbt-afk.github.io": {
@@ -1403,6 +1404,54 @@
         "01a11d8f-0a8a-7262-8dc3-da1da89dd70b"
       ]
     },
+    "floridahealth-gamma.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-27T22:09:02Z",
+      "first_seen": "2026-10-27T18:02:28.121Z",
+      "hosts": [
+        "floridahealth-gamma.vercel.app"
+      ],
+      "ip": "216.198.79.3",
+      "key": "floridahealth-gamma.vercel.app",
+      "last_seen": "2026-10-27T18:02:28.121Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://floridahealth-gamma.vercel.app/"
+      ],
+      "uuids": [
+        "01a17e87-088a-70f8-a859-c6fdba219dee"
+      ]
+    },
+    "floridahealth-plum.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-27T22:09:02Z",
+      "first_seen": "2026-10-27T18:02:33.595Z",
+      "hosts": [
+        "floridahealth-plum.vercel.app"
+      ],
+      "ip": "216.198.79.131",
+      "key": "floridahealth-plum.vercel.app",
+      "last_seen": "2026-10-27T18:02:33.595Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://floridahealth-plum.vercel.app/"
+      ],
+      "uuids": [
+        "01a17e87-0560-750a-993b-be9f524e9c70"
+      ]
+    },
     "fourbrixsolar.com": {
       "asn": "AS26496",
       "confidence": "high",
@@ -1729,6 +1778,81 @@
       ],
       "uuids": [
         "01a12cf1-df1a-71ce-b751-a6ebc3230677"
+      ]
+    },
+    "healthlicensefl-amber.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-27T22:09:02Z",
+      "first_seen": "2026-10-27T18:33:36.144Z",
+      "hosts": [
+        "healthlicensefl-amber.vercel.app"
+      ],
+      "ip": "216.198.79.67",
+      "key": "healthlicensefl-amber.vercel.app",
+      "last_seen": "2026-10-27T21:09:07.161Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://healthlicensefl-amber.vercel.app/"
+      ],
+      "uuids": [
+        "01a17f31-e870-76e1-a860-86ff4a3931ba",
+        "01a17ea3-6175-7271-9eab-4b741ff6fba6"
+      ]
+    },
+    "healthlicensefl-beta.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-27T22:09:02Z",
+      "first_seen": "2026-10-27T18:40:14.003Z",
+      "hosts": [
+        "healthlicensefl-beta.vercel.app"
+      ],
+      "ip": "216.198.79.3",
+      "key": "healthlicensefl-beta.vercel.app",
+      "last_seen": "2026-10-27T21:09:11.389Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://healthlicensefl-beta.vercel.app/"
+      ],
+      "uuids": [
+        "01a17f31-e60e-758c-9e36-f623959fab8d",
+        "01a17ea9-6939-722a-98ea-db9896b21eee"
+      ]
+    },
+    "healthlicensefl.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-27T22:09:02Z",
+      "first_seen": "2026-10-27T18:32:36.934Z",
+      "hosts": [
+        "healthlicensefl.vercel.app"
+      ],
+      "ip": "216.198.79.3",
+      "key": "healthlicensefl.vercel.app",
+      "last_seen": "2026-10-27T21:06:44.124Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://healthlicensefl.vercel.app/"
+      ],
+      "uuids": [
+        "01a17f2f-b9f8-76d8-8446-791044b93c5b",
+        "01a17ea2-a329-73d9-b8a9-357ed18ff568"
       ]
     },
     "hernunspnc.github.io": {
@@ -3638,8 +3762,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-27T17:57:25Z",
-    "last_success": "2026-10-27T17:57:25Z",
-    "window_hours": 7
+    "last_run": "2026-10-27T22:09:02Z",
+    "last_success": "2026-10-27T22:09:02Z",
+    "window_hours": 6
   }
 }
