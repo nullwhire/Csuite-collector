@@ -67,7 +67,7 @@
       ],
       "ip": "97.74.209.172",
       "key": "abenetgeneralservices.ca",
-      "last_seen": "2026-10-26T21:36:13.628Z",
+      "last_seen": "2026-10-27T02:46:25.747Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -79,7 +79,8 @@
         "https://abenetgeneralservices.ca/secure/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a17a24-548e-762e-8be6-df1e7144939a"
+        "01a17a24-548e-762e-8be6-df1e7144939a",
+        "01a17b40-52fa-727b-8178-69258f2455cf"
       ]
     },
     "adbacrbt-afk.github.io": {
@@ -1576,6 +1577,34 @@
         "01a16821-4b20-779b-a16d-a9e8032064fc"
       ]
     },
+    "hameem.net": {
+      "asn": "AS52148",
+      "confidence": "medium",
+      "first_run": "2026-10-27T04:58:01Z",
+      "first_seen": "2026-10-27T03:51:43.206Z",
+      "hosts": [
+        "hameem.net"
+      ],
+      "ip": "91.238.160.176",
+      "key": "hameem.net",
+      "last_seen": "2026-10-27T04:48:05.119Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://hameem.net/adobe.co/index.html"
+      ],
+      "uuids": [
+        "01a17baf-b445-717a-b092-e9bfba4924fd",
+        "01a17baf-b435-770c-b7d4-7445603b5c1b",
+        "01a17b86-4357-715c-b1fa-44bf146aa467",
+        "01a17b80-378a-737b-a981-1092c240852c",
+        "01a17b7c-2201-738d-8262-72576090f9fc"
+      ]
+    },
     "hart.inf.br": {
       "asn": "AS47583",
       "confidence": "high",
@@ -1737,7 +1766,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-26T04:05:18.075Z",
+      "last_seen": "2026-10-27T00:18:46.325Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3484,8 +3513,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-26T22:37:08Z",
-    "last_success": "2026-10-26T22:37:08Z",
-    "window_hours": 11
+    "last_run": "2026-10-27T04:58:01Z",
+    "last_success": "2026-10-27T04:58:01Z",
+    "window_hours": 8
   }
 }
