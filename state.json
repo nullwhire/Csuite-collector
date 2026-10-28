@@ -67,7 +67,7 @@
       ],
       "ip": "97.74.209.172",
       "key": "abenetgeneralservices.ca",
-      "last_seen": "2026-10-28T01:25:49.546Z",
+      "last_seen": "2026-10-28T21:54:15.428Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -84,7 +84,32 @@
         "01a17e4f-d9d8-750e-a696-13f3c6efcca4",
         "01a17d78-7e6e-710f-bda6-393f58846c02",
         "01a17f4f-d539-7440-97ff-f908a94a2527",
-        "01a1801c-cf03-7569-92e8-534a3ac6483d"
+        "01a1801c-cf03-7569-92e8-534a3ac6483d",
+        "01a18481-4775-754a-bf79-bbcce82280a8"
+      ]
+    },
+    "acotecmetais.com.br": {
+      "asn": "AS53107",
+      "confidence": "medium",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T21:33:01.157Z",
+      "hosts": [
+        "www.acotecmetais.com.br"
+      ],
+      "ip": "177.104.186.226",
+      "key": "acotecmetais.com.br",
+      "last_seen": "2026-10-28T21:33:01.157Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Página não encontrada",
+      "urls": [
+        "https://www.acotecmetais.com.br/adobe/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1846e-1c36-71dc-837f-45a5c84bcaaa"
       ]
     },
     "adbacrbt-afk.github.io": {
@@ -859,6 +884,30 @@
         "01a16623-d345-723b-b705-6f2706499fdc"
       ]
     },
+    "cod-indigenouslocalknowledge.org": {
+      "asn": "AS24961",
+      "confidence": "medium",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T20:04:18.817Z",
+      "hosts": [
+        "portal.cod-indigenouslocalknowledge.org"
+      ],
+      "ip": "89.163.155.33",
+      "key": "cod-indigenouslocalknowledge.org",
+      "last_seen": "2026-10-28T20:04:18.817Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://portal.cod-indigenouslocalknowledge.org/adoc/"
+      ],
+      "uuids": [
+        "01a1841c-c4bf-7409-be2a-3e704e5f8643"
+      ]
+    },
     "contract-quotation89573.s3.us-east-2.amazonaws.com": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -1023,6 +1072,32 @@
       ],
       "uuids": [
         "01a13fb0-e606-776b-8413-240383f45a36"
+      ]
+    },
+    "diversicomm.com": {
+      "asn": "AS55293",
+      "confidence": "high",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T21:14:24.340Z",
+      "hosts": [
+        "diversicomm.com"
+      ],
+      "ip": "106.0.62.70",
+      "key": "diversicomm.com",
+      "last_seen": "2026-10-28T21:14:39.470Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://diversicomm.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1845d-5804-763f-bc68-ba381fef4b29",
+        "01a1845d-1ce4-7386-95b0-4d644f37e8a6"
       ]
     },
     "dndair.com": {
@@ -1235,6 +1310,30 @@
         "01a17cb0-c0f8-707a-86a4-43f57d623e4e"
       ]
     },
+    "elaf.com.eg": {
+      "asn": "AS14670",
+      "confidence": "medium",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T20:45:57.746Z",
+      "hosts": [
+        "elaf.com.eg"
+      ],
+      "ip": "65.181.111.172",
+      "key": "elaf.com.eg",
+      "last_seen": "2026-10-28T20:45:57.746Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://elaf.com.eg/eberly/Property.html"
+      ],
+      "uuids": [
+        "01a18443-1494-7348-9eba-60bd1aec0382"
+      ]
+    },
     "emaycartabogados.com": {
       "asn": "AS395111",
       "confidence": "medium",
@@ -1342,7 +1441,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "flhealthlicense-tawny.vercel.app",
-      "last_seen": "2026-10-28T04:40:10.217Z",
+      "last_seen": "2026-10-28T16:30:43.632Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1353,7 +1452,35 @@
         "https://flhealthlicense-tawny.vercel.app/"
       ],
       "uuids": [
-        "01a180ce-e0f5-75b9-b24a-67c18fb3bc1e"
+        "01a180ce-e0f5-75b9-b24a-67c18fb3bc1e",
+        "01a18359-5b55-7139-bf45-e8bcd3f213d0",
+        "01a18359-2a33-771f-a6c6-27bedc86d87e",
+        "01a1829b-1f36-74f9-84fe-3f25b1baecc9",
+        "01a18298-ff6e-7663-ac82-4547a59629ca"
+      ]
+    },
+    "flhealthlicense-three.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T17:42:14.819Z",
+      "hosts": [
+        "flhealthlicense-three.vercel.app"
+      ],
+      "ip": "216.198.79.131",
+      "key": "flhealthlicense-three.vercel.app",
+      "last_seen": "2026-10-28T17:42:14.819Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://flhealthlicense-three.vercel.app/"
+      ],
+      "uuids": [
+        "01a1839a-bf03-709f-9872-0bf35f35888c"
       ]
     },
     "flhealthlicense.vercel.app": {
@@ -1366,7 +1493,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense.vercel.app",
-      "last_seen": "2026-10-28T11:12:32.116Z",
+      "last_seen": "2026-10-28T20:47:20.749Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1382,7 +1509,11 @@
         "01a180c6-04d4-7495-bfe7-799fc2715378",
         "01a18008-3bd2-745a-940f-baa061f8d459",
         "01a18005-8078-71f8-bd92-987837c6f8a4",
-        "01a18236-18cb-73f9-9268-6186ae65e8fb"
+        "01a18236-18cb-73f9-9268-6186ae65e8fb",
+        "01a18444-5c66-742a-89fe-3efc45a8e628",
+        "01a1842d-9c2c-746f-aed1-b8054efe09de",
+        "01a183b9-bd41-72c8-b72a-fa152d10e51d",
+        "01a182f8-f3a0-75b9-8bdc-a72020602795"
       ]
     },
     "fllicensehealthpdf-viewer.vercel.app": {
@@ -1450,7 +1581,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahealth-gamma.vercel.app",
-      "last_seen": "2026-10-28T11:13:28.033Z",
+      "last_seen": "2026-10-28T17:02:34.501Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1464,7 +1595,9 @@
         "01a17e87-088a-70f8-a859-c6fdba219dee",
         "01a180c6-14f3-710a-b4bf-1f1c571bf4b6",
         "01a18006-792f-7268-90cf-ce59f1445930",
-        "01a18236-d444-76ad-9048-b407ea4a6620"
+        "01a18236-d444-76ad-9048-b407ea4a6620",
+        "01a18376-7dc8-754d-a902-bdde0674f6af",
+        "01a1829f-07b3-7705-a839-3c3fcee75c17"
       ]
     },
     "floridahealth-plum.vercel.app": {
@@ -1477,7 +1610,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "floridahealth-plum.vercel.app",
-      "last_seen": "2026-10-28T11:13:28.045Z",
+      "last_seen": "2026-10-28T17:02:31.329Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1491,7 +1624,9 @@
         "01a17e87-0560-750a-993b-be9f524e9c70",
         "01a180c6-15a2-731f-8011-ba8a25b5173e",
         "01a18006-7e31-7357-b275-729aff1d847d",
-        "01a18236-c693-74f8-9d9a-89bd7ff36b30"
+        "01a18236-c693-74f8-9d9a-89bd7ff36b30",
+        "01a18376-7b8e-700b-b31a-41bc98c7169c",
+        "01a1829f-019e-7117-98f3-9794bd7a9233"
       ]
     },
     "fourbrixsolar.com": {
@@ -1755,7 +1890,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-10-28T11:08:58.244Z",
+      "last_seen": "2026-10-28T16:47:20.140Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1764,7 +1899,8 @@
       "title": "PDF Viewer",
       "urls": [
         "https://hameem.net/adobe.co/index.html",
-        "https://hameem.net/adobe.com/index.html"
+        "https://hameem.net/adobe.com/index.html",
+        "https://hameem.net/adobe.pw/index.html"
       ],
       "uuids": [
         "01a17baf-b445-717a-b092-e9bfba4924fd",
@@ -1828,6 +1964,30 @@
         "01a12cf1-df1a-71ce-b751-a6ebc3230677"
       ]
     },
+    "healthlicense-tau.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T19:09:20.934Z",
+      "hosts": [
+        "healthlicense-tau.vercel.app"
+      ],
+      "ip": "216.198.79.3",
+      "key": "healthlicense-tau.vercel.app",
+      "last_seen": "2026-10-28T19:09:20.934Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://healthlicense-tau.vercel.app/"
+      ],
+      "uuids": [
+        "01a183ea-a0a7-76ee-8ff3-d9b613d7c4e9"
+      ]
+    },
     "healthlicensefl-amber.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -1838,7 +1998,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "healthlicensefl-amber.vercel.app",
-      "last_seen": "2026-10-28T11:13:14.778Z",
+      "last_seen": "2026-10-28T20:22:19.985Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1853,7 +2013,10 @@
         "01a17ea3-6175-7271-9eab-4b741ff6fba6",
         "01a180c6-169f-7067-bd70-0f5fb7ad1aab",
         "01a18006-8f62-714f-9dd8-eabd03472069",
-        "01a18236-b767-7300-aea0-dfe4c98b2020"
+        "01a18236-b767-7300-aea0-dfe4c98b2020",
+        "01a1842d-7613-74d9-80a5-026a3a483cbe",
+        "01a18376-7996-742c-996e-d680fc3f2845",
+        "01a1829e-fb7f-71d4-a841-067f2d4f9f64"
       ]
     },
     "healthlicensefl-beta.vercel.app": {
@@ -1866,7 +2029,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicensefl-beta.vercel.app",
-      "last_seen": "2026-10-28T04:30:37.249Z",
+      "last_seen": "2026-10-28T20:24:05.495Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1880,7 +2043,10 @@
         "01a17f31-e60e-758c-9e36-f623959fab8d",
         "01a17ea9-6939-722a-98ea-db9896b21eee",
         "01a180c6-1e46-75c9-a46c-83c2b37be145",
-        "01a18006-c570-71ac-810a-ea3597d21e8c"
+        "01a18006-c570-71ac-810a-ea3597d21e8c",
+        "01a1842f-1173-7748-9746-c104ca4332ff",
+        "01a18368-70dc-700e-a260-7a05a083639d",
+        "01a1829c-2404-730a-a070-a6b867bda8ed"
       ]
     },
     "healthlicensefl.vercel.app": {
@@ -1893,7 +2059,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicensefl.vercel.app",
-      "last_seen": "2026-10-28T11:13:11.420Z",
+      "last_seen": "2026-10-28T18:15:30.493Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1911,7 +2077,9 @@
         "01a18236-8aca-7709-b391-6100649b40c0",
         "01a18234-797e-74e9-9cb5-eec25b9c6411",
         "01a18219-0363-744d-8c3a-cfd2bf8a814a",
-        "01a18207-0d02-741b-8090-bc2b2f9a14a3"
+        "01a18207-0d02-741b-8090-bc2b2f9a14a3",
+        "01a183b9-58e4-7019-848d-69eed1a687d4",
+        "01a18376-770e-72ca-b999-84f5161c9995"
       ]
     },
     "hernunspnc.github.io": {
@@ -3098,6 +3266,30 @@
         "01a18233-667e-75e9-af3d-0a4057aad3b8"
       ]
     },
+    "resourcespackett.help": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T17:43:24.411Z",
+      "hosts": [
+        "resourcespackett.help"
+      ],
+      "ip": "188.114.97.3",
+      "key": "resourcespackett.help",
+      "last_seen": "2026-10-28T17:43:24.411Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://resourcespackett.help/p/"
+      ],
+      "uuids": [
+        "01a1839b-ef37-7250-9366-51cbbf4a31a7"
+      ]
+    },
     "resultsfinderonline.com": {
       "asn": "AS40034",
       "confidence": "medium",
@@ -3619,6 +3811,31 @@
         "01a10ecd-9d8a-75ce-822a-a4ed32a7408f"
       ]
     },
+    "viewdrawing.org": {
+      "asn": "AS13335",
+      "confidence": "high",
+      "first_run": "2026-10-28T22:31:16Z",
+      "first_seen": "2026-10-28T20:36:36.991Z",
+      "hosts": [
+        "viewdrawing.org"
+      ],
+      "ip": "172.67.151.157",
+      "key": "viewdrawing.org",
+      "last_seen": "2026-10-28T20:36:36.991Z",
+      "queries": [
+        "Q3b_utils_pdfviewer",
+        "Q4_hash"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://viewdrawing.org/index.php"
+      ],
+      "uuids": [
+        "01a1843a-7df7-719b-bc33-4d4489847880"
+      ]
+    },
     "whisperingjessie.com": {
       "asn": "AS31898",
       "confidence": "low",
@@ -3871,8 +4088,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-28T12:45:22Z",
-    "last_success": "2026-10-28T12:45:22Z",
-    "window_hours": 9
+    "last_run": "2026-10-28T22:31:16Z",
+    "last_success": "2026-10-28T22:31:16Z",
+    "window_hours": 11
   }
 }
