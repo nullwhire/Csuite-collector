@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-10-29T12:54:38Z by collect.py
+// CSuite candidate IOCs, generated 2026-10-29T22:42:20Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 156 | ips: 0 | urls: 187
+// domains: 164 | ips: 0 | urls: 195
 let csuite_domains = dynamic([
     "06webmeet.us",
     "1yz.com",
@@ -42,6 +42,7 @@ let csuite_domains = dynamic([
     "csigndo.com",
     "csrdrywallss.vercel.app",
     "cvouab.com",
+    "descubrecoinco.cl",
     "df888blog.com",
     "dicksine.info",
     "diversicomm.com",
@@ -59,6 +60,8 @@ let csuite_domains = dynamic([
     "eporaimoveisefacilities.com.br",
     "equiperallysolucionatica.com.br",
     "fdihub.com.ng",
+    "flhealthlicense-nu.vercel.app",
+    "flhealthlicense-rosy.vercel.app",
     "flhealthlicense-tawny.vercel.app",
     "flhealthlicense-three.vercel.app",
     "flhealthlicense.vercel.app",
@@ -66,6 +69,7 @@ let csuite_domains = dynamic([
     "floridabloghealth.us",
     "floridahealth-gamma.vercel.app",
     "floridahealth-plum.vercel.app",
+    "floridahelath-theta.vercel.app",
     "fourbrixsolar.com",
     "futuredataconcepts.com",
     "geotehnica.com",
@@ -73,6 +77,7 @@ let csuite_domains = dynamic([
     "gidsux.cc",
     "gigarush.com",
     "groundview.pt",
+    "grupolsn.com",
     "gudwa.com",
     "haidantr.com",
     "hameem.net",
@@ -93,12 +98,14 @@ let csuite_domains = dynamic([
     "innovative-sub.github.io",
     "janrevell.com",
     "jbreganfrf1.github.io",
+    "junailperfumes.com",
     "jurassicfa.com",
     "karrasconsulting.net",
     "keithwishard24-coder.github.io",
     "kwestventures.com",
     "laboratoires-azbane.com",
     "lagerhaus-freising.de",
+    "legaljogja.com",
     "luxfab.luxe",
     "luxora.qpon",
     "lyonbuy.shop",
@@ -110,6 +117,7 @@ let csuite_domains = dynamic([
     "morronetours.com",
     "mx-flow.de",
     "new-indexproject.vercel.app",
+    "news-adobe.shop",
     "nexadocviewcloud.icu",
     "nhhydraulik.co.in",
     "nilehost.cloud",
@@ -160,7 +168,7 @@ let csuite_domains = dynamic([
     "znbbmwq.com",
     "zoffry.qpon"
 ]);
-let csuite_re = @"(?i)(^|\.)(06webmeet\.us|1yz\.com|abenetgeneralservices\.ca|acotecmetais\.com\.br|adbacrbt\-afk\.github\.io|adbeacrbtsdocs\.cfd|adbeacrobt\.com|adbecrest\.icu|adcoxlaw\.com|adiosalosmosquitos\.com|adobeinstaller\-virid\.vercel\.app|adobesdocs\.sbs|adsdff\.icu|advanceddatapro\.com|airconalgarve\.com|aligra\.net|amepiequipamentos\.com\.br|apoyar\.org|aral\-latam\.com|ashland\-energy\.com|atikurbd\.com|audicomst\.com\.mx|audtfnaurth\.com\.es|beservicesit\.mx|bestcareindia\.com|blackprimehouse\.com\.br|bolsasgotadagua\.com|botsea\.club|boxercourier\.com|browardcountypdf\-viewer\.vercel\.app|browardcourtpdf\-viewer\.vercel\.app|browardpdf\-viewer\.vercel\.app|caminospordescubrir\.cl|clementspools\.github\.io|cod\-indigenouslocalknowledge\.org|contract\-quotation89573\.s3\.us\-east\-2\.amazonaws\.com|csigndo\.com|csrdrywallss\.vercel\.app|cvouab\.com|df888blog\.com|dicksine\.info|diversicomm\.com|dndair\.com|docsewallet\.com|docu\-signs\.cc|documentshare\.live|docvyrview\.de|dupintt\.com|duvic\.vu|edgeone\.dev|elaf\.com\.eg|emaycartabogados\.com|encontrarte\.cr|eporaimoveisefacilities\.com\.br|equiperallysolucionatica\.com\.br|fdihub\.com\.ng|flhealthlicense\-tawny\.vercel\.app|flhealthlicense\-three\.vercel\.app|flhealthlicense\.vercel\.app|fllicensehealthpdf\-viewer\.vercel\.app|floridabloghealth\.us|floridahealth\-gamma\.vercel\.app|floridahealth\-plum\.vercel\.app|fourbrixsolar\.com|futuredataconcepts\.com|geotehnica\.com|getthehat\.online|gidsux\.cc|gigarush\.com|groundview\.pt|gudwa\.com|haidantr\.com|hameem\.net|hart\.inf\.br|healthflpdf\-viewer\-nine\.vercel\.app|healthlicense\-blond\.vercel\.app|healthlicense\-tau\.vercel\.app|healthlicense\-zeta\.vercel\.app|healthlicensefl\-amber\.vercel\.app|healthlicensefl\-beta\.vercel\.app|healthlicensefl\.vercel\.app|hernunspnc\.github\.io|hipercromo\.com\.br|hjp\-s3\-akf\.s3\.us\-east\-1\.amazonaws\.com|hotelvaldecans\.com\.br|index\-catty\-neww\.vercel\.app|index\-newproject\.vercel\.app|innovative\-sub\.github\.io|janrevell\.com|jbreganfrf1\.github\.io|jurassicfa\.com|karrasconsulting\.net|keithwishard24\-coder\.github\.io|kwestventures\.com|laboratoires\-azbane\.com|lagerhaus\-freising\.de|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|mastertechcorp\.com|matakwan\.com|maxsegnr\.com\.br|mncacompany\.com|morronetours\.com|mx\-flow\.de|new\-indexproject\.vercel\.app|nexadocviewcloud\.icu|nhhydraulik\.co\.in|nilehost\.cloud|noisy\-morning\-0c4b\.orders\-bed\.workers\.dev|ozan\.life|padmaelectricals\.com|pageview\.es|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|prasannashirol\.com|prsnrw\.de|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|realtorbala\.ca|resourcespackett\.help|resultsfinderonline\.com|screenconnect\.com|sdzgranitephils\.com|skyloghomes\.com|stein\-sudo\.github\.io|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|tavix\.vu|thamizhnadu\.com|thecloudtechnologies\.com|thegouldings\.co\.uk|thesocialnexus\.co\.za|thiswoodeno\.com|tiendatigard\.com\.mx|tikshopbd\.com|trshealth\.org|tw1\.ru|twentytwentydigital\.com|verfiynewdocument\.icu|viewdrawing\.org|whisperingjessie\.com|wjsassoc\.com|wrproducoes\.com\.br|xureto\.shop|yonataxi\.at|zcontainx\.cloud|zentexa\.com|znbbmwq\.com|zoffry\.qpon)$";
+let csuite_re = @"(?i)(^|\.)(06webmeet\.us|1yz\.com|abenetgeneralservices\.ca|acotecmetais\.com\.br|adbacrbt\-afk\.github\.io|adbeacrbtsdocs\.cfd|adbeacrobt\.com|adbecrest\.icu|adcoxlaw\.com|adiosalosmosquitos\.com|adobeinstaller\-virid\.vercel\.app|adobesdocs\.sbs|adsdff\.icu|advanceddatapro\.com|airconalgarve\.com|aligra\.net|amepiequipamentos\.com\.br|apoyar\.org|aral\-latam\.com|ashland\-energy\.com|atikurbd\.com|audicomst\.com\.mx|audtfnaurth\.com\.es|beservicesit\.mx|bestcareindia\.com|blackprimehouse\.com\.br|bolsasgotadagua\.com|botsea\.club|boxercourier\.com|browardcountypdf\-viewer\.vercel\.app|browardcourtpdf\-viewer\.vercel\.app|browardpdf\-viewer\.vercel\.app|caminospordescubrir\.cl|clementspools\.github\.io|cod\-indigenouslocalknowledge\.org|contract\-quotation89573\.s3\.us\-east\-2\.amazonaws\.com|csigndo\.com|csrdrywallss\.vercel\.app|cvouab\.com|descubrecoinco\.cl|df888blog\.com|dicksine\.info|diversicomm\.com|dndair\.com|docsewallet\.com|docu\-signs\.cc|documentshare\.live|docvyrview\.de|dupintt\.com|duvic\.vu|edgeone\.dev|elaf\.com\.eg|emaycartabogados\.com|encontrarte\.cr|eporaimoveisefacilities\.com\.br|equiperallysolucionatica\.com\.br|fdihub\.com\.ng|flhealthlicense\-nu\.vercel\.app|flhealthlicense\-rosy\.vercel\.app|flhealthlicense\-tawny\.vercel\.app|flhealthlicense\-three\.vercel\.app|flhealthlicense\.vercel\.app|fllicensehealthpdf\-viewer\.vercel\.app|floridabloghealth\.us|floridahealth\-gamma\.vercel\.app|floridahealth\-plum\.vercel\.app|floridahelath\-theta\.vercel\.app|fourbrixsolar\.com|futuredataconcepts\.com|geotehnica\.com|getthehat\.online|gidsux\.cc|gigarush\.com|groundview\.pt|grupolsn\.com|gudwa\.com|haidantr\.com|hameem\.net|hart\.inf\.br|healthflpdf\-viewer\-nine\.vercel\.app|healthlicense\-blond\.vercel\.app|healthlicense\-tau\.vercel\.app|healthlicense\-zeta\.vercel\.app|healthlicensefl\-amber\.vercel\.app|healthlicensefl\-beta\.vercel\.app|healthlicensefl\.vercel\.app|hernunspnc\.github\.io|hipercromo\.com\.br|hjp\-s3\-akf\.s3\.us\-east\-1\.amazonaws\.com|hotelvaldecans\.com\.br|index\-catty\-neww\.vercel\.app|index\-newproject\.vercel\.app|innovative\-sub\.github\.io|janrevell\.com|jbreganfrf1\.github\.io|junailperfumes\.com|jurassicfa\.com|karrasconsulting\.net|keithwishard24\-coder\.github\.io|kwestventures\.com|laboratoires\-azbane\.com|lagerhaus\-freising\.de|legaljogja\.com|luxfab\.luxe|luxora\.qpon|lyonbuy\.shop|marycar\.com\.br|mastertechcorp\.com|matakwan\.com|maxsegnr\.com\.br|mncacompany\.com|morronetours\.com|mx\-flow\.de|new\-indexproject\.vercel\.app|news\-adobe\.shop|nexadocviewcloud\.icu|nhhydraulik\.co\.in|nilehost\.cloud|noisy\-morning\-0c4b\.orders\-bed\.workers\.dev|ozan\.life|padmaelectricals\.com|pageview\.es|pdf\-viewer\-five\-virid\.vercel\.app|pdfinstalls\-2\.vercel\.app|peputragroup\.com|piedrasdecolon\.com\.ar|pokeventas\.com|prasannashirol\.com|prsnrw\.de|ptai\.in|pub\-93df8620fe8c461ea9c751f7ad297e39\.r2\.dev|pub\-def1757768e44ee4901749848f225c06\.r2\.dev|realtorbala\.ca|resourcespackett\.help|resultsfinderonline\.com|screenconnect\.com|sdzgranitephils\.com|skyloghomes\.com|stein\-sudo\.github\.io|strutsupportsystems\.com|surat\-kabar\.com|taslimaenterprise\.com|tavix\.vu|thamizhnadu\.com|thecloudtechnologies\.com|thegouldings\.co\.uk|thesocialnexus\.co\.za|thiswoodeno\.com|tiendatigard\.com\.mx|tikshopbd\.com|trshealth\.org|tw1\.ru|twentytwentydigital\.com|verfiynewdocument\.icu|viewdrawing\.org|whisperingjessie\.com|wjsassoc\.com|wrproducoes\.com\.br|xureto\.shop|yonataxi\.at|zcontainx\.cloud|zentexa\.com|znbbmwq\.com|zoffry\.qpon)$";
 let csuite_ips = dynamic([]);
 let csuite_urls = dynamic([
     "data:truncated",
@@ -211,6 +219,7 @@ let csuite_urls = dynamic([
     "https://contract-quotation89573.s3.us-east-2.amazonaws.com/index.html",
     "https://csigndo.com/ftx/snj3d7-1792652616-2163e8295d66/",
     "https://csrdrywallss.vercel.app/",
+    "https://descubrecoinco.cl/br/Adobe_Installer.html",
     "https://dev.trshealth.org/internal/",
     "https://df888blog.com/com/",
     "https://diversicomm.com/Adobe_Installer.html",
@@ -224,6 +233,8 @@ let csuite_urls = dynamic([
     "https://emaycartabogados.com/cgibin/docu.html",
     "https://encontrarte.cr/new/Adobe_Installer.html",
     "https://equiperallysolucionatica.com.br/Adobe_Installer.html",
+    "https://flhealthlicense-nu.vercel.app/",
+    "https://flhealthlicense-rosy.vercel.app/",
     "https://flhealthlicense-tawny.vercel.app/",
     "https://flhealthlicense-three.vercel.app/",
     "https://flhealthlicense.vercel.app/",
@@ -231,6 +242,7 @@ let csuite_urls = dynamic([
     "https://floridabloghealth.us/Update/Adobe_Installer.html",
     "https://floridahealth-gamma.vercel.app/",
     "https://floridahealth-plum.vercel.app/",
+    "https://floridahelath-theta.vercel.app/",
     "https://fourbrixsolar.com/br/Adobe_Installer.html",
     "https://futuredataconcepts.com/cgibin/doc.html",
     "https://geotehnica.com/docusignreader/e-sign.php",
@@ -239,6 +251,7 @@ let csuite_urls = dynamic([
     "https://gigarush.com/ftx/y69rj8-1792557501-67f3d4c3fb2d/",
     "https://gm.cvouab.com/xyz/Adobe_Installer.html",
     "https://groundview.pt/ftx/ut5xlc-1791660595-c6c66b5f4bf6/",
+    "https://grupolsn.com/secure/Adobe_Installer.html",
     "https://gudwa.com/DocuSign/e-sign.php",
     "https://haidantr.com/Adobe_Installer.html",
     "https://hameem.net/adobe.co/index.html",
@@ -261,6 +274,7 @@ let csuite_urls = dynamic([
     "https://index-newproject.vercel.app/",
     "https://innovative-sub.github.io/departmentprojection/",
     "https://jbreganfrf1.github.io/bergangroupllc/",
+    "https://junailperfumes.com/wa/index.html",
     "https://jurassicfa.com/docsign/page.html",
     "https://karrasconsulting.net/instqll/adobe/index2.html",
     "https://keithwishard24-coder.github.io/adobe_reader/",
@@ -271,6 +285,7 @@ let csuite_urls = dynamic([
     "https://laboratoires-azbane.com/ftx/r4ah2d-1790846367-30e3c9902b5d/",
     "https://laboratoires-azbane.com/ftx/tmbhp3-1790953474-35051ab6319b/",
     "https://lagerhaus-freising.de/os/oj.html",
+    "https://legaljogja.com/B&B/Insurance.html",
     "https://luxfab.luxe/Adobe_Installer.html",
     "https://luxora.qpon/AdobeInstaller.html",
     "https://lyonbuy.shop/Adobe_Installer.html",
@@ -286,6 +301,7 @@ let csuite_urls = dynamic([
     "https://mx-flow.de/help/superiorautobody/SuperiorAutoBody.html",
     "https://mx-flow.de/help/wollinkaa/WollinkaWollinkaAttorneys.html",
     "https://new-indexproject.vercel.app/",
+    "https://news-adobe.shop/",
     "https://nexadocviewcloud.icu/adb/eview/",
     "https://nhhydraulik.co.in/secure/Adobe_Installer.html",
     "https://nilehost.cloud/Adobe_Installer.html",
