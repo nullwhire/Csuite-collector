@@ -52,6 +52,7 @@ elaf.com.eg
 emaycartabogados.com
 encontrarte.cr
 eporaimoveisefacilities.com.br
+equiperallysolucionatica.com.br
 fdihub.com.ng
 flhealthlicense-tawny.vercel.app
 flhealthlicense-three.vercel.app
@@ -72,7 +73,9 @@ haidantr.com
 hameem.net
 hart.inf.br
 healthflpdf-viewer-nine.vercel.app
+healthlicense-blond.vercel.app
 healthlicense-tau.vercel.app
+healthlicense-zeta.vercel.app
 healthlicensefl-amber.vercel.app
 healthlicensefl-beta.vercel.app
 healthlicensefl.vercel.app

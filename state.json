@@ -894,7 +894,7 @@
       ],
       "ip": "89.163.155.33",
       "key": "cod-indigenouslocalknowledge.org",
-      "last_seen": "2026-10-28T20:04:18.817Z",
+      "last_seen": "2026-10-29T04:31:02.083Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -905,7 +905,13 @@
         "https://portal.cod-indigenouslocalknowledge.org/adoc/"
       ],
       "uuids": [
-        "01a1841c-c4bf-7409-be2a-3e704e5f8643"
+        "01a1841c-c4bf-7409-be2a-3e704e5f8643",
+        "01a185ec-560c-776e-a7f4-84d386fcb40f",
+        "01a18556-f960-75ee-ad8f-763da0c144cb",
+        "01a1854d-0e79-7382-a1e6-5a943b20f4ba",
+        "01a18535-109c-775e-a577-00da019942e0",
+        "01a1852f-bfff-7748-a75c-ba728512d945",
+        "01a1852c-187c-76a8-a952-c9f251409007"
       ]
     },
     "contract-quotation89573.s3.us-east-2.amazonaws.com": {
@@ -1408,6 +1414,34 @@
         "01a115f9-9af0-716b-80f1-1d23df8a4168"
       ]
     },
+    "equiperallysolucionatica.com.br": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-10-29T05:41:49Z",
+      "first_seen": "2026-10-29T01:05:08.217Z",
+      "hosts": [
+        "equiperallysolucionatica.com.br"
+      ],
+      "ip": "50.116.87.93",
+      "key": "equiperallysolucionatica.com.br",
+      "last_seen": "2026-10-29T04:48:20.284Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://equiperallysolucionatica.com.br/Adobe_Installer.html",
+        "http://equiperallysolucionatica.com.br/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a185fb-d3f0-7257-abbf-e6e3829f8406",
+        "01a18530-da2d-760d-ad8a-58456a489fd7",
+        "01a18530-33d7-7474-ab33-3b5333108852"
+      ]
+    },
     "fdihub.com.ng": {
       "asn": "AS329278",
       "confidence": "medium",
@@ -1441,7 +1475,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "flhealthlicense-tawny.vercel.app",
-      "last_seen": "2026-10-28T16:30:43.632Z",
+      "last_seen": "2026-10-29T00:48:31.946Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1456,7 +1490,9 @@
         "01a18359-5b55-7139-bf45-e8bcd3f213d0",
         "01a18359-2a33-771f-a6c6-27bedc86d87e",
         "01a1829b-1f36-74f9-84fe-3f25b1baecc9",
-        "01a18298-ff6e-7663-ac82-4547a59629ca"
+        "01a18298-ff6e-7663-ac82-4547a59629ca",
+        "01a18520-fa80-774a-8e2a-1dc2bd094afa",
+        "01a1851b-196a-749d-93da-cfdd3b8dedf4"
       ]
     },
     "flhealthlicense-three.vercel.app": {
@@ -1469,7 +1505,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense-three.vercel.app",
-      "last_seen": "2026-10-28T17:42:14.819Z",
+      "last_seen": "2026-10-29T04:30:46.735Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1480,7 +1516,9 @@
         "https://flhealthlicense-three.vercel.app/"
       ],
       "uuids": [
-        "01a1839a-bf03-709f-9872-0bf35f35888c"
+        "01a1839a-bf03-709f-9872-0bf35f35888c",
+        "01a185ec-8329-720a-a224-92d4860876eb",
+        "01a1852d-fc06-74b4-bd8c-f5acfc9fcdf6"
       ]
     },
     "flhealthlicense.vercel.app": {
@@ -1890,7 +1928,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-10-28T16:47:20.140Z",
+      "last_seen": "2026-10-29T04:30:31.233Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1900,7 +1938,8 @@
       "urls": [
         "https://hameem.net/adobe.co/index.html",
         "https://hameem.net/adobe.com/index.html",
-        "https://hameem.net/adobe.pw/index.html"
+        "https://hameem.net/adobe.pw/index.html",
+        "https://hameem.net/adobe.live/index.html"
       ],
       "uuids": [
         "01a17baf-b445-717a-b092-e9bfba4924fd",
@@ -1964,6 +2003,30 @@
         "01a12cf1-df1a-71ce-b751-a6ebc3230677"
       ]
     },
+    "healthlicense-blond.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-29T05:41:49Z",
+      "first_seen": "2026-10-29T03:21:39.029Z",
+      "hosts": [
+        "healthlicense-blond.vercel.app"
+      ],
+      "ip": "216.198.79.67",
+      "key": "healthlicense-blond.vercel.app",
+      "last_seen": "2026-10-29T03:21:39.029Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://healthlicense-blond.vercel.app/"
+      ],
+      "uuids": [
+        "01a185ad-32a4-734b-ac7d-807667c5dd40"
+      ]
+    },
     "healthlicense-tau.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -1974,7 +2037,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicense-tau.vercel.app",
-      "last_seen": "2026-10-28T19:09:20.934Z",
+      "last_seen": "2026-10-29T04:31:07.646Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1985,7 +2048,33 @@
         "https://healthlicense-tau.vercel.app/"
       ],
       "uuids": [
-        "01a183ea-a0a7-76ee-8ff3-d9b613d7c4e9"
+        "01a183ea-a0a7-76ee-8ff3-d9b613d7c4e9",
+        "01a185ec-5c5e-7236-ab3b-e2c0249bd15a",
+        "01a1852c-653e-728c-9baf-bf6a7dcfc4c3"
+      ]
+    },
+    "healthlicense-zeta.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-10-29T05:41:49Z",
+      "first_seen": "2026-10-29T03:20:38.922Z",
+      "hosts": [
+        "healthlicense-zeta.vercel.app"
+      ],
+      "ip": "64.29.17.67",
+      "key": "healthlicense-zeta.vercel.app",
+      "last_seen": "2026-10-29T03:20:38.922Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://healthlicense-zeta.vercel.app/"
+      ],
+      "uuids": [
+        "01a185ac-6a67-71de-8666-cf35d6038a3d"
       ]
     },
     "healthlicensefl-amber.vercel.app": {
@@ -2194,7 +2283,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-28T08:17:46.521Z",
+      "last_seen": "2026-10-29T02:39:37.253Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4072,7 +4161,7 @@
       ],
       "ip": "69.49.246.105",
       "key": "zoffry.qpon",
-      "last_seen": "2026-10-23T17:55:14.695Z",
+      "last_seen": "2026-10-29T04:30:30.887Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4083,13 +4172,15 @@
         "https://zoffry.qpon/Adb/"
       ],
       "uuids": [
-        "01a169e6-fb11-73dd-92e0-3057b88aff25"
+        "01a169e6-fb11-73dd-92e0-3057b88aff25",
+        "01a185ec-553c-73af-aadd-c3ee64f4a7fa",
+        "01a1852c-080c-773b-8b60-16725af8e49b"
       ]
     }
   },
   "meta": {
-    "last_run": "2026-10-28T22:31:16Z",
-    "last_success": "2026-10-28T22:31:16Z",
-    "window_hours": 11
+    "last_run": "2026-10-29T05:41:49Z",
+    "last_success": "2026-10-29T05:41:49Z",
+    "window_hours": 9
   }
 }
