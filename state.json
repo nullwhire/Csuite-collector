@@ -894,7 +894,7 @@
       ],
       "ip": "89.163.155.33",
       "key": "cod-indigenouslocalknowledge.org",
-      "last_seen": "2026-10-29T04:31:02.083Z",
+      "last_seen": "2026-10-29T11:16:33.377Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -911,7 +911,8 @@
         "01a1854d-0e79-7382-a1e6-5a943b20f4ba",
         "01a18535-109c-775e-a577-00da019942e0",
         "01a1852f-bfff-7748-a75c-ba728512d945",
-        "01a1852c-187c-76a8-a952-c9f251409007"
+        "01a1852c-187c-76a8-a952-c9f251409007",
+        "01a18760-21d8-71bd-8dc0-b33389b77e65"
       ]
     },
     "contract-quotation89573.s3.us-east-2.amazonaws.com": {
@@ -1116,7 +1117,7 @@
       ],
       "ip": "50.87.143.172",
       "key": "dndair.com",
-      "last_seen": "2026-10-24T11:23:55.262Z",
+      "last_seen": "2026-10-29T08:09:30.220Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1131,7 +1132,8 @@
         "01a16d62-d981-730e-ae9b-f007eba0c6c9",
         "01a16d3a-75f9-7747-9ab8-4994e62deae0",
         "01a16d33-d6b7-747c-8b67-621765b40dda",
-        "01a16da7-0701-72b8-99d2-5592c0b8882d"
+        "01a16da7-0701-72b8-99d2-5592c0b8882d",
+        "01a186b4-de54-77bd-9a87-edc2380de8fc"
       ]
     },
     "docsewallet.com": {
@@ -1144,7 +1146,7 @@
       ],
       "ip": "66.116.209.139",
       "key": "docsewallet.com",
-      "last_seen": "2026-10-25T01:31:52.875Z",
+      "last_seen": "2026-10-29T11:24:39.735Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1564,7 +1566,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "fllicensehealthpdf-viewer.vercel.app",
-      "last_seen": "2026-10-22T20:29:28.637Z",
+      "last_seen": "2026-10-29T11:05:03.711Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2037,7 +2039,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicense-tau.vercel.app",
-      "last_seen": "2026-10-29T04:31:07.646Z",
+      "last_seen": "2026-10-29T12:10:40.036Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2050,7 +2052,8 @@
       "uuids": [
         "01a183ea-a0a7-76ee-8ff3-d9b613d7c4e9",
         "01a185ec-5c5e-7236-ab3b-e2c0249bd15a",
-        "01a1852c-653e-728c-9baf-bf6a7dcfc4c3"
+        "01a1852c-653e-728c-9baf-bf6a7dcfc4c3",
+        "01a18791-a7cc-71c7-a8be-a2509fc31eb4"
       ]
     },
     "healthlicense-zeta.vercel.app": {
@@ -2283,7 +2286,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-29T02:39:37.253Z",
+      "last_seen": "2026-10-29T12:40:55.309Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3119,7 +3122,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-27T06:11:20.336Z",
+      "last_seen": "2026-10-29T06:18:29.325Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -4179,8 +4182,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-29T05:41:49Z",
-    "last_success": "2026-10-29T05:41:49Z",
+    "last_run": "2026-10-29T12:54:38Z",
+    "last_success": "2026-10-29T12:54:38Z",
     "window_hours": 9
   }
 }
