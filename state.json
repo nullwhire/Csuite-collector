@@ -67,7 +67,7 @@
       ],
       "ip": "97.74.209.172",
       "key": "abenetgeneralservices.ca",
-      "last_seen": "2026-10-28T21:54:15.428Z",
+      "last_seen": "2026-10-30T06:39:10.793Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -85,7 +85,8 @@
         "01a17d78-7e6e-710f-bda6-393f58846c02",
         "01a17f4f-d539-7440-97ff-f908a94a2527",
         "01a1801c-cf03-7569-92e8-534a3ac6483d",
-        "01a18481-4775-754a-bf79-bbcce82280a8"
+        "01a18481-4775-754a-bf79-bbcce82280a8",
+        "01a18b88-7308-7080-a983-cf7f9a33b759"
       ]
     },
     "acotecmetais.com.br": {
@@ -1507,7 +1508,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense-nu.vercel.app",
-      "last_seen": "2026-10-30T04:47:44.193Z",
+      "last_seen": "2026-10-30T11:13:35.402Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1520,7 +1521,8 @@
       "uuids": [
         "01a187d9-783b-7422-b046-77cafa6deeec",
         "01a18b22-04e6-7708-b802-409d20ba3dfe",
-        "01a18a56-3e8d-704d-9572-f6d347df1315"
+        "01a18a56-3e8d-704d-9572-f6d347df1315",
+        "01a18c83-c69e-7618-b5b7-401a57881715"
       ]
     },
     "flhealthlicense-rosy.vercel.app": {
@@ -1533,7 +1535,7 @@
       ],
       "ip": "216.198.79.195",
       "key": "flhealthlicense-rosy.vercel.app",
-      "last_seen": "2026-10-30T04:47:24.286Z",
+      "last_seen": "2026-10-30T11:08:51.507Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1546,7 +1548,8 @@
       "uuids": [
         "01a187d9-ebdb-73dc-874b-95b64e194350",
         "01a18b22-0279-7268-a6b7-8b9e4e859357",
-        "01a18a56-201c-73b0-8a60-ad1038bc6d60"
+        "01a18a56-201c-73b0-8a60-ad1038bc6d60",
+        "01a18c7f-598d-7090-9ae4-11e254fe849f"
       ]
     },
     "flhealthlicense-tawny.vercel.app": {
@@ -1621,7 +1624,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense.vercel.app",
-      "last_seen": "2026-10-30T03:31:09.808Z",
+      "last_seen": "2026-10-30T08:39:48.106Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1771,7 +1774,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahelath-theta.vercel.app",
-      "last_seen": "2026-10-30T04:47:13.889Z",
+      "last_seen": "2026-10-30T11:22:21.739Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1784,7 +1787,9 @@
       "uuids": [
         "01a187d9-dfbb-716c-9afc-8326bc2a9727",
         "01a18b22-0c1b-7247-8135-4c9bcb2d61f4",
-        "01a18a56-7de5-7114-9835-1ffce93374e4"
+        "01a18a56-7de5-7114-9835-1ffce93374e4",
+        "01a18c8b-c811-7308-86a3-50c7fbbcb50e",
+        "01a18bb3-f35d-73bf-a8ba-3406d207a700"
       ]
     },
     "fourbrixsolar.com": {
@@ -2159,7 +2164,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "healthlicense-blond.vercel.app",
-      "last_seen": "2026-10-30T04:47:09.364Z",
+      "last_seen": "2026-10-30T10:48:11.781Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2176,7 +2181,8 @@
         "01a187e4-4bad-76e9-8a9e-66795422c1f3",
         "01a187c2-7aaf-7236-b835-e67681435e8e",
         "01a18b21-f009-764b-9ac1-5ce49d04258f",
-        "01a18a55-6396-761a-a304-88d198d385f2"
+        "01a18a55-6396-761a-a304-88d198d385f2",
+        "01a18c6c-8156-734e-ac65-9834c5850178"
       ]
     },
     "healthlicense-tau.vercel.app": {
@@ -2220,7 +2226,7 @@
       ],
       "ip": "64.29.17.67",
       "key": "healthlicense-zeta.vercel.app",
-      "last_seen": "2026-10-30T04:47:25.714Z",
+      "last_seen": "2026-10-30T11:00:42.762Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2238,7 +2244,8 @@
         "01a187e4-4c42-76fb-b065-b002abd97d2d",
         "01a187c2-73f2-745d-bd96-b3bbc0c84220",
         "01a18b21-fccf-771a-946d-b7d94c085976",
-        "01a18a55-ec43-746b-aaaa-f8ed018a8e79"
+        "01a18a55-ec43-746b-aaaa-f8ed018a8e79",
+        "01a18c77-fb8d-7667-b820-7e334a5bc432"
       ]
     },
     "healthlicensefl-amber.vercel.app": {
@@ -2316,7 +2323,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicensefl.vercel.app",
-      "last_seen": "2026-10-30T03:28:20.188Z",
+      "last_seen": "2026-10-30T08:38:48.430Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2377,7 +2384,7 @@
       ],
       "ip": "108.167.168.42",
       "key": "hipercromo.com.br",
-      "last_seen": "2026-10-17T11:11:33.121Z",
+      "last_seen": "2026-10-30T08:56:52.428Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -2392,7 +2399,8 @@
         "01a14760-1860-7589-8fa1-f4eb24e046f3",
         "01a14820-3270-76ac-bfac-6fdc66ea9087",
         "01a1498f-380f-770f-8a2b-b1c6807ee2af",
-        "01a14982-daab-77b9-8cf5-b431b0c471b9"
+        "01a14982-daab-77b9-8cf5-b431b0c471b9",
+        "01a18c06-3871-7409-8b1e-1a94d654c443"
       ]
     },
     "hjp-s3-akf.s3.us-east-1.amazonaws.com": {
@@ -3400,7 +3408,7 @@
       ],
       "ip": "64.29.17.195",
       "key": "pdf-viewer-five-virid.vercel.app",
-      "last_seen": "2026-10-28T08:52:52.435Z",
+      "last_seen": "2026-10-30T06:04:14.222Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4172,6 +4180,30 @@
         "01a17c63-c594-74b5-a7b7-46e3e47b6f01"
       ]
     },
+    "tss24.com": {
+      "asn": "AS153523",
+      "confidence": "low",
+      "first_run": "2026-10-30T12:47:18Z",
+      "first_seen": "2026-10-30T10:33:28.174Z",
+      "hosts": [
+        "tss24.com"
+      ],
+      "ip": "161.248.188.172",
+      "key": "tss24.com",
+      "last_seen": "2026-10-30T10:33:28.174Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://tss24.com/ftx/tyf93k-1793356400-859f72260907/"
+      ],
+      "uuids": [
+        "01a18c5e-ff20-76c9-addd-98f892e71f92"
+      ]
+    },
     "tw1.ru": {
       "asn": "AS9123",
       "confidence": "medium",
@@ -4523,8 +4555,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-30T05:41:07Z",
-    "last_success": "2026-10-30T05:41:07Z",
-    "window_hours": 8
+    "last_run": "2026-10-30T12:47:18Z",
+    "last_success": "2026-10-30T12:47:18Z",
+    "window_hours": 9
   }
 }
