@@ -67,7 +67,7 @@
       ],
       "ip": "97.74.209.172",
       "key": "abenetgeneralservices.ca",
-      "last_seen": "2026-10-30T06:39:10.793Z",
+      "last_seen": "2026-10-30T12:51:16.790Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -86,7 +86,8 @@
         "01a17f4f-d539-7440-97ff-f908a94a2527",
         "01a1801c-cf03-7569-92e8-534a3ac6483d",
         "01a18481-4775-754a-bf79-bbcce82280a8",
-        "01a18b88-7308-7080-a983-cf7f9a33b759"
+        "01a18b88-7308-7080-a983-cf7f9a33b759",
+        "01a18cdc-eea2-7481-b654-ddc359a5031c"
       ]
     },
     "acotecmetais.com.br": {
@@ -1508,7 +1509,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense-nu.vercel.app",
-      "last_seen": "2026-10-30T11:13:35.402Z",
+      "last_seen": "2026-10-30T15:32:22.103Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1522,7 +1523,9 @@
         "01a187d9-783b-7422-b046-77cafa6deeec",
         "01a18b22-04e6-7708-b802-409d20ba3dfe",
         "01a18a56-3e8d-704d-9572-f6d347df1315",
-        "01a18c83-c69e-7618-b5b7-401a57881715"
+        "01a18c83-c69e-7618-b5b7-401a57881715",
+        "01a18d70-8e26-7727-a2e2-63646679981a",
+        "01a18ce9-2f6a-75dd-8aaa-2273866f365d"
       ]
     },
     "flhealthlicense-rosy.vercel.app": {
@@ -1535,7 +1538,7 @@
       ],
       "ip": "216.198.79.195",
       "key": "flhealthlicense-rosy.vercel.app",
-      "last_seen": "2026-10-30T11:08:51.507Z",
+      "last_seen": "2026-10-30T16:43:49.441Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1549,7 +1552,9 @@
         "01a187d9-ebdb-73dc-874b-95b64e194350",
         "01a18b22-0279-7268-a6b7-8b9e4e859357",
         "01a18a56-201c-73b0-8a60-ad1038bc6d60",
-        "01a18c7f-598d-7090-9ae4-11e254fe849f"
+        "01a18c7f-598d-7090-9ae4-11e254fe849f",
+        "01a18db2-1134-778a-82aa-54019799c13b",
+        "01a18ceb-1137-77e9-b854-fc018b2e423f"
       ]
     },
     "flhealthlicense-tawny.vercel.app": {
@@ -1774,7 +1779,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahelath-theta.vercel.app",
-      "last_seen": "2026-10-30T11:22:21.739Z",
+      "last_seen": "2026-10-30T13:04:07.468Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1789,7 +1794,8 @@
         "01a18b22-0c1b-7247-8135-4c9bcb2d61f4",
         "01a18a56-7de5-7114-9835-1ffce93374e4",
         "01a18c8b-c811-7308-86a3-50c7fbbcb50e",
-        "01a18bb3-f35d-73bf-a8ba-3406d207a700"
+        "01a18bb3-f35d-73bf-a8ba-3406d207a700",
+        "01a18ce8-f5f5-738f-b77e-4f5c62a20336"
       ]
     },
     "fourbrixsolar.com": {
@@ -2079,7 +2085,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-10-30T01:18:19.964Z",
+      "last_seen": "2026-10-30T15:09:05.583Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2384,7 +2390,7 @@
       ],
       "ip": "108.167.168.42",
       "key": "hipercromo.com.br",
-      "last_seen": "2026-10-30T08:56:52.428Z",
+      "last_seen": "2026-10-30T15:29:23.880Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -2393,14 +2399,16 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://hipercromo.com.br/Adobe_Installer.html"
+        "https://hipercromo.com.br/Adobe_Installer.html",
+        "https://hipercromo.com.br/adobe_installer.html"
       ],
       "uuids": [
         "01a14760-1860-7589-8fa1-f4eb24e046f3",
         "01a14820-3270-76ac-bfac-6fdc66ea9087",
         "01a1498f-380f-770f-8a2b-b1c6807ee2af",
         "01a14982-daab-77b9-8cf5-b431b0c471b9",
-        "01a18c06-3871-7409-8b1e-1a94d654c443"
+        "01a18c06-3871-7409-8b1e-1a94d654c443",
+        "01a18d6d-f823-740d-a675-e027c5fec143"
       ]
     },
     "hjp-s3-akf.s3.us-east-1.amazonaws.com": {
@@ -3200,7 +3208,7 @@
       ],
       "ip": "162.241.222.199",
       "key": "nhhydraulik.co.in",
-      "last_seen": "2026-10-25T01:31:00.351Z",
+      "last_seen": "2026-10-30T18:31:36.537Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3221,7 +3229,8 @@
         "01a151a4-2d82-724e-a7f3-8fc9e622dc77",
         "01a1534d-690e-768a-8f90-02380d603983",
         "01a15f8f-851e-708b-9658-6b031cca1ce7",
-        "01a170ad-3f0a-751b-86b0-92e39638c6ae"
+        "01a170ad-3f0a-751b-86b0-92e39638c6ae",
+        "01a18e14-b7c9-72b9-b1f8-13916670deaf"
       ]
     },
     "nilehost.cloud": {
@@ -3466,7 +3475,7 @@
       ],
       "ip": "103.65.237.122",
       "key": "peputragroup.com",
-      "last_seen": "2026-10-30T02:36:37.244Z",
+      "last_seen": "2026-10-30T18:54:30.610Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3552,6 +3561,31 @@
         "01a12780-5e12-70fd-868f-db92c1e84512",
         "01a16b6c-fd80-72af-8a91-ba3f6c9f6b87",
         "01a170ae-2fda-77a8-ba01-cc2974602a75"
+      ]
+    },
+    "pomarosahotel.com": {
+      "asn": "AS23352",
+      "confidence": "high",
+      "first_run": "2026-10-30T22:14:47Z",
+      "first_seen": "2026-10-30T19:38:43.835Z",
+      "hosts": [
+        "pomarosahotel.com"
+      ],
+      "ip": "66.225.221.122",
+      "key": "pomarosahotel.com",
+      "last_seen": "2026-10-30T19:38:43.835Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://pomarosahotel.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a18e52-3470-750f-8890-bfaf25114343"
       ]
     },
     "prasannashirol.com": {
@@ -3677,6 +3711,30 @@
         "01a112bb-019b-711d-bf7b-2c8d6e22d375",
         "01a13029-e11c-7268-a3b9-0e2f2a897232",
         "01a12fcf-ef12-749d-b2ed-e5784f64ee01"
+      ]
+    },
+    "raypanelbeating.co.za": {
+      "asn": "AS328037",
+      "confidence": "low",
+      "first_run": "2026-10-30T22:14:47Z",
+      "first_seen": "2026-10-30T17:42:22.020Z",
+      "hosts": [
+        "raypanelbeating.co.za"
+      ],
+      "ip": "164.160.91.38",
+      "key": "raypanelbeating.co.za",
+      "last_seen": "2026-10-30T17:42:22.020Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://raypanelbeating.co.za/ftx/r78qz6-1793382135-05d89de53b94/"
+      ],
+      "uuids": [
+        "01a18de7-af33-731f-a706-0000e87adbec"
       ]
     },
     "realtorbala.ca": {
@@ -4299,6 +4357,30 @@
         "01a1843a-7df7-719b-bc33-4d4489847880"
       ]
     },
+    "weathered-boat-5061.madison-6e0.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-30T22:14:47Z",
+      "first_seen": "2026-10-30T12:52:06.182Z",
+      "hosts": [
+        "weathered-boat-5061.madison-6e0.workers.dev"
+      ],
+      "ip": "188.114.97.3",
+      "key": "weathered-boat-5061.madison-6e0.workers.dev",
+      "last_seen": "2026-10-30T12:52:06.182Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://weathered-boat-5061.madison-6e0.workers.dev/"
+      ],
+      "uuids": [
+        "01a18cdd-f8ee-7445-ab59-381b679720ee"
+      ]
+    },
     "whisperingjessie.com": {
       "asn": "AS31898",
       "confidence": "low",
@@ -4555,8 +4637,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-30T12:47:18Z",
-    "last_success": "2026-10-30T12:47:18Z",
-    "window_hours": 9
+    "last_run": "2026-10-30T22:14:47Z",
+    "last_success": "2026-10-30T22:14:47Z",
+    "window_hours": 11
   }
 }
