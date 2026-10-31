@@ -435,6 +435,31 @@
         "01a15cbc-fa5b-73fe-8401-b8eded5674f8"
       ]
     },
+    "amnesiacuracao.com": {
+      "asn": "AS398101",
+      "confidence": "medium",
+      "first_run": "2026-10-31T05:33:14Z",
+      "first_seen": "2026-10-31T01:01:03.627Z",
+      "hosts": [
+        "amnesiacuracao.com"
+      ],
+      "ip": "107.180.112.112",
+      "key": "amnesiacuracao.com",
+      "last_seen": "2026-10-31T04:43:11.528Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://amnesiacuracao.com/adobe/adobe.html"
+      ],
+      "uuids": [
+        "01a19044-b391-73aa-b795-16a6d5efe539",
+        "01a18f79-43d3-767e-86b1-28a1e1036604"
+      ]
+    },
     "apoyar.org": {
       "asn": "AS31898",
       "confidence": "medium",
@@ -896,7 +921,7 @@
       ],
       "ip": "89.163.155.33",
       "key": "cod-indigenouslocalknowledge.org",
-      "last_seen": "2026-10-30T01:14:23.638Z",
+      "last_seen": "2026-10-31T05:12:03.779Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -915,7 +940,8 @@
         "01a1852f-bfff-7748-a75c-ba728512d945",
         "01a1852c-187c-76a8-a952-c9f251409007",
         "01a18760-21d8-71bd-8dc0-b33389b77e65",
-        "01a18a5f-312d-71b0-8e31-b228525e14db"
+        "01a18a5f-312d-71b0-8e31-b228525e14db",
+        "01a1905f-25b5-76c3-9ba9-3e6668ec9364"
       ]
     },
     "contract-quotation89573.s3.us-east-2.amazonaws.com": {
@@ -1012,7 +1038,7 @@
       ],
       "ip": "94.72.101.64",
       "key": "cvouab.com",
-      "last_seen": "2026-10-11T08:26:04.981Z",
+      "last_seen": "2026-10-31T01:01:58.084Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1030,7 +1056,8 @@
         "01a0f4fe-ab1b-76fd-a966-d8180df9378e",
         "01a0fd24-def1-7251-8f2f-3311d8b7930d",
         "01a10c1a-c097-759d-b160-34a54c4f5d86",
-        "01a12a11-9b88-7434-b8f8-b84e5cb22395"
+        "01a12a11-9b88-7434-b8f8-b84e5cb22395",
+        "01a18f7a-32cc-704b-bae9-5321cb4376a1"
       ]
     },
     "descubrecoinco.cl": {
@@ -1509,7 +1536,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense-nu.vercel.app",
-      "last_seen": "2026-10-30T15:32:22.103Z",
+      "last_seen": "2026-10-31T02:31:33.027Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1525,7 +1552,9 @@
         "01a18a56-3e8d-704d-9572-f6d347df1315",
         "01a18c83-c69e-7618-b5b7-401a57881715",
         "01a18d70-8e26-7727-a2e2-63646679981a",
-        "01a18ce9-2f6a-75dd-8aaa-2273866f365d"
+        "01a18ce9-2f6a-75dd-8aaa-2273866f365d",
+        "01a18fcc-271f-73a9-a383-a7300c6a8521",
+        "01a18efd-04b7-721c-9ded-04037e1e2332"
       ]
     },
     "flhealthlicense-rosy.vercel.app": {
@@ -1538,7 +1567,7 @@
       ],
       "ip": "216.198.79.195",
       "key": "flhealthlicense-rosy.vercel.app",
-      "last_seen": "2026-10-30T16:43:49.441Z",
+      "last_seen": "2026-10-31T02:46:46.132Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1554,7 +1583,9 @@
         "01a18a56-201c-73b0-8a60-ad1038bc6d60",
         "01a18c7f-598d-7090-9ae4-11e254fe849f",
         "01a18db2-1134-778a-82aa-54019799c13b",
-        "01a18ceb-1137-77e9-b854-fc018b2e423f"
+        "01a18ceb-1137-77e9-b854-fc018b2e423f",
+        "01a18fd9-e1a3-71ea-9ccf-96909daeb1ca",
+        "01a18efe-2032-70a8-9063-c5cf19a644b7"
       ]
     },
     "flhealthlicense-tawny.vercel.app": {
@@ -1717,7 +1748,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahealth-gamma.vercel.app",
-      "last_seen": "2026-10-30T00:48:00.972Z",
+      "last_seen": "2026-10-31T00:48:55.198Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1735,7 +1766,8 @@
         "01a18376-7dc8-754d-a902-bdde0674f6af",
         "01a1829f-07b3-7705-a839-3c3fcee75c17",
         "01a18911-617e-7298-a2b7-3ed8f5064a57",
-        "01a18a47-0d8f-709d-b2a7-3b3f57abe5ff"
+        "01a18a47-0d8f-709d-b2a7-3b3f57abe5ff",
+        "01a18f6e-2926-74a9-9a13-ec60b6def360"
       ]
     },
     "floridahealth-plum.vercel.app": {
@@ -1779,7 +1811,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahelath-theta.vercel.app",
-      "last_seen": "2026-10-30T13:04:07.468Z",
+      "last_seen": "2026-10-31T02:31:35.140Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1795,7 +1827,9 @@
         "01a18a56-7de5-7114-9835-1ffce93374e4",
         "01a18c8b-c811-7308-86a3-50c7fbbcb50e",
         "01a18bb3-f35d-73bf-a8ba-3406d207a700",
-        "01a18ce8-f5f5-738f-b77e-4f5c62a20336"
+        "01a18ce8-f5f5-738f-b77e-4f5c62a20336",
+        "01a18fcc-216f-7334-b1fd-9596ed19cfe9",
+        "01a18efc-f380-761f-b685-87de046fa64b"
       ]
     },
     "fourbrixsolar.com": {
@@ -2085,7 +2119,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-10-30T15:09:05.583Z",
+      "last_seen": "2026-10-31T00:59:03.601Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2232,7 +2266,7 @@
       ],
       "ip": "64.29.17.67",
       "key": "healthlicense-zeta.vercel.app",
-      "last_seen": "2026-10-30T11:00:42.762Z",
+      "last_seen": "2026-10-31T01:37:08.080Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2251,7 +2285,8 @@
         "01a187c2-73f2-745d-bd96-b3bbc0c84220",
         "01a18b21-fccf-771a-946d-b7d94c085976",
         "01a18a55-ec43-746b-aaaa-f8ed018a8e79",
-        "01a18c77-fb8d-7667-b820-7e334a5bc432"
+        "01a18c77-fb8d-7667-b820-7e334a5bc432",
+        "01a18f9a-62d5-7421-9eca-5ad838548e91"
       ]
     },
     "healthlicensefl-amber.vercel.app": {
@@ -2297,7 +2332,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicensefl-beta.vercel.app",
-      "last_seen": "2026-10-29T23:25:03.570Z",
+      "last_seen": "2026-10-31T01:22:36.414Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2316,7 +2351,8 @@
         "01a18368-70dc-700e-a260-7a05a083639d",
         "01a1829c-2404-730a-a070-a6b867bda8ed",
         "01a1891a-2934-7720-ab50-b677372e5770",
-        "01a189fb-19e9-7344-8dbe-9cfedc4f83c5"
+        "01a189fb-19e9-7344-8dbe-9cfedc4f83c5",
+        "01a18f8d-107d-745e-9e5a-28d429e26b20"
       ]
     },
     "healthlicensefl.vercel.app": {
@@ -3573,7 +3609,7 @@
       ],
       "ip": "66.225.221.122",
       "key": "pomarosahotel.com",
-      "last_seen": "2026-10-30T19:38:43.835Z",
+      "last_seen": "2026-10-31T04:30:14.438Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3585,7 +3621,9 @@
         "https://pomarosahotel.com/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a18e52-3470-750f-8890-bfaf25114343"
+        "01a18e52-3470-750f-8890-bfaf25114343",
+        "01a19038-c655-759d-831c-03be5cf17583",
+        "01a18f78-b0b9-713d-aab5-a357433a6c68"
       ]
     },
     "prasannashirol.com": {
@@ -3646,7 +3684,7 @@
       ],
       "ip": "192.185.146.129",
       "key": "ptai.in",
-      "last_seen": "2026-10-06T01:26:31.212Z",
+      "last_seen": "2026-10-31T01:02:21.410Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -3660,7 +3698,8 @@
         "01a0f376-983b-764c-bde8-4fc30b39c7c5",
         "01a0ffb3-ec41-7321-bb23-e4216f6d3ca2",
         "01a10e2a-c74c-74c7-8492-7e0f67e7b327",
-        "01a10ed1-a90c-7003-baf5-98989348a2e8"
+        "01a10ed1-a90c-7003-baf5-98989348a2e8",
+        "01a18f7a-6b50-76ef-b285-1f4a318b9868"
       ]
     },
     "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev": {
@@ -4272,7 +4311,7 @@
       ],
       "ip": "92.53.96.201",
       "key": "tw1.ru",
-      "last_seen": "2026-10-29T17:44:15.287Z",
+      "last_seen": "2026-10-31T01:30:08.455Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4284,7 +4323,8 @@
       ],
       "uuids": [
         "01a17d76-312d-75f2-a23f-05058888cdb9",
-        "01a188c2-f71c-73bb-98bb-183a107200c1"
+        "01a188c2-f71c-73bb-98bb-183a107200c1",
+        "01a18f93-f7d8-7082-b45a-146fbca78697"
       ]
     },
     "twentytwentydigital.com": {
@@ -4617,7 +4657,7 @@
       ],
       "ip": "69.49.246.105",
       "key": "zoffry.qpon",
-      "last_seen": "2026-10-30T01:13:52.611Z",
+      "last_seen": "2026-10-31T04:23:59.468Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4632,13 +4672,16 @@
         "01a185ec-553c-73af-aadd-c3ee64f4a7fa",
         "01a1852c-080c-773b-8b60-16725af8e49b",
         "01a18907-e7a4-7728-9ba3-bf3095178bee",
-        "01a18a5e-b786-778a-ae95-211be8828389"
+        "01a18a5e-b786-778a-ae95-211be8828389",
+        "01a19033-206d-722e-8924-284a12131220",
+        "01a18f9a-bdd8-71bf-96bc-cde40da279d5",
+        "01a18f2e-f3c0-71d9-be9c-2bc49949b073"
       ]
     }
   },
   "meta": {
-    "last_run": "2026-10-30T22:14:47Z",
-    "last_success": "2026-10-30T22:14:47Z",
-    "window_hours": 11
+    "last_run": "2026-10-31T05:33:14Z",
+    "last_success": "2026-10-31T05:33:14Z",
+    "window_hours": 9
   }
 }
