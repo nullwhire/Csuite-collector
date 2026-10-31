@@ -666,6 +666,30 @@
         "01a15cbd-abe8-7176-97d3-457b460d6c17"
       ]
     },
+    "black-rice-b4c7.john-53d.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-10-31T21:29:34Z",
+      "first_seen": "2026-10-31T18:07:38.617Z",
+      "hosts": [
+        "black-rice-b4c7.john-53d.workers.dev"
+      ],
+      "ip": "104.21.94.12",
+      "key": "black-rice-b4c7.john-53d.workers.dev",
+      "last_seen": "2026-10-31T18:07:38.617Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://black-rice-b4c7.john-53d.workers.dev/"
+      ],
+      "uuids": [
+        "01a19325-360f-713b-b684-9042ca683e46"
+      ]
+    },
     "blackprimehouse.com.br": {
       "asn": "AS31898",
       "confidence": "medium",
@@ -4694,8 +4718,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-10-31T12:18:25Z",
-    "last_success": "2026-10-31T12:18:25Z",
-    "window_hours": 8
+    "last_run": "2026-10-31T21:29:34Z",
+    "last_success": "2026-10-31T21:29:34Z",
+    "window_hours": 11
   }
 }
