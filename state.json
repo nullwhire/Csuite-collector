@@ -67,7 +67,7 @@
       ],
       "ip": "97.74.209.172",
       "key": "abenetgeneralservices.ca",
-      "last_seen": "2026-11-01T11:15:25.704Z",
+      "last_seen": "2026-11-02T13:41:26.762Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -446,7 +446,7 @@
       ],
       "ip": "107.180.112.112",
       "key": "amnesiacuracao.com",
-      "last_seen": "2026-10-31T21:54:22.319Z",
+      "last_seen": "2026-11-02T15:06:14.951Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -461,7 +461,9 @@
         "01a18f79-43d3-767e-86b1-28a1e1036604",
         "01a191da-336a-74f9-9abe-d78b5558021d",
         "01a193f4-c115-72bd-b9ed-9cdd5ae383b3",
-        "01a193ed-bb65-772f-b8dd-c87c7768e2fc"
+        "01a193ed-bb65-772f-b8dd-c87c7768e2fc",
+        "01a19ccb-d496-7619-979c-1d4daa9c470e",
+        "01a19c61-4e62-7395-8681-580d5c18ac66"
       ]
     },
     "apoyar.org": {
@@ -2187,7 +2189,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-10-31T21:37:45.524Z",
+      "last_seen": "2026-11-02T13:07:28.605Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2198,7 +2200,8 @@
         "https://hameem.net/adobe.co/index.html",
         "https://hameem.net/adobe.com/index.html",
         "https://hameem.net/adobe.pw/index.html",
-        "https://hameem.net/adobe.live/index.html"
+        "https://hameem.net/adobe.live/index.html",
+        "https://hameem.net/adobe.bb.com/"
       ],
       "uuids": [
         "01a17baf-b445-717a-b092-e9bfba4924fd",
@@ -3681,7 +3684,7 @@
       ],
       "ip": "66.225.221.122",
       "key": "pomarosahotel.com",
-      "last_seen": "2026-10-31T21:51:07.082Z",
+      "last_seen": "2026-11-02T15:05:28.411Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3699,7 +3702,9 @@
         "01a191d6-78e7-71dd-ae36-a21577ca6f4c",
         "01a191ab-fb0a-73ae-a534-9368d9209ff1",
         "01a193f1-bd0c-7454-885f-27622c3eb4e9",
-        "01a193ed-b2cc-774c-b584-0ce5ebdf3a80"
+        "01a193ed-b2cc-774c-b584-0ce5ebdf3a80",
+        "01a19ccb-0655-76e2-8163-74058ea82e65",
+        "01a19c60-ea8d-767c-9d8c-51c4b04624ab"
       ]
     },
     "prasannashirol.com": {
@@ -3946,6 +3951,30 @@
         "01a14475-9533-70bc-999b-dee0597b6b38"
       ]
     },
+    "scalvesonixands.site": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-02T15:41:02Z",
+      "first_seen": "2026-11-02T14:00:29.324Z",
+      "hosts": [
+        "scalvesonixands.site"
+      ],
+      "ip": "104.21.67.16",
+      "key": "scalvesonixands.site",
+      "last_seen": "2026-11-02T14:00:29.324Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://scalvesonixands.site/v/"
+      ],
+      "uuids": [
+        "01a19c8f-9c6a-76ae-a938-40cb4faa1506"
+      ]
+    },
     "screenconnect.com": {
       "confidence": "low",
       "first_run": "2026-10-16T11:17:14Z",
@@ -4021,6 +4050,30 @@
         "01a15de5-e34f-74e2-93cf-a0253c04cc57",
         "01a15cd7-4aaf-70ee-a95b-a9db48a86444",
         "01a16bcc-664f-75ab-afd7-40ba2f7c0239"
+      ]
+    },
+    "ssc-marine.com": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-02T15:41:02Z",
+      "first_seen": "2026-11-02T13:15:54.808Z",
+      "hosts": [
+        "ssc-marine.com"
+      ],
+      "ip": "188.114.96.3",
+      "key": "ssc-marine.com",
+      "last_seen": "2026-11-02T13:15:54.808Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://ssc-marine.com/SIE/SIE.html"
+      ],
+      "uuids": [
+        "01a19c66-ca0c-76bd-899e-b4578b308df3"
       ]
     },
     "stein-sudo.github.io": {
@@ -4104,6 +4157,30 @@
       "uuids": [
         "01a10d23-e14c-717d-92c4-0af0f22fc1b2",
         "01a10f1c-31e5-70d7-bced-d37e8136a069"
+      ]
+    },
+    "sweet-pine-7fca.john-53d.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-02T15:41:02Z",
+      "first_seen": "2026-11-02T14:22:01.684Z",
+      "hosts": [
+        "sweet-pine-7fca.john-53d.workers.dev"
+      ],
+      "ip": "172.67.218.53",
+      "key": "sweet-pine-7fca.john-53d.workers.dev",
+      "last_seen": "2026-11-02T14:22:01.684Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://sweet-pine-7fca.john-53d.workers.dev/"
+      ],
+      "uuids": [
+        "01a19ca3-5cbd-776f-80ee-efc8933d1123"
       ]
     },
     "taslimaenterprise.com": {
@@ -4375,6 +4452,30 @@
       ],
       "uuids": [
         "01a18c5e-ff20-76c9-addd-98f892e71f92"
+      ]
+    },
+    "tuespaciocreativo.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-11-02T15:41:02Z",
+      "first_seen": "2026-11-02T11:08:18.747Z",
+      "hosts": [
+        "tuespaciocreativo.com"
+      ],
+      "ip": "192.185.13.173",
+      "key": "tuespaciocreativo.com",
+      "last_seen": "2026-11-02T11:08:18.747Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://tuespaciocreativo.com/wp-content/file-view-pdf/view.php"
+      ],
+      "uuids": [
+        "01a19bf1-fb44-7374-9ad4-d2949200da5e"
       ]
     },
     "tw1.ru": {
@@ -4756,8 +4857,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-02T05:56:04Z",
-    "last_success": "2026-11-02T05:56:04Z",
-    "window_hours": 9
+    "last_run": "2026-11-02T15:41:02Z",
+    "last_success": "2026-11-02T15:41:02Z",
+    "window_hours": 11
   }
 }
