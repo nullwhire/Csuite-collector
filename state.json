@@ -911,6 +911,30 @@
         "01a15cbe-6899-75ac-a566-24d209106c71"
       ]
     },
+    "cardmium.com": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-02T05:56:04Z",
+      "first_seen": "2026-11-02T02:31:35.099Z",
+      "hosts": [
+        "cardmium.com"
+      ],
+      "ip": "104.21.46.5",
+      "key": "cardmium.com",
+      "last_seen": "2026-11-02T02:31:35.099Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://cardmium.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a19a18-d154-765a-9a7e-78cba7c38144"
+      ]
+    },
     "clementspools.github.io": {
       "asn": "AS54113",
       "confidence": "medium",
@@ -4732,8 +4756,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-01T21:58:31Z",
-    "last_success": "2026-11-01T21:58:31Z",
-    "window_hours": 10
+    "last_run": "2026-11-02T05:56:04Z",
+    "last_success": "2026-11-02T05:56:04Z",
+    "window_hours": 9
   }
 }
