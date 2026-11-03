@@ -258,6 +258,30 @@
         "01a1402f-754f-7676-90ed-7d486ec416d4"
       ]
     },
+    "admintegral.com.ar": {
+      "asn": "AS54641",
+      "confidence": "medium",
+      "first_run": "2026-11-03T00:54:53Z",
+      "first_seen": "2026-11-02T20:48:25.075Z",
+      "hosts": [
+        "admintegral.com.ar"
+      ],
+      "ip": "168.235.117.152",
+      "key": "admintegral.com.ar",
+      "last_seen": "2026-11-02T20:48:25.075Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://admintegral.com.ar/.home/exeedumntt.html"
+      ],
+      "uuids": [
+        "01a19e05-1dbf-77c8-b3a2-dec422a2b3d3"
+      ]
+    },
     "adobeinstaller-virid.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -446,7 +470,7 @@
       ],
       "ip": "107.180.112.112",
       "key": "amnesiacuracao.com",
-      "last_seen": "2026-11-02T15:06:14.951Z",
+      "last_seen": "2026-11-03T00:51:31.809Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -463,7 +487,9 @@
         "01a193f4-c115-72bd-b9ed-9cdd5ae383b3",
         "01a193ed-bb65-772f-b8dd-c87c7768e2fc",
         "01a19ccb-d496-7619-979c-1d4daa9c470e",
-        "01a19c61-4e62-7395-8681-580d5c18ac66"
+        "01a19c61-4e62-7395-8681-580d5c18ac66",
+        "01a19ee3-afe2-7014-bd08-9f29c2428afb",
+        "01a19e9e-773d-7406-a388-0162dd5222d3"
       ]
     },
     "apoyar.org": {
@@ -2189,7 +2215,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-11-02T13:07:28.605Z",
+      "last_seen": "2026-11-02T19:02:53.952Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2655,6 +2681,31 @@
       "uuids": [
         "01a10858-c4b5-76d8-b2a5-934e4a634385",
         "01a11f3a-94cb-74eb-b97e-404cad3b8c8d"
+      ]
+    },
+    "ivegx.click": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-03T00:54:53Z",
+      "first_seen": "2026-11-02T21:18:16.144Z",
+      "hosts": [
+        "check.ivegx.click"
+      ],
+      "ip": "188.114.97.3",
+      "key": "ivegx.click",
+      "last_seen": "2026-11-02T21:20:00.688Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Attention Required! | Cloudflare",
+      "urls": [
+        "https://check.ivegx.click/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a19e22-1037-7709-95b8-c7fde83370e2",
+        "01a19e20-76ce-779c-bd0d-27b67ddf3fb1"
       ]
     },
     "janrevell.com": {
@@ -3684,7 +3735,7 @@
       ],
       "ip": "66.225.221.122",
       "key": "pomarosahotel.com",
-      "last_seen": "2026-11-02T15:05:28.411Z",
+      "last_seen": "2026-11-03T00:51:12.488Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3704,7 +3755,8 @@
         "01a193f1-bd0c-7454-885f-27622c3eb4e9",
         "01a193ed-b2cc-774c-b584-0ce5ebdf3a80",
         "01a19ccb-0655-76e2-8163-74058ea82e65",
-        "01a19c60-ea8d-767c-9d8c-51c4b04624ab"
+        "01a19c60-ea8d-767c-9d8c-51c4b04624ab",
+        "01a19ee3-5339-71f8-8c64-78dc0042c615"
       ]
     },
     "prasannashirol.com": {
@@ -4741,6 +4793,32 @@
         "01a11ef0-617f-77dd-bef9-9d3b07e90165"
       ]
     },
+    "yukoncloud.cloud": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-11-03T00:54:53Z",
+      "first_seen": "2026-11-02T22:46:40.259Z",
+      "hosts": [
+        "yukoncloud.cloud"
+      ],
+      "ip": "66.116.239.171",
+      "key": "yukoncloud.cloud",
+      "last_seen": "2026-11-03T00:12:48.656Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://yukoncloud.cloud/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a19ec0-3134-773c-8e6a-079baaad2138",
+        "01a19e71-5aaf-732b-b449-d113631e4c92"
+      ]
+    },
     "zcontainx.cloud": {
       "asn": "AS31898",
       "confidence": "high",
@@ -4857,8 +4935,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-02T15:41:02Z",
-    "last_success": "2026-11-02T15:41:02Z",
+    "last_run": "2026-11-03T00:54:53Z",
+    "last_success": "2026-11-03T00:54:53Z",
     "window_hours": 11
   }
 }
