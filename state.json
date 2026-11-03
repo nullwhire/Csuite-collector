@@ -268,7 +268,7 @@
       ],
       "ip": "168.235.117.152",
       "key": "admintegral.com.ar",
-      "last_seen": "2026-11-02T20:48:25.075Z",
+      "last_seen": "2026-11-03T07:32:13.357Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -279,7 +279,9 @@
         "https://admintegral.com.ar/.home/exeedumntt.html"
       ],
       "uuids": [
-        "01a19e05-1dbf-77c8-b3a2-dec422a2b3d3"
+        "01a19e05-1dbf-77c8-b3a2-dec422a2b3d3",
+        "01a1a052-5e02-7361-b2f2-b05333587000",
+        "01a19fac-1ee0-73da-822e-705fe4859275"
       ]
     },
     "adobeinstaller-virid.vercel.app": {
@@ -434,6 +436,31 @@
         "01a13387-0a20-742c-adc6-5e81d12704c2",
         "01a1335d-715e-74b4-a4ac-0708cebfbd0c",
         "01a132c7-ca72-7537-a91d-c133d8d1eb04"
+      ]
+    },
+    "allmediatechgrpla.help": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-03T14:04:52Z",
+      "first_seen": "2026-11-03T06:57:46.293Z",
+      "hosts": [
+        "allmediatechgrpla.help"
+      ],
+      "ip": "188.114.96.3",
+      "key": "allmediatechgrpla.help",
+      "last_seen": "2026-11-03T08:37:38.044Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://allmediatechgrpla.help/s/"
+      ],
+      "uuids": [
+        "01a1a08e-66ac-747b-8ac9-7996c9c3f98c",
+        "01a1a032-fe84-7566-bff2-7158c1ca4d6c"
       ]
     },
     "amepiequipamentos.com.br": {
@@ -1085,7 +1112,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "csrdrywallss.vercel.app",
-      "last_seen": "2026-10-26T08:06:28.830Z",
+      "last_seen": "2026-11-03T09:41:18.149Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1281,7 +1308,7 @@
       ],
       "ip": "66.116.209.139",
       "key": "docsewallet.com",
-      "last_seen": "2026-10-29T11:24:39.735Z",
+      "last_seen": "2026-11-03T10:21:20.623Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1377,6 +1404,30 @@
       ],
       "uuids": [
         "01a0fb87-ecd7-704b-a5a5-b0cea48a3cef"
+      ]
+    },
+    "domaro.vu": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-03T14:04:52Z",
+      "first_seen": "2026-11-03T04:35:11.170Z",
+      "hosts": [
+        "domaro.vu"
+      ],
+      "ip": "188.114.96.3",
+      "key": "domaro.vu",
+      "last_seen": "2026-11-03T04:35:11.170Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Suspected Phishing | Cloudflare",
+      "urls": [
+        "https://domaro.vu/_wildcard_.domaro.vu/mod/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a19fb0-0984-702f-8e0a-d9f7eef9435f"
       ]
     },
     "dupintt.com": {
@@ -1657,7 +1708,7 @@
       ],
       "ip": "216.198.79.195",
       "key": "flhealthlicense-rosy.vercel.app",
-      "last_seen": "2026-10-31T22:04:42.824Z",
+      "last_seen": "2026-11-03T01:50:08.685Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2215,7 +2266,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-11-02T19:02:53.952Z",
+      "last_seen": "2026-11-03T11:44:25.986Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2955,6 +3006,30 @@
       ],
       "uuids": [
         "01a18949-98d1-751f-a9bd-f8ada33eda2f"
+      ]
+    },
+    "liveemeetingzooom.com": {
+      "asn": "AS211019",
+      "confidence": "medium",
+      "first_run": "2026-11-03T14:04:52Z",
+      "first_seen": "2026-11-03T13:03:26.766Z",
+      "hosts": [
+        "liveemeetingzooom.com"
+      ],
+      "ip": "9.247.136.222",
+      "key": "liveemeetingzooom.com",
+      "last_seen": "2026-11-03T13:03:26.766Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://liveemeetingzooom.com/adodn/"
+      ],
+      "uuids": [
+        "01a1a181-c8c1-7409-9a9d-e26c5ac12d5c"
       ]
     },
     "lively-unit-cc91.madison-6e0.workers.dev": {
@@ -3735,7 +3810,7 @@
       ],
       "ip": "66.225.221.122",
       "key": "pomarosahotel.com",
-      "last_seen": "2026-11-03T00:51:12.488Z",
+      "last_seen": "2026-11-03T01:13:23.065Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3793,7 +3868,7 @@
       ],
       "ip": "213.136.93.167",
       "key": "prsnrw.de",
-      "last_seen": "2026-10-26T01:30:14.851Z",
+      "last_seen": "2026-11-03T12:53:41.122Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3804,7 +3879,13 @@
       ],
       "uuids": [
         "01a127db-4335-750f-af86-02edd0b2b95c",
-        "01a175d4-3e37-75de-b65c-eb1c5f37e3a8"
+        "01a175d4-3e37-75de-b65c-eb1c5f37e3a8",
+        "01a1a178-dc57-7672-9bd1-312b9f33c2dd",
+        "01a1a0c3-1e7a-763b-88dc-d5670df8e0c6",
+        "01a1a087-c10f-71e9-a2dc-8790cc4fe20c",
+        "01a1a06c-b49e-71cb-ac86-168d81dd7f33",
+        "01a19fbb-1159-747e-8ab9-36350af731f7",
+        "01a19eef-e21b-72ef-a963-7a61b08dfd6c"
       ]
     },
     "ptai.in": {
@@ -4516,7 +4597,7 @@
       ],
       "ip": "192.185.13.173",
       "key": "tuespaciocreativo.com",
-      "last_seen": "2026-11-02T11:08:18.747Z",
+      "last_seen": "2026-11-03T10:28:28.964Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4527,7 +4608,10 @@
         "https://tuespaciocreativo.com/wp-content/file-view-pdf/view.php"
       ],
       "uuids": [
-        "01a19bf1-fb44-7374-9ad4-d2949200da5e"
+        "01a19bf1-fb44-7374-9ad4-d2949200da5e",
+        "01a1a0f3-eb12-7608-a55d-9b64be7551e4",
+        "01a19fbb-24b7-739f-a6a5-bdc826aa79e4",
+        "01a19ef1-477e-7443-88b7-126b7265be96"
       ]
     },
     "tw1.ru": {
@@ -4803,7 +4887,7 @@
       ],
       "ip": "66.116.239.171",
       "key": "yukoncloud.cloud",
-      "last_seen": "2026-11-03T00:12:48.656Z",
+      "last_seen": "2026-11-03T07:11:36.083Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -4816,7 +4900,10 @@
       ],
       "uuids": [
         "01a19ec0-3134-773c-8e6a-079baaad2138",
-        "01a19e71-5aaf-732b-b449-d113631e4c92"
+        "01a19e71-5aaf-732b-b449-d113631e4c92",
+        "01a1a03f-92cb-739a-a2c5-219e96109034",
+        "01a19fac-0ec0-71ee-bcab-8533c1017ab0",
+        "01a19eeb-bfed-700d-a8fc-e01a435af624"
       ]
     },
     "zcontainx.cloud": {
@@ -4935,8 +5022,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-03T00:54:53Z",
-    "last_success": "2026-11-03T00:54:53Z",
-    "window_hours": 11
+    "last_run": "2026-11-03T14:04:52Z",
+    "last_success": "2026-11-03T14:04:52Z",
+    "window_hours": 15
   }
 }
