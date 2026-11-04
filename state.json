@@ -3369,6 +3369,30 @@
         "01a16b70-cfad-75d8-b098-1ee7d3d22ee5"
       ]
     },
+    "mdmmadeiras.com": {
+      "asn": "AS47583",
+      "confidence": "medium",
+      "first_run": "2026-11-04T14:25:32Z",
+      "first_seen": "2026-11-04T14:00:31.980Z",
+      "hosts": [
+        "mdmmadeiras.com"
+      ],
+      "ip": "109.106.250.50",
+      "key": "mdmmadeiras.com",
+      "last_seen": "2026-11-04T14:00:31.980Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://mdmmadeiras.com/pd/acr.html"
+      ],
+      "uuids": [
+        "01a1a6dc-552b-75c8-bcf9-f88421cef7cc"
+      ]
+    },
     "mncacompany.com": {
       "asn": "AS40244",
       "confidence": "low",
@@ -3462,7 +3486,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "new-indexproject.vercel.app",
-      "last_seen": "2026-10-24T20:49:56.231Z",
+      "last_seen": "2026-11-04T07:46:44.657Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3481,7 +3505,8 @@
         "01a1664b-6a1f-74da-a4f0-0facefccb2f9",
         "01a16730-51ff-71d8-9303-467263039fca",
         "01a16724-0ae8-72d3-b6ad-68aa8da55422",
-        "01a16fad-41d2-72eb-8ab9-4e2cd62027c1"
+        "01a16fad-41d2-72eb-8ab9-4e2cd62027c1",
+        "01a1a585-f575-714b-91c4-66112c7d92b0"
       ]
     },
     "news-adobe.shop": {
@@ -4088,6 +4113,30 @@
       ],
       "uuids": [
         "01a18de7-af33-731f-a706-0000e87adbec"
+      ]
+    },
+    "read-files-pdf.us": {
+      "asn": "AS22612",
+      "confidence": "medium",
+      "first_run": "2026-11-04T14:25:32Z",
+      "first_seen": "2026-11-04T13:03:55.972Z",
+      "hosts": [
+        "read-files-pdf.us"
+      ],
+      "ip": "198.187.29.26",
+      "key": "read-files-pdf.us",
+      "last_seen": "2026-11-04T13:03:55.972Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://read-files-pdf.us/view.php"
+      ],
+      "uuids": [
+        "01a1a6a8-9058-766d-84da-9fc6c95825ba"
       ]
     },
     "realtorbala.ca": {
@@ -5171,8 +5220,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-04T06:09:29Z",
-    "last_success": "2026-11-04T06:09:29Z",
-    "window_hours": 8
+    "last_run": "2026-11-04T14:25:32Z",
+    "last_success": "2026-11-04T14:25:32Z",
+    "window_hours": 10
   }
 }
