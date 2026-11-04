@@ -3476,6 +3476,31 @@
         "01a156a5-48f5-75cb-b695-b115b9feb618"
       ]
     },
+    "nativafronteira.com": {
+      "asn": "AS32097",
+      "confidence": "high",
+      "first_run": "2026-11-04T23:37:26Z",
+      "first_seen": "2026-11-04T15:24:41.271Z",
+      "hosts": [
+        "nativafronteira.com"
+      ],
+      "ip": "69.30.232.37",
+      "key": "nativafronteira.com",
+      "last_seen": "2026-11-04T15:24:41.271Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://nativafronteira.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1a729-62ee-762a-b6b2-8fcdcdaba9a7"
+      ]
+    },
     "new-indexproject.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -3671,6 +3696,30 @@
       ],
       "uuids": [
         "01a18aa0-4e0e-705c-abb8-8365e2e310a6"
+      ]
+    },
+    "old-glitter-406c.idomnich.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-04T23:37:26Z",
+      "first_seen": "2026-11-04T15:36:42.110Z",
+      "hosts": [
+        "old-glitter-406c.idomnich.workers.dev"
+      ],
+      "ip": "188.114.97.3",
+      "key": "old-glitter-406c.idomnich.workers.dev",
+      "last_seen": "2026-11-04T15:36:42.110Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://old-glitter-406c.idomnich.workers.dev/"
+      ],
+      "uuids": [
+        "01a1a734-755c-773f-9c36-b94aa83f6ae6"
       ]
     },
     "old-truth-e0d8.madison-6e0.workers.dev": {
@@ -4125,7 +4174,7 @@
       ],
       "ip": "198.187.29.26",
       "key": "read-files-pdf.us",
-      "last_seen": "2026-11-04T13:03:55.972Z",
+      "last_seen": "2026-11-04T21:05:21.154Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4136,7 +4185,34 @@
         "https://read-files-pdf.us/view.php"
       ],
       "uuids": [
-        "01a1a6a8-9058-766d-84da-9fc6c95825ba"
+        "01a1a6a8-9058-766d-84da-9fc6c95825ba",
+        "01a1a861-16ad-75dc-8dbf-b005c2be9f7f",
+        "01a1a774-72f1-74cb-9b8c-56e97f938fc1"
+      ]
+    },
+    "reader-pdf-files.com": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-04T23:37:26Z",
+      "first_seen": "2026-11-04T16:30:47.564Z",
+      "hosts": [
+        "reader-pdf-files.com"
+      ],
+      "ip": "172.67.166.51",
+      "key": "reader-pdf-files.com",
+      "last_seen": "2026-11-04T20:16:39.019Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://reader-pdf-files.com/view.php"
+      ],
+      "uuids": [
+        "01a1a834-9637-74a7-aece-635865ed41f1",
+        "01a1a765-c346-774f-ab7f-58db1366f2b1"
       ]
     },
     "realtorbala.ca": {
@@ -4334,6 +4410,30 @@
         "01a16bcc-664f-75ab-afd7-40ba2f7c0239"
       ]
     },
+    "snowy-night-4c03.idomnich.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-04T23:37:26Z",
+      "first_seen": "2026-11-04T19:00:36.104Z",
+      "hosts": [
+        "snowy-night-4c03.idomnich.workers.dev"
+      ],
+      "ip": "2a06:98c1:3120::3",
+      "key": "snowy-night-4c03.idomnich.workers.dev",
+      "last_seen": "2026-11-04T19:00:36.104Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://snowy-night-4c03.idomnich.workers.dev/"
+      ],
+      "uuids": [
+        "01a1a7ef-22b0-74c9-8ee6-030bc5036798"
+      ]
+    },
     "ssc-marine.com": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -4439,6 +4539,30 @@
         "01a10463-6c0f-7498-b9e1-b49133e338fe",
         "01a10c24-3476-73fb-8b3b-76e7be679018",
         "01a114db-eb3d-73bb-bece-746b961d5533"
+      ]
+    },
+    "super-voice-6b8c.idomnich.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-04T23:37:26Z",
+      "first_seen": "2026-11-04T16:27:42.578Z",
+      "hosts": [
+        "super-voice-6b8c.idomnich.workers.dev"
+      ],
+      "ip": "188.114.97.3",
+      "key": "super-voice-6b8c.idomnich.workers.dev",
+      "last_seen": "2026-11-04T16:27:42.578Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://super-voice-6b8c.idomnich.workers.dev/"
+      ],
+      "uuids": [
+        "01a1a763-26c0-76b8-9421-25eae4c39e98"
       ]
     },
     "surat-kabar.com": {
@@ -5220,8 +5344,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-04T14:25:32Z",
-    "last_success": "2026-11-04T14:25:32Z",
-    "window_hours": 10
+    "last_run": "2026-11-04T23:37:26Z",
+    "last_success": "2026-11-04T23:37:26Z",
+    "window_hours": 11
   }
 }
