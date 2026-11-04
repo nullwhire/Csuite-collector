@@ -63,6 +63,7 @@ eporaimoveisefacilities.com.br
 equiperallysolucionatica.com.br
 fdihub.com.ng
 fiddonline.com
+files-pdf-reader.com
 flhealthlicense-nu.vercel.app
 flhealthlicense-rosy.vercel.app
 flhealthlicense-tawny.vercel.app
@@ -160,6 +161,7 @@ stein-sudo.github.io
 strutsupportsystems.com
 surat-kabar.com
 sweet-pine-7fca.john-53d.workers.dev
+ta-tienne.ro
 taslimaenterprise.com
 tavix.vu
 thamizhnadu.com

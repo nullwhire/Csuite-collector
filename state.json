@@ -558,7 +558,7 @@
       ],
       "ip": "191.252.141.106",
       "key": "aral-latam.com",
-      "last_seen": "2026-10-21T16:14:21.103Z",
+      "last_seen": "2026-11-04T00:13:28.020Z",
       "queries": [
         "Q3a_adobe_html"
       ],
@@ -572,7 +572,8 @@
         "01a15a35-e069-754e-9066-60191e16fdb1",
         "01a15969-3b2a-75ca-b943-d87f9dfa8cfc",
         "01a15b0a-5d2b-703b-9385-75d749a1b362",
-        "01a15f3d-8a38-73c5-9cda-5ebd775630f3"
+        "01a15f3d-8a38-73c5-9cda-5ebd775630f3",
+        "01a1a3e7-2b4b-75f8-abbb-1bee69d8eac2"
       ]
     },
     "ashland-energy.com": {
@@ -1714,6 +1715,30 @@
         "01a1a2f1-7c13-71a0-a3d1-76bd29e1fabb"
       ]
     },
+    "files-pdf-reader.com": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-04T06:09:29Z",
+      "first_seen": "2026-11-04T01:14:34.392Z",
+      "hosts": [
+        "files-pdf-reader.com"
+      ],
+      "ip": "2606:4700:3034::6815:5ba0",
+      "key": "files-pdf-reader.com",
+      "last_seen": "2026-11-04T01:14:34.392Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://files-pdf-reader.com/view.php"
+      ],
+      "uuids": [
+        "01a1a41f-201a-7648-b395-2bd48f679a65"
+      ]
+    },
     "flhealthlicense-nu.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -2315,7 +2340,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-11-03T11:44:25.986Z",
+      "last_seen": "2026-11-04T00:49:37.867Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4415,6 +4440,30 @@
         "01a19ca3-5cbd-776f-80ee-efc8933d1123"
       ]
     },
+    "ta-tienne.ro": {
+      "asn": "AS5606",
+      "confidence": "medium",
+      "first_run": "2026-11-04T06:09:29Z",
+      "first_seen": "2026-11-04T01:01:36.313Z",
+      "hosts": [
+        "ta-tienne.ro"
+      ],
+      "ip": "188.241.222.17",
+      "key": "ta-tienne.ro",
+      "last_seen": "2026-11-04T01:01:36.313Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://ta-tienne.ro/PDFFVIEW/index.html"
+      ],
+      "uuids": [
+        "01a1a413-4010-749a-918a-935c41544cb9"
+      ]
+    },
     "taslimaenterprise.com": {
       "asn": "AS153523",
       "confidence": "medium",
@@ -5122,8 +5171,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-03T23:16:12Z",
-    "last_success": "2026-11-03T23:16:12Z",
-    "window_hours": 11
+    "last_run": "2026-11-04T06:09:29Z",
+    "last_success": "2026-11-04T06:09:29Z",
+    "window_hours": 8
   }
 }
