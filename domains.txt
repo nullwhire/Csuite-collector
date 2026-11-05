@@ -145,6 +145,7 @@ pdf-viewer-five-virid.vercel.app
 pdfinstalls-2.vercel.app
 peputragroup.com
 piedrasdecolon.com.ar
+pizzariabelfiori.com.br
 pokeventas.com
 pomarosahotel.com
 prasannashirol.com
@@ -185,6 +186,7 @@ tss24.com
 tuespaciocreativo.com
 tw1.ru
 twentytwentydigital.com
+vandevenbrom.com
 verfiynewdocument.icu
 viewdrawing.org
 weathered-boat-5061.madison-6e0.workers.dev
