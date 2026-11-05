@@ -2030,7 +2030,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahelath-theta.vercel.app",
-      "last_seen": "2026-10-31T21:59:12.762Z",
+      "last_seen": "2026-11-05T00:32:26.038Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2340,7 +2340,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-11-04T00:49:37.867Z",
+      "last_seen": "2026-11-05T04:34:28.601Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3182,6 +3182,31 @@
         "01a18a63-ed12-75ee-af69-f20c9f8a768b"
       ]
     },
+    "luredout.com": {
+      "asn": "AS55293",
+      "confidence": "medium",
+      "first_run": "2026-11-05T06:38:15Z",
+      "first_seen": "2026-11-05T01:02:14.796Z",
+      "hosts": [
+        "luredout.com"
+      ],
+      "ip": "66.198.247.10",
+      "key": "luredout.com",
+      "last_seen": "2026-11-05T04:30:39.618Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://luredout.com/carolinavet_adobeDocsInvite.html"
+      ],
+      "uuids": [
+        "01a1a9f8-f6d1-708a-b415-2356d7b8b8be",
+        "01a1a93a-34ef-710a-8e0a-c1f7b3b0be9d"
+      ]
+    },
     "luxfab.luxe": {
       "asn": "AS31898",
       "confidence": "high",
@@ -3379,7 +3404,7 @@
       ],
       "ip": "109.106.250.50",
       "key": "mdmmadeiras.com",
-      "last_seen": "2026-11-04T14:00:31.980Z",
+      "last_seen": "2026-11-05T04:46:50.471Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3390,7 +3415,35 @@
         "https://mdmmadeiras.com/pd/acr.html"
       ],
       "uuids": [
-        "01a1a6dc-552b-75c8-bcf9-f88421cef7cc"
+        "01a1a6dc-552b-75c8-bcf9-f88421cef7cc",
+        "01a1aa07-c1cc-707a-871b-1019c7da4896",
+        "01a1a93b-7a99-74a9-aca5-821d95ecf4b9"
+      ]
+    },
+    "meraksoul.com": {
+      "asn": "AS11042",
+      "confidence": "high",
+      "first_run": "2026-11-05T06:38:15Z",
+      "first_seen": "2026-11-05T01:03:00.506Z",
+      "hosts": [
+        "meraksoul.com"
+      ],
+      "ip": "205.251.137.171",
+      "key": "meraksoul.com",
+      "last_seen": "2026-11-05T04:46:48.007Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://meraksoul.com/docv/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1aa07-b19b-74bd-af2c-47c2cb6bea31",
+        "01a1a93a-e562-7021-be3f-a04b0da68b4e"
       ]
     },
     "mncacompany.com": {
@@ -3486,7 +3539,7 @@
       ],
       "ip": "69.30.232.37",
       "key": "nativafronteira.com",
-      "last_seen": "2026-11-04T15:24:41.271Z",
+      "last_seen": "2026-11-05T04:30:47.660Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3498,7 +3551,9 @@
         "https://nativafronteira.com/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a1a729-62ee-762a-b6b2-8fcdcdaba9a7"
+        "01a1a729-62ee-762a-b6b2-8fcdcdaba9a7",
+        "01a1a9f8-f9fc-71ab-bd4d-f977a15dcd25",
+        "01a1a93a-437c-70ef-a583-4f55caac3950"
       ]
     },
     "new-indexproject.vercel.app": {
@@ -4508,6 +4563,28 @@
         "01a15ade-d492-77c1-b13b-8c5ee638820c"
       ]
     },
+    "storage.googleapis.com/new-inv-doc": {
+      "asn": "AS396982",
+      "confidence": "medium",
+      "first_run": "2026-11-05T06:38:15Z",
+      "first_seen": "2026-11-05T04:17:58.091Z",
+      "hosts": [],
+      "ip": "34.153.3.27",
+      "key": "storage.googleapis.com/new-inv-doc",
+      "last_seen": "2026-11-05T04:17:58.091Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "url",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://storage.googleapis.com/new-inv-doc/Adobe_Installer%20(1).html"
+      ],
+      "uuids": [
+        "01a1a9ed-64b7-7659-8e29-6c657a40c287"
+      ]
+    },
     "strutsupportsystems.com": {
       "asn": "AS8560",
       "confidence": "high",
@@ -5344,8 +5421,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-04T23:37:26Z",
-    "last_success": "2026-11-04T23:37:26Z",
-    "window_hours": 11
+    "last_run": "2026-11-05T06:38:15Z",
+    "last_success": "2026-11-05T06:38:15Z",
+    "window_hours": 9
   }
 }
