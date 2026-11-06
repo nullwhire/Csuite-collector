@@ -548,6 +548,33 @@
         "01a17f73-6b08-7567-b58a-f4fb7d6364af"
       ]
     },
+    "apvdelhi.com": {
+      "asn": "AS46606",
+      "confidence": "high",
+      "first_run": "2026-11-06T06:34:15Z",
+      "first_seen": "2026-11-06T01:04:16.300Z",
+      "hosts": [
+        "apvdelhi.com"
+      ],
+      "ip": "162.215.240.27",
+      "key": "apvdelhi.com",
+      "last_seen": "2026-11-06T04:46:46.936Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://apvdelhi.com/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1af2e-26ec-7009-91b0-bd2cc598ad2b",
+        "01a1af24-8d30-754f-ba6c-141a91f3dd27",
+        "01a1ae62-5175-73dd-8724-11daf28c937e"
+      ]
+    },
     "aral-latam.com": {
       "asn": "AS27715",
       "confidence": "medium",
@@ -2214,6 +2241,30 @@
         "01a18a6e-56a0-7251-89fe-20bf5fc1acc9"
       ]
     },
+    "global-nutri.com": {
+      "asn": "AS55293",
+      "confidence": "medium",
+      "first_run": "2026-11-06T06:34:15Z",
+      "first_seen": "2026-11-06T05:06:31.702Z",
+      "hosts": [
+        "www.global-nutri.com"
+      ],
+      "ip": "68.66.226.93",
+      "key": "global-nutri.com",
+      "last_seen": "2026-11-06T05:06:31.702Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://www.global-nutri.com/enmstall/enstall.html"
+      ],
+      "uuids": [
+        "01a1af40-3a47-758a-949c-510099edfa30"
+      ]
+    },
     "googleapis.com": {
       "asn": "AS396982",
       "confidence": "medium",
@@ -3034,6 +3085,30 @@
         "01a11160-ed2a-755e-868d-d65cfdbc9d2b"
       ]
     },
+    "lafuente.cr": {
+      "asn": "AS29802",
+      "confidence": "medium",
+      "first_run": "2026-11-06T06:34:15Z",
+      "first_seen": "2026-11-05T22:09:02.637Z",
+      "hosts": [
+        "lafuente.cr"
+      ],
+      "ip": "94.72.167.146",
+      "key": "lafuente.cr",
+      "last_seen": "2026-11-05T22:09:02.637Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://lafuente.cr/N&J/Harvesting.html"
+      ],
+      "uuids": [
+        "01a1adc1-f3f1-75eb-b09b-1a61a0539194"
+      ]
+    },
     "lagerhaus-freising.de": {
       "asn": "AS51167",
       "confidence": "medium",
@@ -3195,7 +3270,7 @@
       ],
       "ip": "66.198.247.10",
       "key": "luredout.com",
-      "last_seen": "2026-11-05T16:52:40.551Z",
+      "last_seen": "2026-11-06T01:13:30.413Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3210,7 +3285,8 @@
         "01a1a93a-34ef-710a-8e0a-c1f7b3b0be9d",
         "01a1aca0-5864-76b6-8c79-0fd046f2aa5e",
         "01a1ac3d-58a3-7677-87a8-d119b31dd29e",
-        "01a1ab48-09e0-76a9-acf0-34d40e9e6f90"
+        "01a1ab48-09e0-76a9-acf0-34d40e9e6f90",
+        "01a1ae6a-dfef-7319-a381-274c6d0f6d0e"
       ]
     },
     "luxfab.luxe": {
@@ -3436,7 +3512,7 @@
       ],
       "ip": "205.251.137.171",
       "key": "meraksoul.com",
-      "last_seen": "2026-11-05T16:57:50.146Z",
+      "last_seen": "2026-11-06T01:14:51.713Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3452,7 +3528,8 @@
         "01a1a93a-e562-7021-be3f-a04b0da68b4e",
         "01a1aca5-1b1d-7288-b392-3f36b3974776",
         "01a1ac41-a76d-77c1-aeaa-bdda4b98889b",
-        "01a1ab35-66ee-7515-a56a-c8c8e5d42a55"
+        "01a1ab35-66ee-7515-a56a-c8c8e5d42a55",
+        "01a1ae6c-1fb4-74f9-9eee-a3f8f4fedb2e"
       ]
     },
     "mncacompany.com": {
@@ -4133,7 +4210,7 @@
       ],
       "ip": "213.136.93.167",
       "key": "prsnrw.de",
-      "last_seen": "2026-11-03T12:53:41.122Z",
+      "last_seen": "2026-11-06T02:34:16.237Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4150,7 +4227,8 @@
         "01a1a087-c10f-71e9-a2dc-8790cc4fe20c",
         "01a1a06c-b49e-71cb-ac86-168d81dd7f33",
         "01a19fbb-1159-747e-8ab9-36350af731f7",
-        "01a19eef-e21b-72ef-a963-7a61b08dfd6c"
+        "01a19eef-e21b-72ef-a963-7a61b08dfd6c",
+        "01a1aeb4-c79c-739e-aae2-222fbbfb58ed"
       ]
     },
     "ptai.in": {
@@ -4179,6 +4257,30 @@
         "01a10e2a-c74c-74c7-8492-7e0f67e7b327",
         "01a10ed1-a90c-7003-baf5-98989348a2e8",
         "01a18f7a-6b50-76ef-b285-1f4a318b9868"
+      ]
+    },
+    "pub-36f7416220c840af89da02b9b6bf207d.r2.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-06T06:34:15Z",
+      "first_seen": "2026-11-05T21:13:31.803Z",
+      "hosts": [
+        "pub-36f7416220c840af89da02b9b6bf207d.r2.dev"
+      ],
+      "ip": "2606:4700:311b::6812:362d",
+      "key": "pub-36f7416220c840af89da02b9b6bf207d.r2.dev",
+      "last_seen": "2026-11-05T21:13:31.803Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://pub-36f7416220c840af89da02b9b6bf207d.r2.dev/WebView_en-Adobe-docu.html"
+      ],
+      "uuids": [
+        "01a1ad8f-2fe4-76da-8c3e-02c50cf5c8be"
       ]
     },
     "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev": {
@@ -4229,6 +4331,31 @@
         "01a112bb-019b-711d-bf7b-2c8d6e22d375",
         "01a13029-e11c-7268-a3b9-0e2f2a897232",
         "01a12fcf-ef12-749d-b2ed-e5784f64ee01"
+      ]
+    },
+    "qamarbrothers.com": {
+      "asn": "AS52148",
+      "confidence": "high",
+      "first_run": "2026-11-06T06:34:15Z",
+      "first_seen": "2026-11-06T01:42:17.771Z",
+      "hosts": [
+        "qamarbrothers.com"
+      ],
+      "ip": "91.204.209.19",
+      "key": "qamarbrothers.com",
+      "last_seen": "2026-11-06T01:42:17.771Z",
+      "queries": [
+        "Q3b_utils_pdfviewer",
+        "Q4_hash"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://qamarbrothers.com/pages/index.php"
+      ],
+      "uuids": [
+        "01a1ae85-4673-749c-abb1-c3e2f1591e27"
       ]
     },
     "raypanelbeating.co.za": {
@@ -5345,7 +5472,7 @@
       ],
       "ip": "66.116.239.171",
       "key": "yukoncloud.cloud",
-      "last_seen": "2026-11-05T15:19:59.168Z",
+      "last_seen": "2026-11-06T00:51:34.218Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -5363,7 +5490,9 @@
         "01a19fac-0ec0-71ee-bcab-8533c1017ab0",
         "01a19eeb-bfed-700d-a8fc-e01a435af624",
         "01a1a37d-abf1-7367-93df-4255f13be098",
-        "01a1ac4b-802c-7377-a100-736bb2ec530a"
+        "01a1ac4b-802c-7377-a100-736bb2ec530a",
+        "01a1ae56-755d-77fa-955b-2ad70edc47d6",
+        "01a1abd6-974b-70a9-8b98-f91f182ed292"
       ]
     },
     "zcontainx.cloud": {
@@ -5482,8 +5611,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-05T19:53:39Z",
-    "last_success": "2026-11-05T19:53:39Z",
-    "window_hours": 15
+    "last_run": "2026-11-06T06:34:15Z",
+    "last_success": "2026-11-06T06:34:15Z",
+    "window_hours": 12
   }
 }

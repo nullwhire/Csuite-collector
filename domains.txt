@@ -19,6 +19,7 @@ allmediatechgrpla.help
 amepiequipamentos.com.br
 amnesiacuracao.com
 apoyar.org
+apvdelhi.com
 aral-latam.com
 ashland-energy.com
 atikurbd.com
@@ -80,6 +81,7 @@ geotehnica.com
 getthehat.online
 gidsux.cc
 gigarush.com
+global-nutri.com
 groundview.pt
 grupolsn.com
 gudwa.com
@@ -109,6 +111,7 @@ karrasconsulting.net
 keithwishard24-coder.github.io
 kwestventures.com
 laboratoires-azbane.com
+lafuente.cr
 lagerhaus-freising.de
 legaljogja.com
 linodeobjects.com
@@ -151,8 +154,10 @@ pomarosahotel.com
 prasannashirol.com
 prsnrw.de
 ptai.in
+pub-36f7416220c840af89da02b9b6bf207d.r2.dev
 pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev
 pub-def1757768e44ee4901749848f225c06.r2.dev
+qamarbrothers.com
 raypanelbeating.co.za
 read-files-pdf.us
 reader-pdf-files.com
