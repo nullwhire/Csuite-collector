@@ -81,6 +81,7 @@ geotehnica.com
 getthehat.online
 gidsux.cc
 gigarush.com
+gioek.vercel.app
 global-nutri.com
 groundview.pt
 grupolsn.com
@@ -145,6 +146,7 @@ ozan.life
 padmaelectricals.com
 pageview.es
 pdf-viewer-five-virid.vercel.app
+pdf-viewer-rho-sandy.vercel.app
 pdfinstalls-2.vercel.app
 peputragroup.com
 piedrasdecolon.com.ar
@@ -197,6 +199,7 @@ viewdrawing.org
 weathered-boat-5061.madison-6e0.workers.dev
 whisperingjessie.com
 wjsassoc.com
+wnep.vercel.app
 wrproducoes.com.br
 xureto.shop
 yonataxi.at
