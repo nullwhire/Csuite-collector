@@ -3587,7 +3587,7 @@
       ],
       "ip": "205.251.137.171",
       "key": "meraksoul.com",
-      "last_seen": "2026-11-06T21:55:25.394Z",
+      "last_seen": "2026-11-07T12:47:02.451Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3605,7 +3605,8 @@
         "01a1ac41-a76d-77c1-aeaa-bdda4b98889b",
         "01a1ab35-66ee-7515-a56a-c8c8e5d42a55",
         "01a1ae6c-1fb4-74f9-9eee-a3f8f4fedb2e",
-        "01a1b2db-e62d-77dc-b927-2797bbfd74d2"
+        "01a1b2db-e62d-77dc-b927-2797bbfd74d2",
+        "01a1b60b-cc86-770b-a83f-98b09a9a77dc"
       ]
     },
     "mncacompany.com": {
@@ -3702,7 +3703,7 @@
       ],
       "ip": "69.30.232.37",
       "key": "nativafronteira.com",
-      "last_seen": "2026-11-05T16:50:01.220Z",
+      "last_seen": "2026-11-07T12:47:24.633Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3719,7 +3720,8 @@
         "01a1a93a-437c-70ef-a583-4f55caac3950",
         "01a1ac9d-dcd7-73cc-b47e-a931b4380e3d",
         "01a1ac3d-00c5-76dc-bc98-279898c751af",
-        "01a1ab47-9044-777b-b7ab-466f412c8ff9"
+        "01a1ab47-9044-777b-b7ab-466f412c8ff9",
+        "01a1b60c-8f66-74ed-a9a2-d5f488d7bba6"
       ]
     },
     "new-indexproject.vercel.app": {
@@ -3778,6 +3780,31 @@
       "uuids": [
         "01a18806-2f08-71fb-8c14-9268afeaed03",
         "01a187f5-d7ac-74df-8e5a-75bc869a6b41"
+      ]
+    },
+    "newterritorydryerventcleaning.com": {
+      "asn": "AS398101",
+      "confidence": "high",
+      "first_run": "2026-11-07T12:54:03Z",
+      "first_seen": "2026-11-07T08:23:11.344Z",
+      "hosts": [
+        "newterritorydryerventcleaning.com"
+      ],
+      "ip": "50.62.181.233",
+      "key": "newterritorydryerventcleaning.com",
+      "last_seen": "2026-11-07T08:23:11.344Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://newterritorydryerventcleaning.com/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1b519-e233-7133-b782-30f4f01f9467"
       ]
     },
     "nexadocviewcloud.icu": {
@@ -4777,6 +4804,30 @@
       ],
       "uuids": [
         "01a1a7ef-22b0-74c9-8ee6-030bc5036798"
+      ]
+    },
+    "sreekrishnabuilders.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-11-07T12:54:03Z",
+      "first_seen": "2026-11-07T12:31:04.887Z",
+      "hosts": [
+        "sreekrishnabuilders.com"
+      ],
+      "ip": "192.185.139.252",
+      "key": "sreekrishnabuilders.com",
+      "last_seen": "2026-11-07T12:31:04.887Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://sreekrishnabuilders.com/pp/post.html"
+      ],
+      "uuids": [
+        "01a1b5fd-9009-71f9-aa38-029f6967016d"
       ]
     },
     "ssc-marine.com": {
@@ -5789,8 +5840,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-07T05:53:07Z",
-    "last_success": "2026-11-07T05:53:07Z",
-    "window_hours": 12
+    "last_run": "2026-11-07T12:54:03Z",
+    "last_success": "2026-11-07T12:54:03Z",
+    "window_hours": 9
   }
 }
