@@ -438,6 +438,31 @@
         "01a132c7-ca72-7537-a91d-c133d8d1eb04"
       ]
     },
+    "alliceteaspot.com": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-11-07T05:53:07Z",
+      "first_seen": "2026-11-06T20:14:50.590Z",
+      "hosts": [
+        "alliceteaspot.com"
+      ],
+      "ip": "192.185.92.83",
+      "key": "alliceteaspot.com",
+      "last_seen": "2026-11-06T20:14:50.590Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://alliceteaspot.com/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1b27f-b774-708b-b5ac-46548c8a69f7"
+      ]
+    },
     "allmediatechgrpla.help": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -558,7 +583,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-06T04:46:46.936Z",
+      "last_seen": "2026-11-06T22:04:47.074Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -572,7 +597,8 @@
       "uuids": [
         "01a1af2e-26ec-7009-91b0-bd2cc598ad2b",
         "01a1af24-8d30-754f-ba6c-141a91f3dd27",
-        "01a1ae62-5175-73dd-8724-11daf28c937e"
+        "01a1ae62-5175-73dd-8724-11daf28c937e",
+        "01a1b2e4-1d2e-751b-a487-bdf14a5dc802"
       ]
     },
     "aral-latam.com": {
@@ -918,7 +944,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardcourtpdf-viewer.vercel.app",
-      "last_seen": "2026-11-06T18:26:52.348Z",
+      "last_seen": "2026-11-07T02:31:45.146Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1941,7 +1967,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "fllicensehealthpdf-viewer.vercel.app",
-      "last_seen": "2026-10-29T11:05:03.711Z",
+      "last_seen": "2026-11-07T05:09:44.258Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2241,6 +2267,30 @@
         "01a18a6e-56a0-7251-89fe-20bf5fc1acc9"
       ]
     },
+    "gine-gray.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-07T05:53:07Z",
+      "first_seen": "2026-11-06T21:42:06.253Z",
+      "hosts": [
+        "gine-gray.vercel.app"
+      ],
+      "ip": "216.198.79.195",
+      "key": "gine-gray.vercel.app",
+      "last_seen": "2026-11-06T21:42:06.253Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://gine-gray.vercel.app/"
+      ],
+      "uuids": [
+        "01a1b2cf-b78d-705a-a4b8-24cc12da9575"
+      ]
+    },
     "gioek.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -2251,7 +2301,7 @@
       ],
       "ip": "216.198.79.195",
       "key": "gioek.vercel.app",
-      "last_seen": "2026-11-06T15:23:13.352Z",
+      "last_seen": "2026-11-06T21:41:27.380Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2262,7 +2312,8 @@
         "https://gioek.vercel.app/"
       ],
       "uuids": [
-        "01a1b174-adb6-708f-8cb9-f600268f0937"
+        "01a1b174-adb6-708f-8cb9-f600268f0937",
+        "01a1b2cf-1e16-723f-b084-36248a562f11"
       ]
     },
     "global-nutri.com": {
@@ -3536,7 +3587,7 @@
       ],
       "ip": "205.251.137.171",
       "key": "meraksoul.com",
-      "last_seen": "2026-11-06T01:14:51.713Z",
+      "last_seen": "2026-11-06T21:55:25.394Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3553,7 +3604,8 @@
         "01a1aca5-1b1d-7288-b392-3f36b3974776",
         "01a1ac41-a76d-77c1-aeaa-bdda4b98889b",
         "01a1ab35-66ee-7515-a56a-c8c8e5d42a55",
-        "01a1ae6c-1fb4-74f9-9eee-a3f8f4fedb2e"
+        "01a1ae6c-1fb4-74f9-9eee-a3f8f4fedb2e",
+        "01a1b2db-e62d-77dc-b927-2797bbfd74d2"
       ]
     },
     "mncacompany.com": {
@@ -4552,6 +4604,32 @@
         "01a11da0-eb87-73be-8844-25fc0bba78f8"
       ]
     },
+    "rootsblowers.co.in": {
+      "asn": "AS46606",
+      "confidence": "medium",
+      "first_run": "2026-11-07T05:53:07Z",
+      "first_seen": "2026-11-07T01:05:24.141Z",
+      "hosts": [
+        "rootsblowers.co.in"
+      ],
+      "ip": "207.174.212.247",
+      "key": "rootsblowers.co.in",
+      "last_seen": "2026-11-07T05:46:49.015Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://rootsblowers.co.in/views/Adobe_Doc.html"
+      ],
+      "uuids": [
+        "01a1b48b-7345-747c-ad00-0d528ed915d9",
+        "01a1b43f-9d0b-7132-8a84-9eff70b86c21",
+        "01a1b389-d499-71da-a5b0-8de6fc663504"
+      ]
+    },
     "s3.us-east-1.amazonaws.com/amznadobe.bamv8": {
       "asn": "AS14618",
       "confidence": "low",
@@ -5512,6 +5590,30 @@
         "01a0f830-7b14-74ee-9c65-bead31465d6f"
       ]
     },
+    "yidj.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-07T05:53:07Z",
+      "first_seen": "2026-11-06T20:16:33.136Z",
+      "hosts": [
+        "yidj.vercel.app"
+      ],
+      "ip": "64.29.17.195",
+      "key": "yidj.vercel.app",
+      "last_seen": "2026-11-06T20:16:33.136Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://yidj.vercel.app/"
+      ],
+      "uuids": [
+        "01a1b281-5a45-7649-80ef-154a1bc79b00"
+      ]
+    },
     "yonataxi.at": {
       "asn": "AS31898",
       "confidence": "low",
@@ -5687,8 +5789,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-06T19:19:32Z",
-    "last_success": "2026-11-06T19:19:32Z",
-    "window_hours": 14
+    "last_run": "2026-11-07T05:53:07Z",
+    "last_success": "2026-11-07T05:53:07Z",
+    "window_hours": 12
   }
 }
