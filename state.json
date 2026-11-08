@@ -583,7 +583,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-06T22:04:47.074Z",
+      "last_seen": "2026-11-08T12:54:12.025Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -598,7 +598,8 @@
         "01a1af2e-26ec-7009-91b0-bd2cc598ad2b",
         "01a1af24-8d30-754f-ba6c-141a91f3dd27",
         "01a1ae62-5175-73dd-8724-11daf28c937e",
-        "01a1b2e4-1d2e-751b-a487-bdf14a5dc802"
+        "01a1b2e4-1d2e-751b-a487-bdf14a5dc802",
+        "01a1bb39-1d9f-71ba-ac24-92d6f15c0c86"
       ]
     },
     "aral-latam.com": {
@@ -1167,7 +1168,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "csrdrywallss.vercel.app",
-      "last_seen": "2026-11-08T04:46:50.114Z",
+      "last_seen": "2026-11-08T07:28:53.266Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4669,7 +4670,7 @@
       ],
       "ip": "207.174.212.247",
       "key": "rootsblowers.co.in",
-      "last_seen": "2026-11-07T05:46:49.015Z",
+      "last_seen": "2026-11-08T13:04:55.022Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4682,7 +4683,8 @@
       "uuids": [
         "01a1b48b-7345-747c-ad00-0d528ed915d9",
         "01a1b43f-9d0b-7132-8a84-9eff70b86c21",
-        "01a1b389-d499-71da-a5b0-8de6fc663504"
+        "01a1b389-d499-71da-a5b0-8de6fc663504",
+        "01a1bb42-e344-7096-9298-31e63add0bb2"
       ]
     },
     "s3.us-east-1.amazonaws.com/amznadobe.bamv8": {
@@ -5868,8 +5870,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-08T05:55:12Z",
-    "last_success": "2026-11-08T05:55:12Z",
-    "window_hours": 10
+    "last_run": "2026-11-08T13:16:12Z",
+    "last_success": "2026-11-08T13:16:12Z",
+    "window_hours": 9
   }
 }
