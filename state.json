@@ -583,7 +583,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-08T12:54:12.025Z",
+      "last_seen": "2026-11-09T00:51:18.972Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -599,7 +599,8 @@
         "01a1af24-8d30-754f-ba6c-141a91f3dd27",
         "01a1ae62-5175-73dd-8724-11daf28c937e",
         "01a1b2e4-1d2e-751b-a487-bdf14a5dc802",
-        "01a1bb39-1d9f-71ba-ac24-92d6f15c0c86"
+        "01a1bb39-1d9f-71ba-ac24-92d6f15c0c86",
+        "01a1bdc9-a533-7775-9707-294847093cf9"
       ]
     },
     "aral-latam.com": {
@@ -4670,7 +4671,7 @@
       ],
       "ip": "207.174.212.247",
       "key": "rootsblowers.co.in",
-      "last_seen": "2026-11-08T13:04:55.022Z",
+      "last_seen": "2026-11-09T01:01:48.677Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4684,7 +4685,8 @@
         "01a1b48b-7345-747c-ad00-0d528ed915d9",
         "01a1b43f-9d0b-7132-8a84-9eff70b86c21",
         "01a1b389-d499-71da-a5b0-8de6fc663504",
-        "01a1bb42-e344-7096-9298-31e63add0bb2"
+        "01a1bb42-e344-7096-9298-31e63add0bb2",
+        "01a1bdd3-4351-746e-8b5d-8ed168fd4027"
       ]
     },
     "s3.us-east-1.amazonaws.com/amznadobe.bamv8": {
@@ -5133,6 +5135,30 @@
       ],
       "uuids": [
         "01a11d0c-83a9-7695-8f23-c20d4e19c5e2"
+      ]
+    },
+    "taxmeet.team": {
+      "asn": "AS397423",
+      "confidence": "low",
+      "first_run": "2026-11-09T06:16:59Z",
+      "first_seen": "2026-11-09T01:52:21.512Z",
+      "hosts": [
+        "taxmeet.team"
+      ],
+      "ip": "181.215.242.89",
+      "key": "taxmeet.team",
+      "last_seen": "2026-11-09T01:52:21.512Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://taxmeet.team/95nuo3-1794189131-6b7744c3f7ad/"
+      ],
+      "uuids": [
+        "01a1be01-6c86-7268-8bd9-7520835d91c0"
       ]
     },
     "thamizhnadu.com": {
@@ -5870,8 +5896,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-08T21:58:52Z",
-    "last_success": "2026-11-08T21:58:52Z",
+    "last_run": "2026-11-09T06:16:59Z",
+    "last_success": "2026-11-09T06:16:59Z",
     "window_hours": 10
   }
 }
