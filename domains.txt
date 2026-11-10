@@ -38,6 +38,7 @@ browardcourtpdf-viewer.vercel.app
 browardpdf-viewer.vercel.app
 caminospordescubrir.cl
 cardmium.com
+chartingtoday.com
 clementspools.github.io
 cod-indigenouslocalknowledge.org
 contract-quotation89573.s3.us-east-2.amazonaws.com
@@ -102,6 +103,7 @@ hernunspnc.github.io
 hipercromo.com.br
 hjp-s3-akf.s3.us-east-1.amazonaws.com
 hotelvaldecans.com.br
+ilovestealingfromworkanddoingdrugs.com
 index-catty-neww.vercel.app
 index-newproject.vercel.app
 innovative-sub.github.io
@@ -135,6 +137,7 @@ met.team
 mncacompany.com
 morronetours.com
 mx-flow.de
+naariebeautysalon.com
 nativafronteira.com
 new-indexproject.vercel.app
 news-adobe.shop
