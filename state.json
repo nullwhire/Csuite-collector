@@ -583,7 +583,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-09T00:51:18.972Z",
+      "last_seen": "2026-11-10T02:57:53.554Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -600,7 +600,8 @@
         "01a1ae62-5175-73dd-8724-11daf28c937e",
         "01a1b2e4-1d2e-751b-a487-bdf14a5dc802",
         "01a1bb39-1d9f-71ba-ac24-92d6f15c0c86",
-        "01a1bdc9-a533-7775-9707-294847093cf9"
+        "01a1bdc9-a533-7775-9707-294847093cf9",
+        "01a1c363-c2e5-716e-9732-766c40d0ba99"
       ]
     },
     "aral-latam.com": {
@@ -1193,7 +1194,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "csrdrywallss.vercel.app",
-      "last_seen": "2026-11-08T07:28:53.266Z",
+      "last_seen": "2026-11-10T12:54:15.729Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1464,6 +1465,30 @@
         "01a152cd-40dd-731a-ad8e-73283f590c8c"
       ]
     },
+    "documents-review8303.s3.us-east-2.amazonaws.com": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-10T14:47:42Z",
+      "first_seen": "2026-11-10T13:01:16.908Z",
+      "hosts": [
+        "documents-review8303.s3.us-east-2.amazonaws.com"
+      ],
+      "ip": "3.5.90.22",
+      "key": "documents-review8303.s3.us-east-2.amazonaws.com",
+      "last_seen": "2026-11-10T13:01:16.908Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://documents-review8303.s3.us-east-2.amazonaws.com/index.html"
+      ],
+      "uuids": [
+        "01a1c58c-5081-756c-b61f-0483f2c7ead5"
+      ]
+    },
     "documentshare.live": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -1607,6 +1632,30 @@
       ],
       "uuids": [
         "01a17cb0-c0f8-707a-86a4-43f57d623e4e"
+      ]
+    },
+    "edynor.com": {
+      "asn": "AS17378",
+      "confidence": "medium",
+      "first_run": "2026-11-10T14:47:42Z",
+      "first_seen": "2026-11-10T03:48:25.752Z",
+      "hosts": [
+        "edynor.com"
+      ],
+      "ip": "174.136.57.146",
+      "key": "edynor.com",
+      "last_seen": "2026-11-10T03:48:25.752Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://edynor.com/uu/"
+      ],
+      "uuids": [
+        "01a1c392-252a-70b9-9bb0-e4f5b706e65c"
       ]
     },
     "elaf.com.eg": {
@@ -2497,7 +2546,7 @@
       ],
       "ip": "91.238.160.176",
       "key": "hameem.net",
-      "last_seen": "2026-11-09T17:44:43.080Z",
+      "last_seen": "2026-11-10T06:45:43.049Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2583,7 +2632,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "healthlicense-blond.vercel.app",
-      "last_seen": "2026-10-31T06:36:20.504Z",
+      "last_seen": "2026-11-10T01:49:01.947Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2602,7 +2651,8 @@
         "01a18b21-f009-764b-9ac1-5ce49d04258f",
         "01a18a55-6396-761a-a304-88d198d385f2",
         "01a18c6c-8156-734e-ac65-9834c5850178",
-        "01a190ac-2045-76ab-ba5b-6454cfb181f0"
+        "01a190ac-2045-76ab-ba5b-6454cfb181f0",
+        "01a1c324-d216-75f9-b455-05aa746c4ae7"
       ]
     },
     "healthlicense-tau.vercel.app": {
@@ -3106,6 +3156,30 @@
       ],
       "uuids": [
         "01a16b6f-9ec5-754a-aff2-6c56ff46da81"
+      ]
+    },
+    "kariboumedia.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-11-10T14:47:42Z",
+      "first_seen": "2026-11-10T13:05:47.487Z",
+      "hosts": [
+        "vb.kariboumedia.com"
+      ],
+      "ip": "66.116.251.132",
+      "key": "kariboumedia.com",
+      "last_seen": "2026-11-10T13:05:47.487Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://vb.kariboumedia.com/qa/index.html"
+      ],
+      "uuids": [
+        "01a1c590-672f-733b-9c61-8ea1aa95f51b"
       ]
     },
     "karrasconsulting.net": {
@@ -3712,6 +3786,30 @@
       "uuids": [
         "01a14d00-d235-76eb-8920-6c3741938719",
         "01a15cc2-9d21-705d-b356-b74b1f382ae8"
+      ]
+    },
+    "monosignawordis.site": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-10T14:47:42Z",
+      "first_seen": "2026-11-10T14:02:42.197Z",
+      "hosts": [
+        "monosignawordis.site"
+      ],
+      "ip": "188.114.96.3",
+      "key": "monosignawordis.site",
+      "last_seen": "2026-11-10T14:02:42.197Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://monosignawordis.site/li/"
+      ],
+      "uuids": [
+        "01a1c5c4-8543-751a-b879-8e11d93a97ac"
       ]
     },
     "morronetours.com": {
@@ -4675,7 +4773,7 @@
       ],
       "ip": "70.39.249.143",
       "key": "realtorbala.ca",
-      "last_seen": "2026-11-10T01:15:29.471Z",
+      "last_seen": "2026-11-10T04:30:31.653Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4684,11 +4782,15 @@
       "title": "PDF Viewer",
       "urls": [
         "https://realtorbala.ca/adobe.co/",
-        "https://realtorbala.ca/exleetsxgreze/docu.html"
+        "https://realtorbala.ca/exleetsxgreze/docu.html",
+        "https://realtorbala.ca/soldge/iindex.html"
       ],
       "uuids": [
         "01a18233-667e-75e9-af3d-0a4057aad3b8",
-        "01a1c2f8-fb4d-7178-b2aa-b2d2ddcd8376"
+        "01a1c2f8-fb4d-7178-b2aa-b2d2ddcd8376",
+        "01a1c3b8-a963-70f9-94b6-b43769fb09ce",
+        "01a1c3b8-9d03-7020-8884-73b738c4d3db",
+        "01a1c2f8-51d7-72c3-ab6b-e8c98b56b9b5"
       ]
     },
     "resourcespackett.help": {
@@ -5974,8 +6076,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-10T01:29:02Z",
-    "last_success": "2026-11-10T01:29:02Z",
-    "window_hours": 11
+    "last_run": "2026-11-10T14:47:42Z",
+    "last_success": "2026-11-10T14:47:42Z",
+    "window_hours": 15
   }
 }
