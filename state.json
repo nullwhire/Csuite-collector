@@ -57,6 +57,30 @@
         "01a13883-9264-711b-a5de-e54b1d59cd4e"
       ]
     },
+    "4xdconsulting.com": {
+      "asn": "AS36352",
+      "confidence": "medium",
+      "first_run": "2026-11-10T23:15:08Z",
+      "first_seen": "2026-11-10T20:57:48.502Z",
+      "hosts": [
+        "4xdconsulting.com"
+      ],
+      "ip": "23.95.254.15",
+      "key": "4xdconsulting.com",
+      "last_seen": "2026-11-10T20:57:48.502Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://4xdconsulting.com//Adobe.com/Securedfile/AdobeReader.html"
+      ],
+      "uuids": [
+        "01a1c740-98ad-7687-aedd-d8d8d948fc7f"
+      ]
+    },
     "abenetgeneralservices.ca": {
       "asn": "AS398101",
       "confidence": "high",
@@ -1475,7 +1499,7 @@
       ],
       "ip": "3.5.90.22",
       "key": "documents-review8303.s3.us-east-2.amazonaws.com",
-      "last_seen": "2026-11-10T13:01:16.908Z",
+      "last_seen": "2026-11-10T19:05:13.295Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1486,7 +1510,9 @@
         "https://documents-review8303.s3.us-east-2.amazonaws.com/index.html"
       ],
       "uuids": [
-        "01a1c58c-5081-756c-b61f-0483f2c7ead5"
+        "01a1c58c-5081-756c-b61f-0483f2c7ead5",
+        "01a1c6d9-4d90-7518-b91e-5dbaeb5221ce",
+        "01a1c64b-fc6f-760f-8e34-7d65cfa2160e"
       ]
     },
     "documentshare.live": {
@@ -3108,6 +3134,31 @@
       "uuids": [
         "01a10852-5ad7-749b-bfde-9d3139c3ae74",
         "01a11bc5-986f-75a9-b40b-3dc69d54389e"
+      ]
+    },
+    "jornaldapraia.net": {
+      "asn": "AS53221",
+      "confidence": "high",
+      "first_run": "2026-11-10T23:15:08Z",
+      "first_seen": "2026-11-10T19:45:41.881Z",
+      "hosts": [
+        "jornaldapraia.net"
+      ],
+      "ip": "186.250.244.98",
+      "key": "jornaldapraia.net",
+      "last_seen": "2026-11-10T19:45:41.881Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://jornaldapraia.net/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1c6fe-8531-744c-81ce-c1fd32ec826e"
       ]
     },
     "junailperfumes.com": {
@@ -6076,8 +6127,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-10T14:47:42Z",
-    "last_success": "2026-11-10T14:47:42Z",
-    "window_hours": 15
+    "last_run": "2026-11-10T23:15:08Z",
+    "last_success": "2026-11-10T23:15:08Z",
+    "window_hours": 10
   }
 }
