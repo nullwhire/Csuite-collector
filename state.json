@@ -609,7 +609,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-10T02:57:53.554Z",
+      "last_seen": "2026-11-11T12:05:37.253Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -627,7 +627,8 @@
         "01a1b2e4-1d2e-751b-a487-bdf14a5dc802",
         "01a1bb39-1d9f-71ba-ac24-92d6f15c0c86",
         "01a1bdc9-a533-7775-9707-294847093cf9",
-        "01a1c363-c2e5-716e-9732-766c40d0ba99"
+        "01a1c363-c2e5-716e-9732-766c40d0ba99",
+        "01a1ca7f-9ab5-77ef-aab1-4d80d7761699"
       ]
     },
     "aral-latam.com": {
@@ -932,6 +933,30 @@
         "01a0fdc5-0f17-73ec-8eed-07b4ecc14c36"
       ]
     },
+    "brinoedu.com.br": {
+      "asn": "AS31898",
+      "confidence": "low",
+      "first_run": "2026-11-11T14:12:04Z",
+      "first_seen": "2026-11-11T06:24:50.840Z",
+      "hosts": [
+        "brinoedu.com.br"
+      ],
+      "ip": "162.240.168.192",
+      "key": "brinoedu.com.br",
+      "last_seen": "2026-11-11T06:24:50.840Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://brinoedu.com.br/ftx/f7te56-1794378268-cffb5287c5bc/"
+      ],
+      "uuids": [
+        "01a1c947-b915-71a1-87d0-5a64876d988f"
+      ]
+    },
     "browardcountypdf-viewer.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -1196,7 +1221,7 @@
       ],
       "ip": "213.136.93.173",
       "key": "crmibvn.org",
-      "last_seen": "2026-11-11T01:03:58.156Z",
+      "last_seen": "2026-11-11T10:47:36.142Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1207,7 +1232,8 @@
         "https://crmibvn.org/dwi/revised_quote.html"
       ],
       "uuids": [
-        "01a1c821-dd29-764f-abae-72edd8681ae9"
+        "01a1c821-dd29-764f-abae-72edd8681ae9",
+        "01a1ca37-f3a3-731f-a45f-13a0de80d428"
       ]
     },
     "csigndo.com": {
@@ -3174,7 +3200,7 @@
       ],
       "ip": "186.250.244.98",
       "key": "jornaldapraia.net",
-      "last_seen": "2026-11-11T01:03:12.624Z",
+      "last_seen": "2026-11-11T11:30:24.569Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3188,7 +3214,10 @@
       ],
       "uuids": [
         "01a1c6fe-8531-744c-81ce-c1fd32ec826e",
-        "01a1c821-3c36-778d-9d05-6370d95ce1c5"
+        "01a1c821-3c36-778d-9d05-6370d95ce1c5",
+        "01a1ca5f-70c5-713c-ae18-cba63dfbc2f0",
+        "01a1ca43-e016-7019-95ad-672be44e24fc",
+        "01a1ca37-e6ac-719a-a7b8-d63a263c14cf"
       ]
     },
     "junailperfumes.com": {
@@ -3326,7 +3355,7 @@
       ],
       "ip": "157.66.191.8",
       "key": "klubtourism.com",
-      "last_seen": "2026-11-11T01:01:25.936Z",
+      "last_seen": "2026-11-11T10:30:39.671Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3334,10 +3363,12 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "http://www.klubtourism.com/dfg/motive-power.html"
+        "http://www.klubtourism.com/dfg/motive-power.html",
+        "https://www.klubtourism.com/dfg/motive-power.html"
       ],
       "uuids": [
-        "01a1c81f-7730-71bf-9e1e-05c32eff82cf"
+        "01a1c81f-7730-71bf-9e1e-05c32eff82cf",
+        "01a1ca28-a452-77bf-abe3-d41b22e1aa6e"
       ]
     },
     "kwestventures.com": {
@@ -5446,6 +5477,31 @@
         "01a1be01-6c86-7268-8bd9-7520835d91c0"
       ]
     },
+    "texasaircraftexpo.com": {
+      "asn": "AS46606",
+      "confidence": "high",
+      "first_run": "2026-11-11T14:12:04Z",
+      "first_seen": "2026-11-11T11:08:36.192Z",
+      "hosts": [
+        "texasaircraftexpo.com"
+      ],
+      "ip": "162.240.69.98",
+      "key": "texasaircraftexpo.com",
+      "last_seen": "2026-11-11T11:08:36.192Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://texasaircraftexpo.com/access/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1ca4b-7c19-736c-b897-d35488c47366"
+      ]
+    },
     "thamizhnadu.com": {
       "asn": "AS46606",
       "confidence": "low",
@@ -6181,8 +6237,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-11T06:06:06Z",
-    "last_success": "2026-11-11T06:06:06Z",
-    "window_hours": 8
+    "last_run": "2026-11-11T14:12:04Z",
+    "last_success": "2026-11-11T14:12:04Z",
+    "window_hours": 10
   }
 }
