@@ -320,7 +320,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "adobeinstaller-virid.vercel.app",
-      "last_seen": "2026-11-06T18:12:50.908Z",
+      "last_seen": "2026-11-11T16:06:05.196Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -805,6 +805,30 @@
       ],
       "uuids": [
         "01a15cbd-abe8-7176-97d3-457b460d6c17"
+      ]
+    },
+    "bgsi.ca": {
+      "asn": "AS32613",
+      "confidence": "medium",
+      "first_run": "2026-11-12T00:37:07Z",
+      "first_seen": "2026-11-11T21:11:56.369Z",
+      "hosts": [
+        "bgsi.ca"
+      ],
+      "ip": "184.107.112.76",
+      "key": "bgsi.ca",
+      "last_seen": "2026-11-11T21:11:56.369Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://bgsi.ca/t/ab.html"
+      ],
+      "uuids": [
+        "01a1cc73-df20-77d3-beee-07f9033ef98c"
       ]
     },
     "black-rice-b4c7.john-53d.workers.dev": {
@@ -1426,6 +1450,30 @@
       "uuids": [
         "01a1845d-5804-763f-bc68-ba381fef4b29",
         "01a1845d-1ce4-7386-95b0-4d644f37e8a6"
+      ]
+    },
+    "divinemercy.org.in": {
+      "asn": "AS31898",
+      "confidence": "low",
+      "first_run": "2026-11-12T00:37:07Z",
+      "first_seen": "2026-11-11T20:38:40.835Z",
+      "hosts": [
+        "divinemercy.org.in"
+      ],
+      "ip": "192.185.139.252",
+      "key": "divinemercy.org.in",
+      "last_seen": "2026-11-11T20:38:40.835Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://divinemercy.org.in/ftx/rna50h-1794429511-61e0d7395b07/"
+      ],
+      "uuids": [
+        "01a1cc55-49d1-7555-a122-4b4d0fd66d16"
       ]
     },
     "dndair.com": {
@@ -3039,7 +3087,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "index-catty-neww.vercel.app",
-      "last_seen": "2026-10-29T12:40:55.309Z",
+      "last_seen": "2026-11-11T15:07:38.016Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3072,7 +3120,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "index-newproject.vercel.app",
-      "last_seen": "2026-10-27T12:04:35.640Z",
+      "last_seen": "2026-11-11T15:33:04.416Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3200,7 +3248,7 @@
       ],
       "ip": "186.250.244.98",
       "key": "jornaldapraia.net",
-      "last_seen": "2026-11-11T11:30:24.569Z",
+      "last_seen": "2026-11-12T00:20:18.407Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3217,7 +3265,8 @@
         "01a1c821-3c36-778d-9d05-6370d95ce1c5",
         "01a1ca5f-70c5-713c-ae18-cba63dfbc2f0",
         "01a1ca43-e016-7019-95ad-672be44e24fc",
-        "01a1ca37-e6ac-719a-a7b8-d63a263c14cf"
+        "01a1ca37-e6ac-719a-a7b8-d63a263c14cf",
+        "01a1cd20-511e-730c-ba95-d889fef83f90"
       ]
     },
     "junailperfumes.com": {
@@ -3351,11 +3400,12 @@
       "first_run": "2026-11-11T06:06:06Z",
       "first_seen": "2026-11-11T01:01:25.936Z",
       "hosts": [
-        "www.klubtourism.com"
+        "www.klubtourism.com",
+        "klubtourism.com"
       ],
       "ip": "157.66.191.8",
       "key": "klubtourism.com",
-      "last_seen": "2026-11-11T10:30:39.671Z",
+      "last_seen": "2026-11-11T14:46:36.337Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3364,11 +3414,13 @@
       "title": "PDF Viewer",
       "urls": [
         "http://www.klubtourism.com/dfg/motive-power.html",
-        "https://www.klubtourism.com/dfg/motive-power.html"
+        "https://www.klubtourism.com/dfg/motive-power.html",
+        "https://klubtourism.com/dfg/motive-power.html"
       ],
       "uuids": [
         "01a1c81f-7730-71bf-9e1e-05c32eff82cf",
-        "01a1ca28-a452-77bf-abe3-d41b22e1aa6e"
+        "01a1ca28-a452-77bf-abe3-d41b22e1aa6e",
+        "01a1cb13-0f02-7038-aeb1-2fc25cd39219"
       ]
     },
     "kwestventures.com": {
@@ -4072,7 +4124,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "new-indexproject.vercel.app",
-      "last_seen": "2026-11-04T07:46:44.657Z",
+      "last_seen": "2026-11-11T15:33:22.196Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -6237,8 +6289,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-11T14:12:04Z",
-    "last_success": "2026-11-11T14:12:04Z",
-    "window_hours": 10
+    "last_run": "2026-11-12T00:37:07Z",
+    "last_success": "2026-11-12T00:37:07Z",
+    "window_hours": 12
   }
 }
