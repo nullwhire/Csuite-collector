@@ -1426,6 +1426,36 @@
         "01a13fb0-e606-776b-8413-240383f45a36"
       ]
     },
+    "digitaloceanspaces.com": {
+      "asn": "AS14061",
+      "confidence": "high",
+      "first_run": "2026-11-12T15:05:30Z",
+      "first_seen": "2026-11-12T01:57:20.919Z",
+      "hosts": [
+        "redirectsadss.sfo3.digitaloceanspaces.com",
+        "redirectsad.sfo3.digitaloceanspaces.com"
+      ],
+      "ip": "138.68.34.161",
+      "key": "digitaloceanspaces.com",
+      "last_seen": "2026-11-12T09:51:49.972Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://redirectsadss.sfo3.digitaloceanspaces.com/Adobe_Installer.html",
+        "https://redirectsad.sfo3.digitaloceanspaces.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1cf2b-96f5-7162-9dbb-e2d20a6897b6",
+        "01a1cead-7dea-746a-89e2-815708bfe24b",
+        "01a1ce7c-394b-7377-b008-3b28bfb95ba3",
+        "01a1cd79-2a8e-77cc-af7d-ef99a30d8152"
+      ]
+    },
     "diversicomm.com": {
       "asn": "AS55293",
       "confidence": "high",
@@ -2288,7 +2318,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahelath-theta.vercel.app",
-      "last_seen": "2026-11-05T00:32:26.038Z",
+      "last_seen": "2026-11-12T00:52:36.418Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2759,7 +2789,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "healthlicense-blond.vercel.app",
-      "last_seen": "2026-11-10T01:49:01.947Z",
+      "last_seen": "2026-11-12T13:01:10.294Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3248,7 +3278,7 @@
       ],
       "ip": "186.250.244.98",
       "key": "jornaldapraia.net",
-      "last_seen": "2026-11-12T00:20:18.407Z",
+      "last_seen": "2026-11-12T01:18:20.316Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3266,7 +3296,8 @@
         "01a1ca5f-70c5-713c-ae18-cba63dfbc2f0",
         "01a1ca43-e016-7019-95ad-672be44e24fc",
         "01a1ca37-e6ac-719a-a7b8-d63a263c14cf",
-        "01a1cd20-511e-730c-ba95-d889fef83f90"
+        "01a1cd20-511e-730c-ba95-d889fef83f90",
+        "01a1cd55-6b76-7258-8ae8-3fe1c7543da1"
       ]
     },
     "junailperfumes.com": {
@@ -3524,6 +3555,31 @@
         "01a14ff6-bb36-759a-a5b9-a5fdba25d2cf",
         "01a15516-603b-707b-a18a-32f3a2c4d643",
         "01a15c08-1064-7028-99a2-84a3c295f459"
+      ]
+    },
+    "lamanuelamezcal.com": {
+      "asn": "AS13213",
+      "confidence": "medium",
+      "first_run": "2026-11-12T15:05:30Z",
+      "first_seen": "2026-11-12T01:06:11.469Z",
+      "hosts": [
+        "lamanuelamezcal.com"
+      ],
+      "ip": "174.127.120.145",
+      "key": "lamanuelamezcal.com",
+      "last_seen": "2026-11-12T05:02:00.939Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "404 Not Found",
+      "urls": [
+        "https://lamanuelamezcal.com/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1ce22-4183-721c-a525-202fadef7781",
+        "01a1cd4a-39bb-76f3-a21d-6df020d75616"
       ]
     },
     "legaljogja.com": {
@@ -3948,6 +4004,30 @@
       "uuids": [
         "01a1b9a1-04c4-737c-bb53-951581c35201",
         "01a1b97a-25bc-713f-afdb-27cfde91a593"
+      ]
+    },
+    "mhwilson1988.org": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-11-12T15:05:30Z",
+      "first_seen": "2026-11-12T08:03:00.269Z",
+      "hosts": [
+        "mhwilson1988.org"
+      ],
+      "ip": "192.185.186.184",
+      "key": "mhwilson1988.org",
+      "last_seen": "2026-11-12T08:03:00.269Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://mhwilson1988.org/wp-content/klelkejkr/adobe.html"
+      ],
+      "uuids": [
+        "01a1cec7-f00a-762f-a22e-887db99be60b"
       ]
     },
     "mncacompany.com": {
@@ -4382,6 +4462,30 @@
       ],
       "uuids": [
         "01a18ad4-e37a-750b-a1a8-6a1259aeacc0"
+      ]
+    },
+    "oriaind.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-11-12T15:05:30Z",
+      "first_seen": "2026-11-12T08:31:17.653Z",
+      "hosts": [
+        "oriaind.com"
+      ],
+      "ip": "192.185.57.114",
+      "key": "oriaind.com",
+      "last_seen": "2026-11-12T08:31:17.653Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://oriaind.com/pp/post.html"
+      ],
+      "uuids": [
+        "01a1cee1-d31c-70ae-8e1f-9051de423e43"
       ]
     },
     "ozan.life": {
@@ -4961,7 +5065,7 @@
       ],
       "ip": "70.39.249.143",
       "key": "realtorbala.ca",
-      "last_seen": "2026-11-10T04:30:31.653Z",
+      "last_seen": "2026-11-12T03:16:54.037Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4978,7 +5082,9 @@
         "01a1c2f8-fb4d-7178-b2aa-b2d2ddcd8376",
         "01a1c3b8-a963-70f9-94b6-b43769fb09ce",
         "01a1c3b8-9d03-7020-8884-73b738c4d3db",
-        "01a1c2f8-51d7-72c3-ab6b-e8c98b56b9b5"
+        "01a1c2f8-51d7-72c3-ab6b-e8c98b56b9b5",
+        "01a1cdc1-e1fa-738c-9c8f-580c063c3c93",
+        "01a1cdbc-6e06-73e0-b288-722de5a7dcae"
       ]
     },
     "resourcespackett.help": {
@@ -5539,7 +5645,7 @@
       ],
       "ip": "162.240.69.98",
       "key": "texasaircraftexpo.com",
-      "last_seen": "2026-11-11T11:08:36.192Z",
+      "last_seen": "2026-11-12T05:02:17.697Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -5551,7 +5657,9 @@
         "https://texasaircraftexpo.com/access/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a1ca4b-7c19-736c-b897-d35488c47366"
+        "01a1ca4b-7c19-736c-b897-d35488c47366",
+        "01a1ce22-3e7d-77db-a3d1-00607d18c394",
+        "01a1cd4a-330f-7729-bddf-553159a3dfd4"
       ]
     },
     "thamizhnadu.com": {
@@ -6289,8 +6397,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-12T00:37:07Z",
-    "last_success": "2026-11-12T00:37:07Z",
-    "window_hours": 12
+    "last_run": "2026-11-12T15:05:30Z",
+    "last_success": "2026-11-12T15:05:30Z",
+    "window_hours": 16
   }
 }
