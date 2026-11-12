@@ -2789,7 +2789,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "healthlicense-blond.vercel.app",
-      "last_seen": "2026-11-12T13:01:10.294Z",
+      "last_seen": "2026-11-12T16:30:30.117Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -5087,6 +5087,30 @@
         "01a1cdbc-6e06-73e0-b288-722de5a7dcae"
       ]
     },
+    "resdmd0c.com": {
+      "asn": "AS13335",
+      "confidence": "low",
+      "first_run": "2026-11-12T23:33:29Z",
+      "first_seen": "2026-11-12T21:49:08.183Z",
+      "hosts": [
+        "resdmd0c.com"
+      ],
+      "ip": "188.114.96.3",
+      "key": "resdmd0c.com",
+      "last_seen": "2026-11-12T21:49:08.183Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://resdmd0c.com/ftx/f8q1wx-1794520142-20e1b84f330d/"
+      ],
+      "uuids": [
+        "01a1d1bc-4f5b-7665-8124-6e4be1430913"
+      ]
+    },
     "resourcespackett.help": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -5257,6 +5281,31 @@
       ],
       "uuids": [
         "01a15bd5-3afc-744d-b413-c5924e4afff0"
+      ]
+    },
+    "shrishyamsevasansthan.com": {
+      "asn": "AS46606",
+      "confidence": "high",
+      "first_run": "2026-11-12T23:33:29Z",
+      "first_seen": "2026-11-12T23:15:27.201Z",
+      "hosts": [
+        "shrishyamsevasansthan.com"
+      ],
+      "ip": "208.91.199.120",
+      "key": "shrishyamsevasansthan.com",
+      "last_seen": "2026-11-12T23:15:27.201Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://shrishyamsevasansthan.com/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1d20b-5353-7278-9511-2699607030a5"
       ]
     },
     "skyloghomes.com": {
@@ -6397,8 +6446,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-12T15:05:30Z",
-    "last_success": "2026-11-12T15:05:30Z",
-    "window_hours": 16
+    "last_run": "2026-11-12T23:33:29Z",
+    "last_success": "2026-11-12T23:33:29Z",
+    "window_hours": 10
   }
 }
