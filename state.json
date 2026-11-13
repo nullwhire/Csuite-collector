@@ -548,7 +548,7 @@
       ],
       "ip": "107.180.112.112",
       "key": "amnesiacuracao.com",
-      "last_seen": "2026-11-03T00:51:31.809Z",
+      "last_seen": "2026-11-13T05:55:52.788Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -567,7 +567,8 @@
         "01a19ccb-d496-7619-979c-1d4daa9c470e",
         "01a19c61-4e62-7395-8681-580d5c18ac66",
         "01a19ee3-afe2-7014-bd08-9f29c2428afb",
-        "01a19e9e-773d-7406-a388-0162dd5222d3"
+        "01a19e9e-773d-7406-a388-0162dd5222d3",
+        "01a1d379-ede1-745f-b65f-03c4c5fb0dec"
       ]
     },
     "apoyar.org": {
@@ -2231,17 +2232,19 @@
       ],
       "ip": "172.67.176.42",
       "key": "floridabloghealth.us",
-      "last_seen": "2026-10-08T22:08:23.373Z",
+      "last_seen": "2026-11-13T06:20:19.991Z",
       "queries": [
         "Q3a_adobe_html"
       ],
       "status": "new",
       "title": "floridabloghealth.us | 522: Connection timed out",
       "urls": [
-        "https://floridabloghealth.us/Update/Adobe_Installer.html"
+        "https://floridabloghealth.us/Update/Adobe_Installer.html",
+        "https://floridabloghealth.us/license/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a11d8f-0a8a-7262-8dc3-da1da89dd70b"
+        "01a11d8f-0a8a-7262-8dc3-da1da89dd70b",
+        "01a1d38f-dea0-726d-96fe-2373e5c0c42a"
       ]
     },
     "floridahealth-gamma.vercel.app": {
@@ -3278,7 +3281,7 @@
       ],
       "ip": "186.250.244.98",
       "key": "jornaldapraia.net",
-      "last_seen": "2026-11-12T01:18:20.316Z",
+      "last_seen": "2026-11-12T23:44:23.723Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3297,7 +3300,8 @@
         "01a1ca43-e016-7019-95ad-672be44e24fc",
         "01a1ca37-e6ac-719a-a7b8-d63a263c14cf",
         "01a1cd20-511e-730c-ba95-d889fef83f90",
-        "01a1cd55-6b76-7258-8ae8-3fe1c7543da1"
+        "01a1cd55-6b76-7258-8ae8-3fe1c7543da1",
+        "01a1d225-d815-73aa-9d75-78d356f47202"
       ]
     },
     "junailperfumes.com": {
@@ -4056,6 +4060,35 @@
         "01a15cc2-9d21-705d-b356-b74b1f382ae8"
       ]
     },
+    "mohajonbd.com": {
+      "asn": "AS147303",
+      "confidence": "high",
+      "first_run": "2026-11-13T06:35:00Z",
+      "first_seen": "2026-11-13T01:05:55.726Z",
+      "hosts": [
+        "mohajonbd.com",
+        "www.mohajonbd.com"
+      ],
+      "ip": "103.29.181.99",
+      "key": "mohajonbd.com",
+      "last_seen": "2026-11-13T06:31:20.220Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "http://mohajonbd.com/br/Adobe_Installer.html",
+        "https://www.mohajonbd.com/br/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1d39a-0a2d-719e-872d-ef261f3d8ef3",
+        "01a1d34a-ad14-7379-9143-c15b71f41f32",
+        "01a1d270-6250-721a-8f09-93ac800c3b92"
+      ]
+    },
     "monosignawordis.site": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -4774,7 +4807,7 @@
       ],
       "ip": "66.225.221.122",
       "key": "pomarosahotel.com",
-      "last_seen": "2026-11-03T01:13:23.065Z",
+      "last_seen": "2026-11-13T05:55:21.041Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6446,8 +6479,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-12T23:33:29Z",
-    "last_success": "2026-11-12T23:33:29Z",
-    "window_hours": 10
+    "last_run": "2026-11-13T06:35:00Z",
+    "last_success": "2026-11-13T06:35:00Z",
+    "window_hours": 9
   }
 }
