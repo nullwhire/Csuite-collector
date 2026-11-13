@@ -32,6 +32,7 @@ bestcareindia.com
 bgsi.ca
 black-rice-b4c7.john-53d.workers.dev
 blackprimehouse.com.br
+bluemountainmarble.com
 bolsasgotadagua.com
 botsea.club
 boxercourier.com
@@ -111,6 +112,7 @@ hernunspnc.github.io
 hipercromo.com.br
 hjp-s3-akf.s3.us-east-1.amazonaws.com
 hotelvaldecans.com.br
+idocvws.live
 ilovestealingfromworkanddoingdrugs.com
 index-catty-neww.vercel.app
 index-newproject.vercel.app
@@ -180,6 +182,7 @@ prasannashirol.com
 prsnrw.de
 ptai.in
 pub-36f7416220c840af89da02b9b6bf207d.r2.dev
+pub-49755b58d0f14fa3a56739c45d1d5438.r2.dev
 pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev
 pub-def1757768e44ee4901749848f225c06.r2.dev
 qamarbrothers.com
@@ -190,6 +193,7 @@ realtorbala.ca
 resdmd0c.com
 resourcespackett.help
 resultsfinderonline.com
+reuters.com
 rootsblowers.co.in
 scalvesonixands.site
 screenconnect.com

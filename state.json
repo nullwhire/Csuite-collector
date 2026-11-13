@@ -880,6 +880,30 @@
         "01a0fa22-1c81-729e-800a-ac88f5fe345a"
       ]
     },
+    "bluemountainmarble.com": {
+      "asn": "AS55293",
+      "confidence": "medium",
+      "first_run": "2026-11-13T19:37:01Z",
+      "first_seen": "2026-11-13T19:23:00.871Z",
+      "hosts": [
+        "bluemountainmarble.com"
+      ],
+      "ip": "68.66.216.12",
+      "key": "bluemountainmarble.com",
+      "last_seen": "2026-11-13T19:23:00.871Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://bluemountainmarble.com/Fastest/Lab.html"
+      ],
+      "uuids": [
+        "01a1d65c-db5b-7119-b06b-9f8576500ef2"
+      ]
+    },
     "bolsasgotadagua.com": {
       "asn": "AS53107",
       "confidence": "low",
@@ -3085,6 +3109,30 @@
         "01a10275-e052-729e-b082-49bb4a9249c6"
       ]
     },
+    "idocvws.live": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-13T19:37:01Z",
+      "first_seen": "2026-11-13T16:32:23.315Z",
+      "hosts": [
+        "idocvws.live"
+      ],
+      "ip": "104.21.62.52",
+      "key": "idocvws.live",
+      "last_seen": "2026-11-13T16:32:23.315Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://idocvws.live/doc/"
+      ],
+      "uuids": [
+        "01a1d5c0-5cca-744b-bfe4-8b2d169fd915"
+      ]
+    },
     "ilovestealingfromworkanddoingdrugs.com": {
       "asn": "AS31898",
       "confidence": "high",
@@ -4071,7 +4119,7 @@
       ],
       "ip": "103.29.181.99",
       "key": "mohajonbd.com",
-      "last_seen": "2026-11-13T06:31:20.220Z",
+      "last_seen": "2026-11-13T07:00:01.607Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -4081,12 +4129,14 @@
       "title": "PDF Viewer",
       "urls": [
         "http://mohajonbd.com/br/Adobe_Installer.html",
-        "https://www.mohajonbd.com/br/Adobe_Installer.html"
+        "https://www.mohajonbd.com/br/Adobe_Installer.html",
+        "https://mohajonbd.com/br/Adobe_Installer.html"
       ],
       "uuids": [
         "01a1d39a-0a2d-719e-872d-ef261f3d8ef3",
         "01a1d34a-ad14-7379-9143-c15b71f41f32",
-        "01a1d270-6250-721a-8f09-93ac800c3b92"
+        "01a1d270-6250-721a-8f09-93ac800c3b92",
+        "01a1d3b4-9d84-72cb-b0de-b02abd51510d"
       ]
     },
     "monosignawordis.site": {
@@ -4938,6 +4988,31 @@
         "01a1ad8f-2fe4-76da-8c3e-02c50cf5c8be"
       ]
     },
+    "pub-49755b58d0f14fa3a56739c45d1d5438.r2.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-13T19:37:01Z",
+      "first_seen": "2026-11-13T18:04:39.783Z",
+      "hosts": [
+        "pub-49755b58d0f14fa3a56739c45d1d5438.r2.dev"
+      ],
+      "ip": "2606:4700:311b::6812:3222",
+      "key": "pub-49755b58d0f14fa3a56739c45d1d5438.r2.dev",
+      "last_seen": "2026-11-13T18:06:28.700Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://pub-49755b58d0f14fa3a56739c45d1d5438.r2.dev/Adobe.html"
+      ],
+      "uuids": [
+        "01a1d616-c698-7620-a4ef-3202c8e17e2b",
+        "01a1d615-24d5-719e-845a-c3a4cfbeb1bb"
+      ]
+    },
     "pub-93df8620fe8c461ea9c751f7ad297e39.r2.dev": {
       "asn": "AS13335",
       "confidence": "high",
@@ -5188,6 +5263,30 @@
       ],
       "uuids": [
         "01a11da0-eb87-73be-8844-25fc0bba78f8"
+      ]
+    },
+    "reuters.com": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-13T19:37:01Z",
+      "first_seen": "2026-11-13T13:46:15.125Z",
+      "hosts": [
+        "www.reuters.com"
+      ],
+      "ip": "52.85.193.34",
+      "key": "reuters.com",
+      "last_seen": "2026-11-13T13:46:15.125Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "reuters.com",
+      "urls": [
+        "https://www.reuters.com/"
+      ],
+      "uuids": [
+        "01a1d528-8958-70e9-8794-6a842ef925f5"
       ]
     },
     "rootsblowers.co.in": {
@@ -6479,8 +6578,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-13T06:35:00Z",
-    "last_success": "2026-11-13T06:35:00Z",
-    "window_hours": 9
+    "last_run": "2026-11-13T19:37:01Z",
+    "last_success": "2026-11-13T19:37:01Z",
+    "window_hours": 15
   }
 }
