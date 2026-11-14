@@ -4398,7 +4398,7 @@
       ],
       "ip": "162.241.222.199",
       "key": "nhhydraulik.co.in",
-      "last_seen": "2026-10-30T18:31:36.537Z",
+      "last_seen": "2026-11-14T12:31:14.398Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6386,24 +6386,28 @@
       ]
     },
     "wrproducoes.com.br": {
+      "asn": "AS263062",
       "confidence": "medium",
       "first_run": "2026-10-11T05:41:00Z",
       "first_seen": "2026-10-11T03:25:25.237Z",
       "hosts": [
         "www.wrproducoes.com.br"
       ],
+      "ip": "186.232.108.7",
       "key": "wrproducoes.com.br",
-      "last_seen": "2026-10-11T03:25:25.237Z",
+      "last_seen": "2026-11-14T09:33:40.020Z",
       "queries": [
         "Q3a_adobe_html"
       ],
       "status": "new",
       "title": "www.wrproducoes.com.br",
       "urls": [
-        "https://www.wrproducoes.com.br/adobe_Installer.html"
+        "https://www.wrproducoes.com.br/adobe_Installer.html",
+        "https://www.wrproducoes.com.br/cgi-sys/suspendedpage.cgi"
       ],
       "uuids": [
-        "01a128fd-f207-77fb-b0a5-1c2bb99d6584"
+        "01a128fd-f207-77fb-b0a5-1c2bb99d6584",
+        "01a1d967-ac13-765b-b9bd-0f5fdaa6585d"
       ]
     },
     "xureto.shop": {
@@ -6629,8 +6633,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-14T06:12:48Z",
-    "last_success": "2026-11-14T06:12:48Z",
-    "window_hours": 12
+    "last_run": "2026-11-14T13:27:21Z",
+    "last_success": "2026-11-14T13:27:21Z",
+    "window_hours": 9
   }
 }
