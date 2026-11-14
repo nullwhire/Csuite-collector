@@ -1458,11 +1458,12 @@
       "first_seen": "2026-11-12T01:57:20.919Z",
       "hosts": [
         "redirectsadss.sfo3.digitaloceanspaces.com",
-        "redirectsad.sfo3.digitaloceanspaces.com"
+        "redirectsad.sfo3.digitaloceanspaces.com",
+        "hireredirect.sfo3.digitaloceanspaces.com"
       ],
       "ip": "138.68.34.161",
       "key": "digitaloceanspaces.com",
-      "last_seen": "2026-11-12T09:51:49.972Z",
+      "last_seen": "2026-11-14T01:03:53.153Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1472,13 +1473,15 @@
       "title": "PDF Viewer",
       "urls": [
         "https://redirectsadss.sfo3.digitaloceanspaces.com/Adobe_Installer.html",
-        "https://redirectsad.sfo3.digitaloceanspaces.com/Adobe_Installer.html"
+        "https://redirectsad.sfo3.digitaloceanspaces.com/Adobe_Installer.html",
+        "https://hireredirect.sfo3.digitaloceanspaces.com/Adobe_Installer.html"
       ],
       "uuids": [
         "01a1cf2b-96f5-7162-9dbb-e2d20a6897b6",
         "01a1cead-7dea-746a-89e2-815708bfe24b",
         "01a1ce7c-394b-7377-b008-3b28bfb95ba3",
-        "01a1cd79-2a8e-77cc-af7d-ef99a30d8152"
+        "01a1cd79-2a8e-77cc-af7d-ef99a30d8152",
+        "01a1d794-f28c-7182-9c24-bbcc91d59184"
       ]
     },
     "diversicomm.com": {
@@ -2062,7 +2065,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense-nu.vercel.app",
-      "last_seen": "2026-10-31T22:17:23.497Z",
+      "last_seen": "2026-11-14T01:06:16.646Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2345,7 +2348,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahelath-theta.vercel.app",
-      "last_seen": "2026-11-12T00:52:36.418Z",
+      "last_seen": "2026-11-14T01:06:11.540Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4547,6 +4550,30 @@
         "01a18ad4-e37a-750b-a1a8-6a1259aeacc0"
       ]
     },
+    "orange-pine-0eed.consumerslpg.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-14T06:12:48Z",
+      "first_seen": "2026-11-13T22:08:42.638Z",
+      "hosts": [
+        "orange-pine-0eed.consumerslpg.workers.dev"
+      ],
+      "ip": "2a06:98c1:3121::3",
+      "key": "orange-pine-0eed.consumerslpg.workers.dev",
+      "last_seen": "2026-11-13T22:08:42.638Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://orange-pine-0eed.consumerslpg.workers.dev/"
+      ],
+      "uuids": [
+        "01a1d6f4-9517-737a-8feb-a7435cd5e142"
+      ]
+    },
     "oriaind.com": {
       "asn": "AS31898",
       "confidence": "medium",
@@ -5193,6 +5220,30 @@
         "01a1c2f8-51d7-72c3-ab6b-e8c98b56b9b5",
         "01a1cdc1-e1fa-738c-9c8f-580c063c3c93",
         "01a1cdbc-6e06-73e0-b288-722de5a7dcae"
+      ]
+    },
+    "red-wood-5132.consumerslpg.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-14T06:12:48Z",
+      "first_seen": "2026-11-13T20:11:09.823Z",
+      "hosts": [
+        "red-wood-5132.consumerslpg.workers.dev"
+      ],
+      "ip": "188.114.96.3",
+      "key": "red-wood-5132.consumerslpg.workers.dev",
+      "last_seen": "2026-11-13T20:11:09.823Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://red-wood-5132.consumerslpg.workers.dev/"
+      ],
+      "uuids": [
+        "01a1d688-f4e5-7722-8c70-c1af4ac9312a"
       ]
     },
     "resdmd0c.com": {
@@ -6578,8 +6629,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-13T19:37:01Z",
-    "last_success": "2026-11-13T19:37:01Z",
-    "window_hours": 15
+    "last_run": "2026-11-14T06:12:48Z",
+    "last_success": "2026-11-14T06:12:48Z",
+    "window_hours": 12
   }
 }
