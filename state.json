@@ -1376,7 +1376,7 @@
       ],
       "ip": "94.72.101.64",
       "key": "cvouab.com",
-      "last_seen": "2026-11-11T02:32:04.121Z",
+      "last_seen": "2026-11-15T01:47:37.636Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1487,7 +1487,7 @@
       ],
       "ip": "138.68.34.161",
       "key": "digitaloceanspaces.com",
-      "last_seen": "2026-11-14T01:03:53.153Z",
+      "last_seen": "2026-11-15T01:03:13.562Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1505,7 +1505,8 @@
         "01a1cead-7dea-746a-89e2-815708bfe24b",
         "01a1ce7c-394b-7377-b008-3b28bfb95ba3",
         "01a1cd79-2a8e-77cc-af7d-ef99a30d8152",
-        "01a1d794-f28c-7182-9c24-bbcc91d59184"
+        "01a1d794-f28c-7182-9c24-bbcc91d59184",
+        "01a1dcba-b561-76cd-ac2b-ebe11da3c860"
       ]
     },
     "diversicomm.com": {
@@ -2114,7 +2115,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense-nu.vercel.app",
-      "last_seen": "2026-11-14T01:06:16.646Z",
+      "last_seen": "2026-11-15T05:09:11.919Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2398,7 +2399,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahelath-theta.vercel.app",
-      "last_seen": "2026-11-14T01:06:11.540Z",
+      "last_seen": "2026-11-15T01:18:11.832Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -5274,7 +5275,7 @@
       ],
       "ip": "70.39.249.143",
       "key": "realtorbala.ca",
-      "last_seen": "2026-11-12T03:16:54.037Z",
+      "last_seen": "2026-11-15T02:05:53.057Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -5293,7 +5294,8 @@
         "01a1c3b8-9d03-7020-8884-73b738c4d3db",
         "01a1c2f8-51d7-72c3-ab6b-e8c98b56b9b5",
         "01a1cdc1-e1fa-738c-9c8f-580c063c3c93",
-        "01a1cdbc-6e06-73e0-b288-722de5a7dcae"
+        "01a1cdbc-6e06-73e0-b288-722de5a7dcae",
+        "01a1dcf4-10d4-72e4-b8b5-d10aa16e6a1f"
       ]
     },
     "red-wood-5132.consumerslpg.workers.dev": {
@@ -6732,8 +6734,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-14T22:18:44Z",
-    "last_success": "2026-11-14T22:18:44Z",
+    "last_run": "2026-11-15T06:20:23Z",
+    "last_success": "2026-11-15T06:20:23Z",
     "window_hours": 10
   }
 }
