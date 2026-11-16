@@ -634,7 +634,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-11T12:05:37.253Z",
+      "last_seen": "2026-11-16T07:19:49.280Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -643,7 +643,8 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://apvdelhi.com/secure/Adobe_Installer.html"
+        "https://apvdelhi.com/secure/Adobe_Installer.html",
+        "https://apvdelhi.com/404.html"
       ],
       "uuids": [
         "01a1af2e-26ec-7009-91b0-bd2cc598ad2b",
@@ -653,7 +654,8 @@
         "01a1bb39-1d9f-71ba-ac24-92d6f15c0c86",
         "01a1bdc9-a533-7775-9707-294847093cf9",
         "01a1c363-c2e5-716e-9732-766c40d0ba99",
-        "01a1ca7f-9ab5-77ef-aab1-4d80d7761699"
+        "01a1ca7f-9ab5-77ef-aab1-4d80d7761699",
+        "01a1e339-cfd7-74e3-9360-42e4ce2865bb"
       ]
     },
     "aral-latam.com": {
@@ -854,6 +856,30 @@
       ],
       "uuids": [
         "01a1cc73-df20-77d3-beee-07f9033ef98c"
+      ]
+    },
+    "bizuwpexpert.com": {
+      "asn": "AS153528",
+      "confidence": "medium",
+      "first_run": "2026-11-16T21:57:31Z",
+      "first_seen": "2026-11-16T20:33:17.920Z",
+      "hosts": [
+        "bizuwpexpert.com"
+      ],
+      "ip": "161.248.201.136",
+      "key": "bizuwpexpert.com",
+      "last_seen": "2026-11-16T20:33:17.920Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://bizuwpexpert.com/bizuwpexpert/home/access/frontend/index.html"
+      ],
+      "uuids": [
+        "01a1e610-3582-724d-8ac0-835dd198e676"
       ]
     },
     "black-rice-b4c7.john-53d.workers.dev": {
@@ -1844,6 +1870,30 @@
         "01a1404c-d770-7296-a15a-54dd187f4754"
       ]
     },
+    "ecoology.com": {
+      "asn": "AS31898",
+      "confidence": "low",
+      "first_run": "2026-11-16T21:57:31Z",
+      "first_seen": "2026-11-16T14:53:57.175Z",
+      "hosts": [
+        "ecoology.com"
+      ],
+      "ip": "162.144.12.153",
+      "key": "ecoology.com",
+      "last_seen": "2026-11-16T14:53:57.175Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://ecoology.com/ftx/sqme5k-1794840830-bd3743a37f0c/"
+      ],
+      "uuids": [
+        "01a1e4d9-9e87-75b5-9c67-8b9d685bdf2b"
+      ]
+    },
     "edgeone.dev": {
       "asn": "AS139341",
       "confidence": "medium",
@@ -2205,7 +2255,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "flhealthlicense-tawny.vercel.app",
-      "last_seen": "2026-10-31T08:15:46.603Z",
+      "last_seen": "2026-11-16T11:48:55.503Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2358,7 +2408,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "floridahealth-gamma.vercel.app",
-      "last_seen": "2026-11-01T00:47:17.388Z",
+      "last_seen": "2026-11-16T12:00:18.516Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2894,7 +2944,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "healthlicense-blond.vercel.app",
-      "last_seen": "2026-11-15T09:48:47.079Z",
+      "last_seen": "2026-11-16T12:26:47.487Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2927,7 +2977,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicense-tau.vercel.app",
-      "last_seen": "2026-10-31T08:03:58.452Z",
+      "last_seen": "2026-11-16T12:27:44.400Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2960,7 +3010,7 @@
       ],
       "ip": "64.29.17.67",
       "key": "healthlicense-zeta.vercel.app",
-      "last_seen": "2026-10-31T01:37:08.080Z",
+      "last_seen": "2026-11-16T12:26:48.095Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3026,7 +3076,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicensefl-beta.vercel.app",
-      "last_seen": "2026-10-31T01:22:36.414Z",
+      "last_seen": "2026-11-16T11:43:57.971Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3120,7 +3170,7 @@
       ],
       "ip": "108.167.168.42",
       "key": "hipercromo.com.br",
-      "last_seen": "2026-10-30T15:29:23.880Z",
+      "last_seen": "2026-11-16T16:00:55.326Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3138,7 +3188,8 @@
         "01a1498f-380f-770f-8a2b-b1c6807ee2af",
         "01a14982-daab-77b9-8cf5-b431b0c471b9",
         "01a18c06-3871-7409-8b1e-1a94d654c443",
-        "01a18d6d-f823-740d-a675-e027c5fec143"
+        "01a18d6d-f823-740d-a675-e027c5fec143",
+        "01a1e516-e9dc-7186-a1fc-52cdb343dac2"
       ]
     },
     "hjp-s3-akf.s3.us-east-1.amazonaws.com": {
@@ -4267,6 +4318,30 @@
         "01a15d73-0403-759a-b09a-1c1281be449c"
       ]
     },
+    "muddy-tooth-cf7a.executive-document-reviews-access.workers.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-16T21:57:31Z",
+      "first_seen": "2026-11-16T21:43:21.630Z",
+      "hosts": [
+        "muddy-tooth-cf7a.executive-document-reviews-access.workers.dev"
+      ],
+      "ip": "188.114.96.3",
+      "key": "muddy-tooth-cf7a.executive-document-reviews-access.workers.dev",
+      "last_seen": "2026-11-16T21:43:21.630Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://muddy-tooth-cf7a.executive-document-reviews-access.workers.dev/"
+      ],
+      "uuids": [
+        "01a1e650-78a2-7174-ae98-ab7aba14f37e"
+      ]
+    },
     "mute-pond-c48c.consumerslpg.workers.dev": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -4577,6 +4652,30 @@
       "uuids": [
         "01a15775-13bc-74d1-91e1-81c9e4642312",
         "01a15771-5df0-7728-ac9c-02879c532f77"
+      ]
+    },
+    "nwrentalstores.com": {
+      "asn": "AS16713",
+      "confidence": "medium",
+      "first_run": "2026-11-16T21:57:31Z",
+      "first_seen": "2026-11-16T21:16:20.530Z",
+      "hosts": [
+        "nwrentalstores.com"
+      ],
+      "ip": "66.119.220.134",
+      "key": "nwrentalstores.com",
+      "last_seen": "2026-11-16T21:16:20.530Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://nwrentalstores.com/ni/"
+      ],
+      "uuids": [
+        "01a1e637-1386-705e-bf5d-d4c6dc357004"
       ]
     },
     "odd-band-75eb.madison-6e0.workers.dev": {
@@ -5745,6 +5844,52 @@
         "01a15ade-d492-77c1-b13b-8c5ee638820c"
       ]
     },
+    "storage.googleapis.com/adobedownloadingnow": {
+      "asn": "AS15169",
+      "confidence": "medium",
+      "first_run": "2026-11-16T21:57:31Z",
+      "first_seen": "2026-11-16T09:58:17.516Z",
+      "hosts": [],
+      "ip": "142.251.110.207",
+      "key": "storage.googleapis.com/adobedownloadingnow",
+      "last_seen": "2026-11-16T09:58:17.516Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "url",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "http://storage.googleapis.com/adobedownloadingnow/acrobatreader.html"
+      ],
+      "uuids": [
+        "01a1e3ca-c7f6-759c-adbd-5836d9f5a4a8"
+      ]
+    },
+    "storage.googleapis.com/downloaddocusigndownloadv3": {
+      "asn": "AS15169",
+      "confidence": "medium",
+      "first_run": "2026-11-16T21:57:31Z",
+      "first_seen": "2026-11-16T17:47:20.882Z",
+      "hosts": [],
+      "ip": "2a00:1450:4001:c15::cf",
+      "key": "storage.googleapis.com/downloaddocusigndownloadv3",
+      "last_seen": "2026-11-16T19:20:45.497Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "url",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://storage.googleapis.com/downloaddocusigndownloadv3/Docusign_Installer.html"
+      ],
+      "uuids": [
+        "01a1e5cd-e147-771b-900a-6d62acf51931",
+        "01a1e5c1-6bda-754d-b4dc-c127cb0db37e",
+        "01a1e578-6071-709f-9a50-0104e22fcd4d"
+      ]
+    },
     "storage.googleapis.com/new-inv-doc": {
       "asn": "AS396982",
       "confidence": "medium",
@@ -6761,8 +6906,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-16T06:19:28Z",
-    "last_success": "2026-11-16T06:19:28Z",
-    "window_hours": 13
+    "last_run": "2026-11-16T21:57:31Z",
+    "last_success": "2026-11-16T21:57:31Z",
+    "window_hours": 17
   }
 }
