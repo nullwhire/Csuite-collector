@@ -954,6 +954,30 @@
         "01a0fa22-1c81-729e-800a-ac88f5fe345a"
       ]
     },
+    "blogscape.vu": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-18T20:26:47Z",
+      "first_seen": "2026-11-18T12:24:45.853Z",
+      "hosts": [
+        "blogscape.vu"
+      ],
+      "ip": "172.67.162.197",
+      "key": "blogscape.vu",
+      "last_seen": "2026-11-18T12:24:45.853Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Just a moment",
+      "urls": [
+        "https://blogscape.vu/39397b9da221"
+      ],
+      "uuids": [
+        "01a1ee9d-c918-705b-afb1-6667680b966c"
+      ]
+    },
     "bluemountainmarble.com": {
       "asn": "AS55293",
       "confidence": "medium",
@@ -1080,6 +1104,30 @@
         "01a1c947-b915-71a1-87d0-5a64876d988f"
       ]
     },
+    "browardcountyccourtpdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-18T20:26:47Z",
+      "first_seen": "2026-11-18T09:38:12.266Z",
+      "hosts": [
+        "browardcountyccourtpdf-viewer.vercel.app"
+      ],
+      "ip": "216.198.79.131",
+      "key": "browardcountyccourtpdf-viewer.vercel.app",
+      "last_seen": "2026-11-18T09:38:12.266Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://browardcountyccourtpdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a1ee05-4398-762f-86b6-5e23c13d0435"
+      ]
+    },
     "browardcountypdf-viewer.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -1109,6 +1157,30 @@
         "01a1327b-7cd2-762a-a5d0-2ee221260c03",
         "01a13f33-d893-75eb-bf4b-3c8fb572d36d",
         "01a14ad5-cdd2-734e-a233-9a0bf0e16627"
+      ]
+    },
+    "browardcountyycourtpdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-18T20:26:47Z",
+      "first_seen": "2026-11-18T09:40:28.059Z",
+      "hosts": [
+        "browardcountyycourtpdf-viewer.vercel.app"
+      ],
+      "ip": "64.29.17.3",
+      "key": "browardcountyycourtpdf-viewer.vercel.app",
+      "last_seen": "2026-11-18T09:40:28.059Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://browardcountyycourtpdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a1ee07-51ed-7048-a799-baf55a72ba5d"
       ]
     },
     "browardcourtpdf-viewer.vercel.app": {
@@ -1141,6 +1213,30 @@
         "01a16030-3b45-70f9-958f-c06fb34fc0bd",
         "01a1634a-df4a-77db-bb16-a1c06e768540",
         "01a161e8-543d-74fc-89ec-c8fa5eaa74db"
+      ]
+    },
+    "browarddcounttycourtpdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-18T20:26:47Z",
+      "first_seen": "2026-11-18T09:41:41.015Z",
+      "hosts": [
+        "browarddcounttycourtpdf-viewer.vercel.app"
+      ],
+      "ip": "216.198.79.195",
+      "key": "browarddcounttycourtpdf-viewer.vercel.app",
+      "last_seen": "2026-11-18T09:41:41.015Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://browarddcounttycourtpdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a1ee08-6ba4-7404-9494-57b3b16fbfe2"
       ]
     },
     "browardpdf-viewer.vercel.app": {
@@ -3517,7 +3613,7 @@
       ],
       "ip": "50.116.87.119",
       "key": "instalprime.com.br",
-      "last_seen": "2026-11-17T16:31:31.131Z",
+      "last_seen": "2026-11-18T19:10:07.213Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -3528,7 +3624,8 @@
         "https://instalprime.com.br/typ.html"
       ],
       "uuids": [
-        "01a1ea59-3325-72fe-baca-07d010e0e29c"
+        "01a1ea59-3325-72fe-baca-07d010e0e29c",
+        "01a1f010-e086-7241-ade9-9c9f2d382e9b"
       ]
     },
     "ivegx.click": {
@@ -4535,7 +4632,7 @@
       ],
       "ip": "104.21.79.240",
       "key": "muyga.click",
-      "last_seen": "2026-11-17T10:05:37.462Z",
+      "last_seen": "2026-11-18T20:01:59.463Z",
       "queries": [
         "Q3a_adobe_html"
       ],
@@ -4546,7 +4643,8 @@
         "https://muyga.click/check/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a1e8f7-d859-774f-b9ec-37f36981319e"
+        "01a1e8f7-d859-774f-b9ec-37f36981319e",
+        "01a1f040-61af-72ac-b82f-5c6723f4e3ee"
       ]
     },
     "mx-flow.de": {
@@ -5181,7 +5279,7 @@
       ],
       "ip": "167.250.5.47",
       "key": "piedrasdecolon.com.ar",
-      "last_seen": "2026-11-15T10:39:00.630Z",
+      "last_seen": "2026-11-18T08:50:10.683Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -5189,7 +5287,8 @@
       "title": "e-sign",
       "urls": [
         "https://piedrasdecolon.com.ar/docusign",
-        "https://piedrasdecolon.com.ar/docusign/DAM_Trade_Group_May-Contract.pdf"
+        "https://piedrasdecolon.com.ar/docusign/DAM_Trade_Group_May-Contract.pdf",
+        "https://piedrasdecolon.com.ar/docusign/dam_trade_group_may-contract.pdf"
       ],
       "uuids": [
         "01a0fa26-8d70-712e-8c9d-9b4cbe542b61",
@@ -7115,8 +7214,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-18T07:19:53Z",
-    "last_success": "2026-11-18T07:19:53Z",
-    "window_hours": 12
+    "last_run": "2026-11-18T20:26:47Z",
+    "last_success": "2026-11-18T20:26:47Z",
+    "window_hours": 15
   }
 }
