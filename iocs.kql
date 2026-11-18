@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-11-17T20:50:34Z by collect.py
+// CSuite candidate IOCs, generated 2026-11-18T07:19:53Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 263 | ips: 0 | urls: 319
+// domains: 263 | ips: 0 | urls: 320
 let csuite_domains = dynamic([
     "06webmeet.us",
     "1yz.com",
@@ -562,6 +562,7 @@ let csuite_urls = dynamic([
     "https://weathered-boat-5061.madison-6e0.workers.dev/",
     "https://whisperingjessie.com/ftx/8phj1r-1792557977-13f076837966/",
     "https://whisperingjessie.com/ftx/om8ed4-1790761233-641f025b68d2/",
+    "https://windowsmayopentodaynews.us-sea-1.linodeobjects.com/MTQ4MTQ0MDM3OS4xNzk0OTQwNTQ4/adobe.html",
     "https://wnep.vercel.app/",
     "https://www.acotecmetais.com.br/adobe/Adobe_Installer.html",
     "https://www.aligra.net/cg/",
