@@ -423,7 +423,7 @@
       ],
       "ip": "204.11.59.228",
       "key": "airconalgarve.com",
-      "last_seen": "2026-10-21T04:34:49.639Z",
+      "last_seen": "2026-11-19T05:35:56.283Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -431,10 +431,12 @@
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://airconalgarve.com/ftx/ex1ygo-1792557274-3057a9d82bed/"
+        "https://airconalgarve.com/ftx/ex1ygo-1792557274-3057a9d82bed/",
+        "https://airconalgarve.com/ftx/3rzgkh-1795066522-ca8e91149bea/"
       ],
       "uuids": [
-        "01a15cbd-4b2a-71fa-8dd1-821a68b65ede"
+        "01a15cbd-4b2a-71fa-8dd1-821a68b65ede",
+        "01a1f24d-64ce-7092-97ee-2fdd1035b78c"
       ]
     },
     "aligra.net": {
@@ -548,7 +550,7 @@
       ],
       "ip": "162.241.3.25",
       "key": "amepiequipamentos.com.br",
-      "last_seen": "2026-10-21T04:34:20.482Z",
+      "last_seen": "2026-11-19T05:36:14.316Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -556,10 +558,12 @@
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://amepiequipamentos.com.br/ftx/u3l6yv-1792557253-10e98fae77d6/"
+        "https://amepiequipamentos.com.br/ftx/u3l6yv-1792557253-10e98fae77d6/",
+        "https://amepiequipamentos.com.br/ftx/jkt8h2-1795066565-e0526a18d5ba/"
       ],
       "uuids": [
-        "01a15cbc-fa5b-73fe-8401-b8eded5674f8"
+        "01a15cbc-fa5b-73fe-8401-b8eded5674f8",
+        "01a1f24e-1039-763b-afb2-554d68f6831c"
       ]
     },
     "amjscreenprinting.com": {
@@ -658,7 +662,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-16T07:19:49.280Z",
+      "last_seen": "2026-11-19T01:51:21.891Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -679,7 +683,8 @@
         "01a1bdc9-a533-7775-9707-294847093cf9",
         "01a1c363-c2e5-716e-9732-766c40d0ba99",
         "01a1ca7f-9ab5-77ef-aab1-4d80d7761699",
-        "01a1e339-cfd7-74e3-9360-42e4ce2865bb"
+        "01a1e339-cfd7-74e3-9360-42e4ce2865bb",
+        "01a1f180-3e10-7070-b811-780461a77aed"
       ]
     },
     "aral-latam.com": {
@@ -820,7 +825,7 @@
       ],
       "ip": "205.209.103.115",
       "key": "beservicesit.mx",
-      "last_seen": "2026-10-21T04:35:21.254Z",
+      "last_seen": "2026-11-19T05:39:09.894Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -828,10 +833,12 @@
       "status": "new",
       "title": "Document Verification – DocuSign (Lab Demo)",
       "urls": [
-        "https://beservicesit.mx/ftx/3u4zm7-1792557301-9be52775744d/"
+        "https://beservicesit.mx/ftx/3u4zm7-1792557301-9be52775744d/",
+        "https://beservicesit.mx/ftx/lgbs9q-1795066743-0e78344cdec8/"
       ],
       "uuids": [
-        "01a15cbd-bb5d-712b-8485-1e0c34cf1f01"
+        "01a15cbd-bb5d-712b-8485-1e0c34cf1f01",
+        "01a1f250-c875-7508-b4dc-915159ccc282"
       ]
     },
     "bestcareindia.com": {
@@ -844,7 +851,7 @@
       ],
       "ip": "94.229.208.55",
       "key": "bestcareindia.com",
-      "last_seen": "2026-10-21T04:35:11.833Z",
+      "last_seen": "2026-11-19T05:38:47.710Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -852,10 +859,12 @@
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://bestcareindia.com/ftx/945zlf-1792557298-c276453cf034/"
+        "https://bestcareindia.com/ftx/945zlf-1792557298-c276453cf034/",
+        "https://bestcareindia.com/ftx/lv8kwo-1795066723-b725ce862410/"
       ],
       "uuids": [
-        "01a15cbd-abe8-7176-97d3-457b460d6c17"
+        "01a15cbd-abe8-7176-97d3-457b460d6c17",
+        "01a1f250-7150-7268-83ff-d291e7eb5dc2"
       ]
     },
     "bgsi.ca": {
@@ -1104,6 +1113,30 @@
         "01a1c947-b915-71a1-87d0-5a64876d988f"
       ]
     },
+    "browacountycourtpdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-19T07:17:17Z",
+      "first_seen": "2026-11-18T21:10:10.678Z",
+      "hosts": [
+        "browacountycourtpdf-viewer.vercel.app"
+      ],
+      "ip": "64.29.17.67",
+      "key": "browacountycourtpdf-viewer.vercel.app",
+      "last_seen": "2026-11-18T21:10:10.678Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://browacountycourtpdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a1f07e-cd03-70a2-8fff-1185823bb589"
+      ]
+    },
     "browardcountyccourtpdf-viewer.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -1114,7 +1147,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "browardcountyccourtpdf-viewer.vercel.app",
-      "last_seen": "2026-11-18T09:38:12.266Z",
+      "last_seen": "2026-11-19T01:04:26.602Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1125,7 +1158,8 @@
         "https://browardcountyccourtpdf-viewer.vercel.app/"
       ],
       "uuids": [
-        "01a1ee05-4398-762f-86b6-5e23c13d0435"
+        "01a1ee05-4398-762f-86b6-5e23c13d0435",
+        "01a1f155-4781-7186-ac4d-3e194a2d9552"
       ]
     },
     "browardcountypdf-viewer.vercel.app": {
@@ -1169,7 +1203,7 @@
       ],
       "ip": "64.29.17.3",
       "key": "browardcountyycourtpdf-viewer.vercel.app",
-      "last_seen": "2026-11-18T09:40:28.059Z",
+      "last_seen": "2026-11-19T01:04:55.837Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1180,7 +1214,8 @@
         "https://browardcountyycourtpdf-viewer.vercel.app/"
       ],
       "uuids": [
-        "01a1ee07-51ed-7048-a799-baf55a72ba5d"
+        "01a1ee07-51ed-7048-a799-baf55a72ba5d",
+        "01a1f155-a545-71fa-9662-ab3d3346f059"
       ]
     },
     "browardcourtpdf-viewer.vercel.app": {
@@ -1225,7 +1260,7 @@
       ],
       "ip": "216.198.79.195",
       "key": "browarddcounttycourtpdf-viewer.vercel.app",
-      "last_seen": "2026-11-18T09:41:41.015Z",
+      "last_seen": "2026-11-19T01:04:31.954Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1236,7 +1271,8 @@
         "https://browarddcounttycourtpdf-viewer.vercel.app/"
       ],
       "uuids": [
-        "01a1ee08-6ba4-7404-9494-57b3b16fbfe2"
+        "01a1ee08-6ba4-7404-9494-57b3b16fbfe2",
+        "01a1f155-5b8c-7169-ad5f-7134aad0428c"
       ]
     },
     "browardpdf-viewer.vercel.app": {
@@ -1280,7 +1316,7 @@
       ],
       "ip": "162.240.0.242",
       "key": "caminospordescubrir.cl",
-      "last_seen": "2026-10-21T04:35:55.649Z",
+      "last_seen": "2026-11-19T05:43:54.623Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -1288,10 +1324,12 @@
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://caminospordescubrir.cl/ftx/ujopnr-1792557341-2f1dbd1fd071/"
+        "https://caminospordescubrir.cl/ftx/ujopnr-1792557341-2f1dbd1fd071/",
+        "https://caminospordescubrir.cl/ftx/gnvhdc-1795067027-2f3355ab929a/"
       ],
       "uuids": [
-        "01a15cbe-6899-75ac-a566-24d209106c71"
+        "01a15cbe-6899-75ac-a566-24d209106c71",
+        "01a1f255-1d12-72ab-8578-86b76e633505"
       ]
     },
     "cardmium.com": {
@@ -1573,7 +1611,7 @@
       ],
       "ip": "162.240.99.68",
       "key": "cursos-zensara.com",
-      "last_seen": "2026-11-18T06:10:46.256Z",
+      "last_seen": "2026-11-19T06:50:49.369Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1588,7 +1626,9 @@
         "01a1e7d4-2c2b-75a4-a7e5-a0ab4be1842a",
         "01a1e708-8575-7360-99bd-08f02ca402e8",
         "01a1ed47-480e-71c9-9d80-054a06674008",
-        "01a1ec3b-287d-7293-86e1-b03c14092b3c"
+        "01a1ec3b-287d-7293-86e1-b03c14092b3c",
+        "01a1f292-1816-7157-b08c-e6f641a4ba6a",
+        "01a1f09c-ed76-7183-8fbe-2e0bcd1ff1c9"
       ]
     },
     "cvouab.com": {
@@ -2100,11 +2140,12 @@
       "first_run": "2026-10-27T12:04:40Z",
       "first_seen": "2026-10-27T09:28:53.330Z",
       "hosts": [
-        "kind-sapphire-ht2ldx3d-dpyhvn5f02w3.edgeone.dev"
+        "kind-sapphire-ht2ldx3d-dpyhvn5f02w3.edgeone.dev",
+        "operational-sapphire-shvjdgvh-dp8kqkk8fook.edgeone.dev"
       ],
       "ip": "43.174.246.29",
       "key": "edgeone.dev",
-      "last_seen": "2026-10-27T09:28:53.330Z",
+      "last_seen": "2026-11-19T05:51:47.130Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2112,10 +2153,12 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://kind-sapphire-ht2ldx3d-dpyhvn5f02w3.edgeone.dev/"
+        "https://kind-sapphire-ht2ldx3d-dpyhvn5f02w3.edgeone.dev/",
+        "https://operational-sapphire-shvjdgvh-dp8kqkk8fook.edgeone.dev/"
       ],
       "uuids": [
-        "01a17cb0-c0f8-707a-86a4-43f57d623e4e"
+        "01a17cb0-c0f8-707a-86a4-43f57d623e4e",
+        "01a1f25c-572e-73be-b2ac-a7664a62dcfe"
       ]
     },
     "edynor.com": {
@@ -2862,7 +2905,7 @@
       ],
       "ip": "172.67.164.84",
       "key": "gigarush.com",
-      "last_seen": "2026-11-08T01:29:21.474Z",
+      "last_seen": "2026-11-19T06:01:04.064Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -2873,13 +2916,15 @@
         "https://gigarush.com/ftx/y69rj8-1792557501-67f3d4c3fb2d/",
         "https://gigarush.com/ftx/y5z9xd-1793150476-6638097d026f/",
         "https://gigarush.com/ftx/mz0g4c-1793323849-6e345416c637/",
-        "https://gigarush.com/ftx/y52z6q-1794101351-34da16e5045f/"
+        "https://gigarush.com/ftx/y52z6q-1794101351-34da16e5045f/",
+        "https://gigarush.com/ftx/hcqtge-1795068055-8a669352b93d/"
       ],
       "uuids": [
         "01a15cc0-cb13-75f1-bf44-5a443ef8914c",
         "01a18018-de85-776d-9cd6-266433fa786c",
         "01a18a6e-56a0-7251-89fe-20bf5fc1acc9",
-        "01a1b8c6-0f76-70d8-966a-efd3e20a96ec"
+        "01a1b8c6-0f76-70d8-966a-efd3e20a96ec",
+        "01a1f264-cdc2-729d-b3ae-6f4b79286ced"
       ]
     },
     "gine-gray.vercel.app": {
@@ -4395,7 +4440,7 @@
       ],
       "ip": "205.251.137.171",
       "key": "meraksoul.com",
-      "last_seen": "2026-11-15T08:14:06.537Z",
+      "last_seen": "2026-11-19T01:34:35.799Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -4415,7 +4460,8 @@
         "01a1ae6c-1fb4-74f9-9eee-a3f8f4fedb2e",
         "01a1b2db-e62d-77dc-b927-2797bbfd74d2",
         "01a1b60b-cc86-770b-a83f-98b09a9a77dc",
-        "01a1de45-309d-706e-b93b-0dd2adb4c4bd"
+        "01a1de45-309d-706e-b93b-0dd2adb4c4bd",
+        "01a1f170-de4b-76eb-875b-aad89df72789"
       ]
     },
     "met.team": {
@@ -4478,7 +4524,7 @@
       ],
       "ip": "208.85.7.205",
       "key": "mncacompany.com",
-      "last_seen": "2026-10-21T04:40:29.555Z",
+      "last_seen": "2026-11-19T06:45:48.493Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -4487,11 +4533,13 @@
       "title": "e-sign",
       "urls": [
         "https://mncacompany.com/ftx/iu1mv6-1792293261-6cd6cc03c2b2/",
-        "https://mncacompany.com/ftx/rvify3-1792557620-fab9b9a94d0f/"
+        "https://mncacompany.com/ftx/rvify3-1792557620-fab9b9a94d0f/",
+        "https://mncacompany.com/ftx/6zlo8w-1795070732-da3494602017/"
       ],
       "uuids": [
         "01a14d00-d235-76eb-8920-6c3741938719",
-        "01a15cc2-9d21-705d-b356-b74b1f382ae8"
+        "01a15cc2-9d21-705d-b356-b74b1f382ae8",
+        "01a1f28d-a5a0-7668-8384-add98ead9a14"
       ]
     },
     "mohajonbd.com": {
@@ -5113,7 +5161,7 @@
       ],
       "ip": "94.229.208.55",
       "key": "padmaelectricals.com",
-      "last_seen": "2026-10-21T04:26:37.278Z",
+      "last_seen": "2026-11-19T05:25:41.601Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -5121,10 +5169,12 @@
       "status": "new",
       "title": "e-sign",
       "urls": [
-        "https://padmaelectricals.com/ftx/q5i7gf-1792556790-ca67cddae9fe/"
+        "https://padmaelectricals.com/ftx/q5i7gf-1792556790-ca67cddae9fe/",
+        "https://padmaelectricals.com/ftx/3miw9k-1795065934-43527ace11e7/"
       ],
       "uuids": [
-        "01a15cb5-e617-7460-a0f4-098b75ad6bad"
+        "01a15cb5-e617-7460-a0f4-098b75ad6bad",
+        "01a1f244-6ed4-7679-9704-665e68772194"
       ]
     },
     "pageview.es": {
@@ -7214,8 +7264,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-18T20:26:47Z",
-    "last_success": "2026-11-18T20:26:47Z",
-    "window_hours": 15
+    "last_run": "2026-11-19T07:17:17Z",
+    "last_success": "2026-11-19T07:17:17Z",
+    "window_hours": 12
   }
 }
