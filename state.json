@@ -2587,7 +2587,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "flhealthlicense-three.vercel.app",
-      "last_seen": "2026-11-17T11:57:48.518Z",
+      "last_seen": "2026-11-19T21:38:57.352Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2605,7 +2605,8 @@
         "01a18850-ef20-7099-96eb-98bfbac7bc55",
         "01a187c5-03ea-733b-bd4b-b1ee038988eb",
         "01a18a8b-d57c-7272-8d88-9b6387bc93f0",
-        "01a1e95e-ba0c-73ef-8fa5-50acf92fe8a3"
+        "01a1e95e-ba0c-73ef-8fa5-50acf92fe8a3",
+        "01a1f5bf-4a93-70ca-9e72-ed2e10cbdb6f"
       ]
     },
     "flhealthlicense.vercel.app": {
@@ -3811,7 +3812,7 @@
       ],
       "ip": "186.250.244.98",
       "key": "jornaldapraia.net",
-      "last_seen": "2026-11-12T23:44:23.723Z",
+      "last_seen": "2026-11-20T04:06:16.272Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -3831,7 +3832,8 @@
         "01a1ca37-e6ac-719a-a7b8-d63a263c14cf",
         "01a1cd20-511e-730c-ba95-d889fef83f90",
         "01a1cd55-6b76-7258-8ae8-3fe1c7543da1",
-        "01a1d225-d815-73aa-9d75-78d356f47202"
+        "01a1d225-d815-73aa-9d75-78d356f47202",
+        "01a1f722-0bfd-76eb-a8a5-7607239f85fe"
       ]
     },
     "junailperfumes.com": {
@@ -3986,6 +3988,29 @@
         "01a1c81f-7730-71bf-9e1e-05c32eff82cf",
         "01a1ca28-a452-77bf-abe3-d41b22e1aa6e",
         "01a1cb13-0f02-7038-aeb1-2fc25cd39219"
+      ]
+    },
+    "kunishe.com": {
+      "asn": "AS26496",
+      "confidence": "medium",
+      "first_run": "2026-11-20T07:06:10Z",
+      "first_seen": "2026-11-20T03:49:21.589Z",
+      "hosts": [
+        "kunishe.com"
+      ],
+      "ip": "184.168.115.191",
+      "key": "kunishe.com",
+      "last_seen": "2026-11-20T03:49:21.589Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "urls": [
+        "https://kunishe.com/cic/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1f712-a090-77c8-bc34-30a70b3af650"
       ]
     },
     "kwestventures.com": {
@@ -5389,7 +5414,7 @@
       ],
       "ip": "167.250.5.47",
       "key": "piedrasdecolon.com.ar",
-      "last_seen": "2026-11-18T08:50:10.683Z",
+      "last_seen": "2026-11-19T23:50:19.911Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -5398,7 +5423,9 @@
       "urls": [
         "https://piedrasdecolon.com.ar/docusign",
         "https://piedrasdecolon.com.ar/docusign/DAM_Trade_Group_May-Contract.pdf",
-        "https://piedrasdecolon.com.ar/docusign/dam_trade_group_may-contract.pdf"
+        "https://piedrasdecolon.com.ar/docusign/dam_trade_group_may-contract.pdf",
+        "https://piedrasdecolon.com.ar/docusign/dam_trade_group_may-contract.pdf/",
+        "https://piedrasdecolon.com.ar/docusign/DAM_Trade_Group_May-Contract.pdf/"
       ],
       "uuids": [
         "01a0fa26-8d70-712e-8c9d-9b4cbe542b61",
@@ -7326,8 +7353,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-19T20:29:28Z",
-    "last_success": "2026-11-19T20:29:28Z",
-    "window_hours": 15
+    "last_run": "2026-11-20T07:06:10Z",
+    "last_success": "2026-11-20T07:06:10Z",
+    "window_hours": 12
   }
 }
