@@ -625,7 +625,7 @@
       ],
       "ip": "107.180.112.112",
       "key": "amnesiacuracao.com",
-      "last_seen": "2026-11-13T05:55:52.788Z",
+      "last_seen": "2026-11-20T19:22:22.723Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1148,7 +1148,7 @@
       ],
       "ip": "64.29.17.67",
       "key": "browacountycourtpdf-viewer.vercel.app",
-      "last_seen": "2026-11-19T13:04:10.235Z",
+      "last_seen": "2026-11-20T08:34:20.729Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1160,7 +1160,8 @@
       ],
       "uuids": [
         "01a1f07e-cd03-70a2-8fff-1185823bb589",
-        "01a1f3e8-2d5b-70b8-8d4f-c8e033eae668"
+        "01a1f3e8-2d5b-70b8-8d4f-c8e033eae668",
+        "01a1f817-6c10-7289-b095-eea9d49f2b6d"
       ]
     },
     "browardcountyccourtpdf-viewer.vercel.app": {
@@ -1501,7 +1502,7 @@
       ],
       "ip": "198.251.89.30",
       "key": "conatem.com",
-      "last_seen": "2026-11-17T12:11:13.987Z",
+      "last_seen": "2026-11-20T07:34:19.290Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1515,7 +1516,8 @@
       "uuids": [
         "01a1e7c5-11bb-754d-afae-17da2bfd5845",
         "01a1e704-dd27-7548-8aab-1a56fc1c8949",
-        "01a1e96a-fe38-718d-8a89-83e09a47d8fa"
+        "01a1e96a-fe38-718d-8a89-83e09a47d8fa",
+        "01a1f7e0-8f1e-743b-8cfe-3c9791a8dd84"
       ]
     },
     "contract-quotation89573.s3.us-east-2.amazonaws.com": {
@@ -1777,7 +1779,7 @@
       ],
       "ip": "198.251.84.236",
       "key": "dicksine.info",
-      "last_seen": "2026-11-19T18:51:00.221Z",
+      "last_seen": "2026-11-20T08:18:02.741Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1790,7 +1792,8 @@
       "uuids": [
         "01a13fb0-e606-776b-8413-240383f45a36",
         "01a1f525-b8c0-75bc-b457-7f4cc0ea0d96",
-        "01a1f3e5-2bf4-76e4-9c58-547acb32cc88"
+        "01a1f3e5-2bf4-76e4-9c58-547acb32cc88",
+        "01a1f808-9427-737b-afe7-30daf602922b"
       ]
     },
     "digitaloceanspaces.com": {
@@ -1801,11 +1804,12 @@
       "hosts": [
         "redirectsadss.sfo3.digitaloceanspaces.com",
         "redirectsad.sfo3.digitaloceanspaces.com",
-        "hireredirect.sfo3.digitaloceanspaces.com"
+        "hireredirect.sfo3.digitaloceanspaces.com",
+        "dsiudbdsdisubsdstore.ams3.digitaloceanspaces.com"
       ],
       "ip": "138.68.34.161",
       "key": "digitaloceanspaces.com",
-      "last_seen": "2026-11-16T22:56:36.074Z",
+      "last_seen": "2026-11-20T11:54:12.794Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1816,7 +1820,8 @@
       "urls": [
         "https://redirectsadss.sfo3.digitaloceanspaces.com/Adobe_Installer.html",
         "https://redirectsad.sfo3.digitaloceanspaces.com/Adobe_Installer.html",
-        "https://hireredirect.sfo3.digitaloceanspaces.com/Adobe_Installer.html"
+        "https://hireredirect.sfo3.digitaloceanspaces.com/Adobe_Installer.html",
+        "https://dsiudbdsdisubsdstore.ams3.digitaloceanspaces.com/sharepoint38793.html"
       ],
       "uuids": [
         "01a1cf2b-96f5-7162-9dbb-e2d20a6897b6",
@@ -1825,7 +1830,8 @@
         "01a1cd79-2a8e-77cc-af7d-ef99a30d8152",
         "01a1d794-f28c-7182-9c24-bbcc91d59184",
         "01a1dcba-b561-76cd-ac2b-ebe11da3c860",
-        "01a1e693-82f9-71ab-b9e7-6f73618fdabf"
+        "01a1e693-82f9-71ab-b9e7-6f73618fdabf",
+        "01a1f8ce-6577-77c3-97e3-1b6a9e8f6746"
       ]
     },
     "diversicomm.com": {
@@ -3691,7 +3697,7 @@
       ],
       "ip": "50.116.87.119",
       "key": "instalprime.com.br",
-      "last_seen": "2026-11-19T08:48:57.069Z",
+      "last_seen": "2026-11-20T07:18:35.402Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -3704,7 +3710,8 @@
       "uuids": [
         "01a1ea59-3325-72fe-baca-07d010e0e29c",
         "01a1f010-e086-7241-ade9-9c9f2d382e9b",
-        "01a1f2fe-8b9d-74ce-b70a-d0dc3eb5c1a8"
+        "01a1f2fe-8b9d-74ce-b70a-d0dc3eb5c1a8",
+        "01a1f7d2-0672-749e-ab85-b8ad43ed9a86"
       ]
     },
     "ivegx.click": {
@@ -3787,7 +3794,7 @@
       ],
       "ip": "104.21.23.75",
       "key": "jlswf.click",
-      "last_seen": "2026-11-19T15:05:15.097Z",
+      "last_seen": "2026-11-20T12:05:28.582Z",
       "queries": [
         "Q3a_adobe_html"
       ],
@@ -3798,7 +3805,8 @@
         "https://check.jlswf.click/adobe/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a1f456-c812-725c-b586-c710dc268fbf"
+        "01a1f456-c812-725c-b586-c710dc268fbf",
+        "01a1f8d8-d7c5-704a-9cf2-9e0c936047f5"
       ]
     },
     "jornaldapraia.net": {
@@ -4692,7 +4700,7 @@
       ],
       "ip": "45.77.199.242",
       "key": "morronetours.com",
-      "last_seen": "2026-10-21T07:53:23.565Z",
+      "last_seen": "2026-11-20T16:10:38.591Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -4701,10 +4709,12 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://morronetours.com/Adobe_Installer.html"
+        "https://morronetours.com/Adobe_Installer.html",
+        "https://morronetours.com/cgi-sys/suspendedpage.cgi"
       ],
       "uuids": [
-        "01a15d73-0403-759a-b09a-1c1281be449c"
+        "01a15d73-0403-759a-b09a-1c1281be449c",
+        "01a1f9b9-450b-7658-868f-46e42acc95d7"
       ]
     },
     "muddy-tooth-cf7a.executive-document-reviews-access.workers.dev": {
@@ -4837,6 +4847,30 @@
       "uuids": [
         "01a1c27a-14e5-71b9-80d7-fbd1dcc77ddd",
         "01a1c279-d9e0-7072-a366-b54e7de07cc0"
+      ]
+    },
+    "nasa.gov": {
+      "asn": "AS2635",
+      "confidence": "medium",
+      "first_run": "2026-11-20T20:06:44Z",
+      "first_seen": "2026-11-20T15:39:35.187Z",
+      "hosts": [
+        "www.nasa.gov"
+      ],
+      "ip": "2a04:fa87:fffd::c000:426c",
+      "key": "nasa.gov",
+      "last_seen": "2026-11-20T15:39:35.187Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "NASA",
+      "urls": [
+        "https://www.nasa.gov/"
+      ],
+      "uuids": [
+        "01a1f99c-6e9b-747b-91a9-2e1f10b14389"
       ]
     },
     "nativafronteira.com": {
@@ -5041,6 +5075,31 @@
         "01a0f682-f260-7485-b0eb-07619737e312",
         "01a0f8a0-e60c-732b-9d7b-507ed12416bb",
         "01a0f85d-98f3-72cd-9689-6c99e083eb8a"
+      ]
+    },
+    "noiseiq.ink": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-11-20T20:06:44Z",
+      "first_seen": "2026-11-20T16:28:10.539Z",
+      "hosts": [
+        "noiseiq.ink"
+      ],
+      "ip": "66.116.239.171",
+      "key": "noiseiq.ink",
+      "last_seen": "2026-11-20T16:28:10.539Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://noiseiq.ink/pool.html"
+      ],
+      "uuids": [
+        "01a1f9c8-f3a8-70ed-a01e-3b8ec8a2d6e3"
       ]
     },
     "noisy-morning-0c4b.orders-bed.workers.dev": {
@@ -5504,7 +5563,7 @@
       ],
       "ip": "66.225.221.122",
       "key": "pomarosahotel.com",
-      "last_seen": "2026-11-13T05:55:21.041Z",
+      "last_seen": "2026-11-20T19:21:55.934Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6098,7 +6157,7 @@
       ],
       "ip": "97.74.91.240",
       "key": "sdzgranitephils.com",
-      "last_seen": "2026-10-21T00:21:11.618Z",
+      "last_seen": "2026-11-20T16:17:03.592Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6110,7 +6169,8 @@
         "https://sdzgranitephils.com/xy/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a15bd5-3afc-744d-b413-c5924e4afff0"
+        "01a15bd5-3afc-744d-b413-c5924e4afff0",
+        "01a1f9bf-2813-760c-8bee-14ced946ac4e"
       ]
     },
     "shrishyamsevasansthan.com": {
@@ -7029,6 +7089,32 @@
         "01a15cc8-04b7-71f5-99fc-4a315562ef1b"
       ]
     },
+    "winnersvoyagetours.com": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-11-20T20:06:44Z",
+      "first_seen": "2026-11-20T13:06:08.622Z",
+      "hosts": [
+        "winnersvoyagetours.com"
+      ],
+      "ip": "162.214.159.182",
+      "key": "winnersvoyagetours.com",
+      "last_seen": "2026-11-20T19:28:09.490Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://winnersvoyagetours.com/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1fa6e-1815-761d-ad97-5334e892b8bc",
+        "01a1f910-5435-704c-8ce4-4493bfb2ad65"
+      ]
+    },
     "wjsassoc.com": {
       "asn": "AS13335",
       "confidence": "low",
@@ -7353,8 +7439,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-20T07:06:10Z",
-    "last_success": "2026-11-20T07:06:10Z",
-    "window_hours": 12
+    "last_run": "2026-11-20T20:06:44Z",
+    "last_success": "2026-11-20T20:06:44Z",
+    "window_hours": 15
   }
 }
