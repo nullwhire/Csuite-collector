@@ -476,7 +476,7 @@
       ],
       "ip": "192.185.92.83",
       "key": "alliceteaspot.com",
-      "last_seen": "2026-11-06T20:14:50.590Z",
+      "last_seen": "2026-11-21T10:46:04.159Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -488,7 +488,8 @@
         "https://alliceteaspot.com/secure/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a1b27f-b774-708b-b5ac-46548c8a69f7"
+        "01a1b27f-b774-708b-b5ac-46548c8a69f7",
+        "01a1fdb6-7dfd-70e2-bb89-b30d826ae5ca"
       ]
     },
     "allmediatechgrpla.help": {
@@ -896,6 +897,30 @@
         "01a1f250-7150-7268-83ff-d291e7eb5dc2"
       ]
     },
+    "bf-nak.com": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-21T19:09:22Z",
+      "first_seen": "2026-11-21T10:44:51.347Z",
+      "hosts": [
+        "legacyknights.bf-nak.com"
+      ],
+      "ip": "104.21.53.146",
+      "key": "bf-nak.com",
+      "last_seen": "2026-11-21T10:44:51.347Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "Suspected Phishing | Cloudflare",
+      "urls": [
+        "https://legacyknights.bf-nak.com/acrobat/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1fdb4-e745-738e-babe-0da5b4ca7290"
+      ]
+    },
     "bgsi.ca": {
       "asn": "AS32613",
       "confidence": "medium",
@@ -1259,7 +1284,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "browardcourtpdf-viewer.vercel.app",
-      "last_seen": "2026-11-07T02:31:45.146Z",
+      "last_seen": "2026-11-21T11:47:20.695Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1336,6 +1361,51 @@
         "01a13220-4d22-707f-acf0-8d1b2950d7fa",
         "01a13f25-9471-751e-93b7-cf7f5de825fc",
         "01a14ad5-e90e-7513-ad40-131e5db158e1"
+      ]
+    },
+    "buyandsellaz.net": {
+      "confidence": "medium",
+      "first_run": "2026-11-21T19:09:22Z",
+      "first_seen": "2026-11-21T10:44:51.807Z",
+      "hosts": [
+        "buyandsellaz.net"
+      ],
+      "key": "buyandsellaz.net",
+      "last_seen": "2026-11-21T10:44:51.807Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "urls": [
+        "http://buyandsellaz.net/access/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1fdb5-0645-760f-8b88-05e3cb27248b"
+      ]
+    },
+    "cadhco.com": {
+      "asn": "AS47583",
+      "confidence": "medium",
+      "first_run": "2026-11-21T19:09:22Z",
+      "first_seen": "2026-11-21T16:05:50.980Z",
+      "hosts": [
+        "cadhco.com"
+      ],
+      "ip": "31.170.162.31",
+      "key": "cadhco.com",
+      "last_seen": "2026-11-21T16:05:50.980Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "9WOLF — Digital Marketplace",
+      "urls": [
+        "https://cadhco.com/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1fedb-4110-77b7-b037-1fe5b0e866b0"
       ]
     },
     "caminospordescubrir.cl": {
@@ -1497,6 +1567,32 @@
         "01a1905f-25b5-76c3-9ba9-3e6668ec9364"
       ]
     },
+    "commerce-business-en-cloud-sign-document-preview.surge.sh": {
+      "asn": "AS14061",
+      "confidence": "low",
+      "first_run": "2026-11-21T19:09:22Z",
+      "first_seen": "2026-11-21T10:26:10.831Z",
+      "hosts": [
+        "commerce-business-en-cloud-sign-document-preview.surge.sh"
+      ],
+      "ip": "188.166.132.94",
+      "key": "commerce-business-en-cloud-sign-document-preview.surge.sh",
+      "last_seen": "2026-11-21T10:31:20.468Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://commerce-business-en-cloud-sign-document-preview.surge.sh/"
+      ],
+      "uuids": [
+        "01a1fda9-04e0-70af-9372-743c7c4b7704",
+        "01a1fda8-b871-725a-a458-522637df3180",
+        "01a1fda4-490e-700d-bf02-db0218443689"
+      ]
+    },
     "conatem.com": {
       "asn": "AS53667",
       "confidence": "medium",
@@ -1611,7 +1707,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "csrdrywallss.vercel.app",
-      "last_seen": "2026-11-10T12:54:15.729Z",
+      "last_seen": "2026-11-21T19:03:14.507Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1918,6 +2014,30 @@
         "01a186b4-de54-77bd-9a87-edc2380de8fc"
       ]
     },
+    "docprivates.shop": {
+      "asn": "AS140947",
+      "confidence": "medium",
+      "first_run": "2026-11-21T19:09:22Z",
+      "first_seen": "2026-11-21T10:46:26.848Z",
+      "hosts": [
+        "docprivates.shop"
+      ],
+      "ip": "103.153.183.114",
+      "key": "docprivates.shop",
+      "last_seen": "2026-11-21T10:46:26.848Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "http://docprivates.shop/"
+      ],
+      "uuids": [
+        "01a1fdb6-aad4-764e-950f-b8f07b07c40a"
+      ]
+    },
     "docsewallet.com": {
       "asn": "AS31898",
       "confidence": "high",
@@ -2185,11 +2305,13 @@
         "ktjeqcoy-dpcii7q9gjh9.edgeone.dev",
         "guilty-rose-rq6hohav-dptm1jzwhwrl.edgeone.dev",
         "delicious-lavender-d3g5m00l-dpbzbuxlvf1l.edgeone.dev",
-        "quiet-chocolate-2godhi0v-dp2y2ma91wka.edgeone.dev"
+        "quiet-chocolate-2godhi0v-dp2y2ma91wka.edgeone.dev",
+        "shrill-teal-0u0jxypj-dp3l99qtpbab.edgeone.dev",
+        "devoted-silver-xjqbm3il-dp6ug7zsit4i.edgeone.dev"
       ],
       "ip": "43.174.246.29",
       "key": "edgeone.dev",
-      "last_seen": "2026-11-21T02:30:44.727Z",
+      "last_seen": "2026-11-21T11:05:30.526Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2209,7 +2331,9 @@
         "01a1f41d-fc5d-7255-8fa3-741f169dc3e9",
         "01a1fbf0-fade-7417-be01-f7dafd29f50f",
         "01a1fbe5-2b5c-75f9-9a97-896eb02c97d6",
-        "01a1fb8e-313c-715c-8575-1af6e7dc8fd6"
+        "01a1fb8e-313c-715c-8575-1af6e7dc8fd6",
+        "01a1fdc8-156d-72de-a230-c2b21ca4b078",
+        "01a1fdc4-30ce-701e-a5c4-0d7ccf24f475"
       ]
     },
     "edynor.com": {
@@ -3538,6 +3662,30 @@
         "01a16440-081e-73ef-85b3-6b635561b470"
       ]
     },
+    "homecleaning.co.in": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-11-21T19:09:22Z",
+      "first_seen": "2026-11-21T10:44:08.093Z",
+      "hosts": [
+        "www.homecleaning.co.in"
+      ],
+      "ip": "66.116.255.130",
+      "key": "homecleaning.co.in",
+      "last_seen": "2026-11-21T10:44:08.093Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://www.homecleaning.co.in/vb/adb89.html"
+      ],
+      "uuids": [
+        "01a1fdb4-a0d4-755a-b172-846c794c3cdf"
+      ]
+    },
     "hotelvaldecans.com.br": {
       "asn": "AS31898",
       "confidence": "low",
@@ -4837,6 +4985,27 @@
         "01a1dffe-6c75-761c-9e9f-3c50c08a089c"
       ]
     },
+    "mypi.co": {
+      "confidence": "medium",
+      "first_run": "2026-11-21T19:09:22Z",
+      "first_seen": "2026-11-21T10:44:47.256Z",
+      "hosts": [
+        "flamesnowcrate.mypi.co"
+      ],
+      "key": "mypi.co",
+      "last_seen": "2026-11-21T10:44:47.256Z",
+      "queries": [
+        "Q3a_adobe_html"
+      ],
+      "scope": "host",
+      "status": "new",
+      "urls": [
+        "http://flamesnowcrate.mypi.co/secure/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a1fdb4-f427-7537-bb2c-d7453bd35277"
+      ]
+    },
     "naariebeautysalon.com": {
       "asn": "AS46606",
       "confidence": "medium",
@@ -5634,7 +5803,7 @@
       ],
       "ip": "213.136.93.167",
       "key": "prsnrw.de",
-      "last_seen": "2026-11-06T02:34:16.237Z",
+      "last_seen": "2026-11-21T17:39:38.043Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -5652,7 +5821,8 @@
         "01a1a06c-b49e-71cb-ac86-168d81dd7f33",
         "01a19fbb-1159-747e-8ab9-36350af731f7",
         "01a19eef-e21b-72ef-a963-7a61b08dfd6c",
-        "01a1aeb4-c79c-739e-aae2-222fbbfb58ed"
+        "01a1aeb4-c79c-739e-aae2-222fbbfb58ed",
+        "01a1ff31-13d0-734f-9e76-afffc0e10a0a"
       ]
     },
     "ptai.in": {
@@ -6815,11 +6985,12 @@
       "first_run": "2026-10-22T11:45:26Z",
       "first_seen": "2026-10-22T08:40:51.405Z",
       "hosts": [
-        "tikshopbd.com"
+        "tikshopbd.com",
+        "www.tikshopbd.com"
       ],
       "ip": "103.29.181.100",
       "key": "tikshopbd.com",
-      "last_seen": "2026-10-22T08:40:51.405Z",
+      "last_seen": "2026-11-21T16:08:57.808Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6828,10 +6999,13 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://tikshopbd.com/br/Adobe_Installer.html"
+        "https://tikshopbd.com/br/Adobe_Installer.html",
+        "http://www.tikshopbd.com/br/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a162c5-0dc1-707b-a1ab-875681d556ed"
+        "01a162c5-0dc1-707b-a1ab-875681d556ed",
+        "01a1fedd-bf6b-726d-a723-8b20b9b91ae1",
+        "01a1fedd-c27a-77e0-aabe-0282349f2569"
       ]
     },
     "tongue-twister.in": {
@@ -7112,7 +7286,7 @@
       ],
       "ip": "162.214.159.182",
       "key": "winnersvoyagetours.com",
-      "last_seen": "2026-11-21T06:30:07.577Z",
+      "last_seen": "2026-11-21T07:48:10.398Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -7127,7 +7301,8 @@
         "01a1fa6e-1815-761d-ad97-5334e892b8bc",
         "01a1f910-5435-704c-8ce4-4493bfb2ad65",
         "01a1fccc-1a55-7638-9ef5-5ea44ace0a91",
-        "01a1fbb6-6446-73ce-b936-0c4b2d623bca"
+        "01a1fbb6-6446-73ce-b936-0c4b2d623bca",
+        "01a1fd13-99bd-76d0-9e97-f6372d9dc8f7"
       ]
     },
     "wjsassoc.com": {
@@ -7454,8 +7629,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-21T06:58:48Z",
-    "last_success": "2026-11-21T06:58:48Z",
-    "window_hours": 12
+    "last_run": "2026-11-21T19:09:22Z",
+    "last_success": "2026-11-21T19:09:22Z",
+    "window_hours": 14
   }
 }
