@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-11-20T20:06:44Z by collect.py
+// CSuite candidate IOCs, generated 2026-11-21T06:58:48Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 274 | ips: 0 | urls: 349
+// domains: 274 | ips: 0 | urls: 353
 let csuite_domains = dynamic([
     "06webmeet.us",
     "1yz.com",
@@ -321,6 +321,7 @@ let csuite_urls = dynamic([
     "https://allmediatechgrpla.help/s/",
     "https://amanah-associates.com/adbmnc.html",
     "https://amepiequipamentos.com.br/ftx/jkt8h2-1795066565-e0526a18d5ba/",
+    "https://amepiequipamentos.com.br/ftx/klh73j-1795229953-04b0bc390e29/",
     "https://amepiequipamentos.com.br/ftx/u3l6yv-1792557253-10e98fae77d6/",
     "https://amigosport.in/adb/index.html",
     "https://amjscreenprinting.com/wp-admin/docs-bg2/PDFdirect.html",
@@ -335,6 +336,7 @@ let csuite_urls = dynamic([
     "https://audtfnaurth.com.es/8nde11/adobe-reader",
     "https://beservicesit.mx/ftx/3u4zm7-1792557301-9be52775744d/",
     "https://beservicesit.mx/ftx/lgbs9q-1795066743-0e78344cdec8/",
+    "https://beservicesit.mx/ftx/urt3b6-1795205916-dc050d262f83/",
     "https://bestcareindia.com/ftx/945zlf-1792557298-c276453cf034/",
     "https://bestcareindia.com/ftx/lv8kwo-1795066723-b725ce862410/",
     "https://bgsi.ca/t/ab.html",
@@ -370,6 +372,7 @@ let csuite_urls = dynamic([
     "https://csrdrywallss.vercel.app/",
     "https://cursos-zensara.com/Adobe_Installer.html",
     "https://darshanyog.org/RMS_Title_%26_Appraisal/",
+    "https://delicious-lavender-d3g5m00l-dpbzbuxlvf1l.edgeone.dev/",
     "https://descubrecoinco.cl/br/Adobe_Installer.html",
     "https://dev.trshealth.org/internal/",
     "https://df888blog.com/com/",
@@ -422,6 +425,7 @@ let csuite_urls = dynamic([
     "https://groundview.pt/ftx/ut5xlc-1791660595-c6c66b5f4bf6/",
     "https://grupolsn.com/secure/Adobe_Installer.html",
     "https://gudwa.com/DocuSign/e-sign.php",
+    "https://guilty-rose-rq6hohav-dptm1jzwhwrl.edgeone.dev/",
     "https://haidantr.com/Adobe_Installer.html",
     "https://hameem.net/adobe.bb.com/",
     "https://hameem.net/adobe.co/index.html",

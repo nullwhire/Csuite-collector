@@ -550,7 +550,7 @@
       ],
       "ip": "162.241.3.25",
       "key": "amepiequipamentos.com.br",
-      "last_seen": "2026-11-19T05:36:14.316Z",
+      "last_seen": "2026-11-21T02:59:21.783Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -559,11 +559,13 @@
       "title": "e-sign",
       "urls": [
         "https://amepiequipamentos.com.br/ftx/u3l6yv-1792557253-10e98fae77d6/",
-        "https://amepiequipamentos.com.br/ftx/jkt8h2-1795066565-e0526a18d5ba/"
+        "https://amepiequipamentos.com.br/ftx/jkt8h2-1795066565-e0526a18d5ba/",
+        "https://amepiequipamentos.com.br/ftx/klh73j-1795229953-04b0bc390e29/"
       ],
       "uuids": [
         "01a15cbc-fa5b-73fe-8401-b8eded5674f8",
-        "01a1f24e-1039-763b-afb2-554d68f6831c"
+        "01a1f24e-1039-763b-afb2-554d68f6831c",
+        "01a1fc0b-28a6-72e0-b04a-2169ff5cee12"
       ]
     },
     "amigosport.in": {
@@ -850,7 +852,7 @@
       ],
       "ip": "205.209.103.115",
       "key": "beservicesit.mx",
-      "last_seen": "2026-11-19T05:39:09.894Z",
+      "last_seen": "2026-11-20T20:18:44.228Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -859,11 +861,13 @@
       "title": "Document Verification – DocuSign (Lab Demo)",
       "urls": [
         "https://beservicesit.mx/ftx/3u4zm7-1792557301-9be52775744d/",
-        "https://beservicesit.mx/ftx/lgbs9q-1795066743-0e78344cdec8/"
+        "https://beservicesit.mx/ftx/lgbs9q-1795066743-0e78344cdec8/",
+        "https://beservicesit.mx/ftx/urt3b6-1795205916-dc050d262f83/"
       ],
       "uuids": [
         "01a15cbd-bb5d-712b-8485-1e0c34cf1f01",
-        "01a1f250-c875-7508-b4dc-915159ccc282"
+        "01a1f250-c875-7508-b4dc-915159ccc282",
+        "01a1fa9c-65e6-74eb-b7aa-4fe57df9a833"
       ]
     },
     "bestcareindia.com": {
@@ -1287,7 +1291,7 @@
       ],
       "ip": "216.198.79.195",
       "key": "browarddcounttycourtpdf-viewer.vercel.app",
-      "last_seen": "2026-11-19T01:04:31.954Z",
+      "last_seen": "2026-11-20T20:23:21.573Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -1299,7 +1303,8 @@
       ],
       "uuids": [
         "01a1ee08-6ba4-7404-9494-57b3b16fbfe2",
-        "01a1f155-5b8c-7169-ad5f-7134aad0428c"
+        "01a1f155-5b8c-7169-ad5f-7134aad0428c",
+        "01a1faa0-89bf-733b-b28a-9748647fef90"
       ]
     },
     "browardpdf-viewer.vercel.app": {
@@ -2177,11 +2182,14 @@
       "hosts": [
         "kind-sapphire-ht2ldx3d-dpyhvn5f02w3.edgeone.dev",
         "operational-sapphire-shvjdgvh-dp8kqkk8fook.edgeone.dev",
-        "ktjeqcoy-dpcii7q9gjh9.edgeone.dev"
+        "ktjeqcoy-dpcii7q9gjh9.edgeone.dev",
+        "guilty-rose-rq6hohav-dptm1jzwhwrl.edgeone.dev",
+        "delicious-lavender-d3g5m00l-dpbzbuxlvf1l.edgeone.dev",
+        "quiet-chocolate-2godhi0v-dp2y2ma91wka.edgeone.dev"
       ],
       "ip": "43.174.246.29",
       "key": "edgeone.dev",
-      "last_seen": "2026-11-19T14:02:54.795Z",
+      "last_seen": "2026-11-21T02:30:44.727Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2191,12 +2199,17 @@
       "urls": [
         "https://kind-sapphire-ht2ldx3d-dpyhvn5f02w3.edgeone.dev/",
         "https://operational-sapphire-shvjdgvh-dp8kqkk8fook.edgeone.dev/",
-        "https://ktjeqcoy-dpcii7q9gjh9.edgeone.dev/"
+        "https://ktjeqcoy-dpcii7q9gjh9.edgeone.dev/",
+        "https://guilty-rose-rq6hohav-dptm1jzwhwrl.edgeone.dev/",
+        "https://delicious-lavender-d3g5m00l-dpbzbuxlvf1l.edgeone.dev/"
       ],
       "uuids": [
         "01a17cb0-c0f8-707a-86a4-43f57d623e4e",
         "01a1f25c-572e-73be-b2ac-a7664a62dcfe",
-        "01a1f41d-fc5d-7255-8fa3-741f169dc3e9"
+        "01a1f41d-fc5d-7255-8fa3-741f169dc3e9",
+        "01a1fbf0-fade-7417-be01-f7dafd29f50f",
+        "01a1fbe5-2b5c-75f9-9a97-896eb02c97d6",
+        "01a1fb8e-313c-715c-8575-1af6e7dc8fd6"
       ]
     },
     "edynor.com": {
@@ -7099,7 +7112,7 @@
       ],
       "ip": "162.214.159.182",
       "key": "winnersvoyagetours.com",
-      "last_seen": "2026-11-20T19:28:09.490Z",
+      "last_seen": "2026-11-21T06:30:07.577Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -7112,7 +7125,9 @@
       ],
       "uuids": [
         "01a1fa6e-1815-761d-ad97-5334e892b8bc",
-        "01a1f910-5435-704c-8ce4-4493bfb2ad65"
+        "01a1f910-5435-704c-8ce4-4493bfb2ad65",
+        "01a1fccc-1a55-7638-9ef5-5ea44ace0a91",
+        "01a1fbb6-6446-73ce-b936-0c4b2d623bca"
       ]
     },
     "wjsassoc.com": {
@@ -7439,8 +7454,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-20T20:06:44Z",
-    "last_success": "2026-11-20T20:06:44Z",
-    "window_hours": 15
+    "last_run": "2026-11-21T06:58:48Z",
+    "last_success": "2026-11-21T06:58:48Z",
+    "window_hours": 12
   }
 }
