@@ -1,7 +1,7 @@
-// CSuite candidate IOCs, generated 2026-11-22T06:39:22Z by collect.py
+// CSuite candidate IOCs, generated 2026-11-22T19:31:26Z by collect.py
 // Heuristic candidates, NOT verified as malicious.
 // Minimum confidence: low. Excludes status=false_positive.
-// domains: 281 | ips: 0 | urls: 362
+// domains: 281 | ips: 0 | urls: 363
 let csuite_domains = dynamic([
     "06webmeet.us",
     "1yz.com",
@@ -394,6 +394,7 @@ let csuite_urls = dynamic([
     "https://divinemercy.org.in/ftx/rna50h-1794429511-61e0d7395b07/",
     "https://dndair.com/iv/doc.html",
     "https://doc.twentytwentydigital.com/RFQ/index.php",
+    "https://docprivates.shop/",
     "https://docsewallet.com/Adobe_Installer.html",
     "https://doctorconsultancy.com/SIE/SIE.html",
     "https://docu-signs.cc/eDocusign.php",
