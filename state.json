@@ -853,7 +853,7 @@
       ],
       "ip": "205.209.103.115",
       "key": "beservicesit.mx",
-      "last_seen": "2026-11-20T20:18:44.228Z",
+      "last_seen": "2026-11-22T05:48:05.132Z",
       "queries": [
         "Q1c_icon"
       ],
@@ -863,12 +863,14 @@
       "urls": [
         "https://beservicesit.mx/ftx/3u4zm7-1792557301-9be52775744d/",
         "https://beservicesit.mx/ftx/lgbs9q-1795066743-0e78344cdec8/",
-        "https://beservicesit.mx/ftx/urt3b6-1795205916-dc050d262f83/"
+        "https://beservicesit.mx/ftx/urt3b6-1795205916-dc050d262f83/",
+        "https://beservicesit.mx/ftx/1csjwz-1795326478-6c1875181d8b/"
       ],
       "uuids": [
         "01a15cbd-bb5d-712b-8485-1e0c34cf1f01",
         "01a1f250-c875-7508-b4dc-915159ccc282",
-        "01a1fa9c-65e6-74eb-b7aa-4fe57df9a833"
+        "01a1fa9c-65e6-74eb-b7aa-4fe57df9a833",
+        "01a201cc-07bd-77ee-831b-a848f9aa50a9"
       ]
     },
     "bestcareindia.com": {
@@ -2697,7 +2699,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "flhealthlicense-tawny.vercel.app",
-      "last_seen": "2026-11-16T11:48:55.503Z",
+      "last_seen": "2026-11-22T04:30:44.555Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -2885,7 +2887,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "floridahealth-plum.vercel.app",
-      "last_seen": "2026-11-18T05:59:46.859Z",
+      "last_seen": "2026-11-22T04:47:39.384Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3523,7 +3525,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicensefl-beta.vercel.app",
-      "last_seen": "2026-11-16T11:43:57.971Z",
+      "last_seen": "2026-11-22T04:47:38.315Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -7286,7 +7288,7 @@
       ],
       "ip": "162.214.159.182",
       "key": "winnersvoyagetours.com",
-      "last_seen": "2026-11-21T07:48:10.398Z",
+      "last_seen": "2026-11-22T06:33:25.173Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -7302,7 +7304,9 @@
         "01a1f910-5435-704c-8ce4-4493bfb2ad65",
         "01a1fccc-1a55-7638-9ef5-5ea44ace0a91",
         "01a1fbb6-6446-73ce-b936-0c4b2d623bca",
-        "01a1fd13-99bd-76d0-9e97-f6372d9dc8f7"
+        "01a1fd13-99bd-76d0-9e97-f6372d9dc8f7",
+        "01a201f5-5ef2-7423-8ea0-95aa1e07d66d",
+        "01a2002f-e4a8-7373-82d0-d2e9774eb516"
       ]
     },
     "wjsassoc.com": {
@@ -7629,8 +7633,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-21T19:09:22Z",
-    "last_success": "2026-11-21T19:09:22Z",
-    "window_hours": 14
+    "last_run": "2026-11-22T06:39:22Z",
+    "last_success": "2026-11-22T06:39:22Z",
+    "window_hours": 13
   }
 }
