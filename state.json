@@ -543,6 +543,34 @@
         "01a1a032-fe84-7566-bff2-7158c1ca4d6c"
       ]
     },
+    "alma-stores.com": {
+      "asn": "AS14061",
+      "confidence": "medium",
+      "first_run": "2026-11-24T09:48:13Z",
+      "first_seen": "2026-11-24T00:16:35.896Z",
+      "hosts": [
+        "www.alma-stores.com",
+        "alma-stores.com"
+      ],
+      "ip": "134.209.89.137",
+      "key": "alma-stores.com",
+      "last_seen": "2026-11-24T04:47:01.213Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://www.alma-stores.com/installer/lynxspadobe.html",
+        "https://alma-stores.com/installer/lynxspadobe.html"
+      ],
+      "uuids": [
+        "01a20be0-cfb3-76df-8b0b-d712a37da48a",
+        "01a20b14-60f6-70f3-addf-b6360987c9a3",
+        "01a20ae9-3f1c-72a0-b86d-76899a5eb081"
+      ]
+    },
     "amanah-associates.com": {
       "asn": "AS24940",
       "confidence": "medium",
@@ -2753,7 +2781,7 @@
       ],
       "ip": "216.198.79.67",
       "key": "flhealthlicense-tawny.vercel.app",
-      "last_seen": "2026-11-23T16:42:55.746Z",
+      "last_seen": "2026-11-24T05:13:09.103Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3480,7 +3508,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicense-tau.vercel.app",
-      "last_seen": "2026-11-16T12:27:44.400Z",
+      "last_seen": "2026-11-24T06:31:36.933Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -4037,7 +4065,7 @@
       ],
       "ip": "186.250.244.98",
       "key": "jornaldapraia.net",
-      "last_seen": "2026-11-20T04:06:16.272Z",
+      "last_seen": "2026-11-24T07:32:01.472Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -4047,7 +4075,8 @@
       "title": "PDF Viewer",
       "urls": [
         "https://jornaldapraia.net/Adobe_Installer.html",
-        "https://www.jornaldapraia.net/Adobe_Installer.html"
+        "https://www.jornaldapraia.net/Adobe_Installer.html",
+        "http://www.jornaldapraia.net/Adobe_Installer.html"
       ],
       "uuids": [
         "01a1c6fe-8531-744c-81ce-c1fd32ec826e",
@@ -4058,7 +4087,8 @@
         "01a1cd20-511e-730c-ba95-d889fef83f90",
         "01a1cd55-6b76-7258-8ae8-3fe1c7543da1",
         "01a1d225-d815-73aa-9d75-78d356f47202",
-        "01a1f722-0bfd-76eb-a8a5-7607239f85fe"
+        "01a1f722-0bfd-76eb-a8a5-7607239f85fe",
+        "01a20c77-deb0-70cb-9c1f-b88cecb598a0"
       ]
     },
     "junailperfumes.com": {
@@ -7742,8 +7772,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-23T23:49:02Z",
-    "last_success": "2026-11-23T23:49:02Z",
-    "window_hours": 18
+    "last_run": "2026-11-24T09:48:13Z",
+    "last_success": "2026-11-24T09:48:13Z",
+    "window_hours": 11
   }
 }
