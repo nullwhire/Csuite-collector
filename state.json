@@ -1793,7 +1793,7 @@
       ],
       "ip": "64.29.17.131",
       "key": "csrdrywallss.vercel.app",
-      "last_seen": "2026-11-21T19:03:14.507Z",
+      "last_seen": "2026-11-25T09:51:42.743Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -3636,7 +3636,7 @@
       ],
       "ip": "216.198.79.3",
       "key": "healthlicensefl-beta.vercel.app",
-      "last_seen": "2026-11-23T16:41:12.840Z",
+      "last_seen": "2026-11-25T10:38:47.556Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -5201,6 +5201,30 @@
         "01a1b60c-8f66-74ed-a9a2-d5f488d7bba6"
       ]
     },
+    "naturallyspeakingbook.com": {
+      "asn": "AS31898",
+      "confidence": "medium",
+      "first_run": "2026-11-25T21:37:17Z",
+      "first_seen": "2026-11-25T14:59:16.796Z",
+      "hosts": [
+        "naturallyspeakingbook.com"
+      ],
+      "ip": "192.185.110.171",
+      "key": "naturallyspeakingbook.com",
+      "last_seen": "2026-11-25T14:59:16.796Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://naturallyspeakingbook.com/en/"
+      ],
+      "uuids": [
+        "01a21337-bbcb-7337-914e-6b337bd81c25"
+      ]
+    },
     "new-indexproject.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -6122,6 +6146,31 @@
         "01a1ae85-4673-749c-abb1-c3e2f1591e27"
       ]
     },
+    "rapidoservice.com.br": {
+      "asn": "AS13335",
+      "confidence": "high",
+      "first_run": "2026-11-25T21:37:17Z",
+      "first_seen": "2026-11-25T19:16:11.130Z",
+      "hosts": [
+        "rapidoservice.com.br"
+      ],
+      "ip": "104.21.16.197",
+      "key": "rapidoservice.com.br",
+      "last_seen": "2026-11-25T19:16:11.130Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://rapidoservice.com.br/addoob/Adobe_doc_insstaller.html"
+      ],
+      "uuids": [
+        "01a21422-b632-70e7-8e39-8ddad448901a"
+      ]
+    },
     "raypanelbeating.co.za": {
       "asn": "AS328037",
       "confidence": "low",
@@ -6553,6 +6602,31 @@
         "01a15de5-e34f-74e2-93cf-a0253c04cc57",
         "01a15cd7-4aaf-70ee-a95b-a9db48a86444",
         "01a16bcc-664f-75ab-afd7-40ba2f7c0239"
+      ]
+    },
+    "smmpanel.today": {
+      "asn": "AS209341",
+      "confidence": "high",
+      "first_run": "2026-11-25T21:37:17Z",
+      "first_seen": "2026-11-25T18:00:09.600Z",
+      "hosts": [
+        "smmpanel.today"
+      ],
+      "ip": "209.124.66.18",
+      "key": "smmpanel.today",
+      "last_seen": "2026-11-25T18:00:09.600Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://smmpanel.today/New/Adobe_Installer.html"
+      ],
+      "uuids": [
+        "01a213dd-56e6-71f4-8f5f-bdd03cf19ebd"
       ]
     },
     "snowy-night-4c03.idomnich.workers.dev": {
@@ -7826,8 +7900,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-25T08:23:33Z",
-    "last_success": "2026-11-25T08:23:33Z",
-    "window_hours": 12
+    "last_run": "2026-11-25T21:37:17Z",
+    "last_success": "2026-11-25T21:37:17Z",
+    "window_hours": 15
   }
 }
