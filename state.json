@@ -3048,7 +3048,7 @@
       ],
       "ip": "216.198.79.131",
       "key": "floridahealth-plum.vercel.app",
-      "last_seen": "2026-11-24T17:33:10.348Z",
+      "last_seen": "2026-11-26T21:06:27.185Z",
       "queries": [
         "Q3b_utils_pdfviewer"
       ],
@@ -6096,6 +6096,30 @@
         "01a18f7a-6b50-76ef-b285-1f4a318b9868"
       ]
     },
+    "pub-30b2a177abc7418797d0c00480fbdbb6.r2.dev": {
+      "asn": "AS13335",
+      "confidence": "medium",
+      "first_run": "2026-11-26T21:26:32Z",
+      "first_seen": "2026-11-26T09:04:31.404Z",
+      "hosts": [
+        "pub-30b2a177abc7418797d0c00480fbdbb6.r2.dev"
+      ],
+      "ip": "104.18.50.34",
+      "key": "pub-30b2a177abc7418797d0c00480fbdbb6.r2.dev",
+      "last_seen": "2026-11-26T09:04:31.404Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://pub-30b2a177abc7418797d0c00480fbdbb6.r2.dev/maintainceupdatenotification/Installers_rs64-rn.html"
+      ],
+      "uuids": [
+        "01a21719-243e-7199-9234-0b0a09f64049"
+      ]
+    },
     "pub-36f7416220c840af89da02b9b6bf207d.r2.dev": {
       "asn": "AS13335",
       "confidence": "medium",
@@ -6712,7 +6736,7 @@
       ],
       "ip": "209.124.66.18",
       "key": "smmpanel.today",
-      "last_seen": "2026-11-26T04:47:08.909Z",
+      "last_seen": "2026-11-26T10:13:52.180Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6730,7 +6754,8 @@
         "01a2160a-0191-7588-83f0-4b9ca94cb392",
         "01a215ca-34e6-70f0-9c24-5242607a20a2",
         "01a215b2-ac60-771d-9548-7781ac0bef88",
-        "01a21562-5370-71ba-9472-274d536faf77"
+        "01a21562-5370-71ba-9472-274d536faf77",
+        "01a21758-bf3c-756e-9046-38554ba196ce"
       ]
     },
     "snowy-night-4c03.idomnich.workers.dev": {
@@ -8005,8 +8030,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-26T08:08:23Z",
-    "last_success": "2026-11-26T08:08:23Z",
-    "window_hours": 12
+    "last_run": "2026-11-26T21:26:32Z",
+    "last_success": "2026-11-26T21:26:32Z",
+    "window_hours": 15
   }
 }
