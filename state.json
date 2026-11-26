@@ -83,6 +83,32 @@
         "01a1c81f-03a0-75b2-b032-3ae215494807"
       ]
     },
+    "5myerhizmetleri.com": {
+      "asn": "AS207326",
+      "confidence": "high",
+      "first_run": "2026-11-26T08:08:23Z",
+      "first_seen": "2026-11-26T01:02:09.686Z",
+      "hosts": [
+        "5myerhizmetleri.com"
+      ],
+      "ip": "45.158.14.34",
+      "key": "5myerhizmetleri.com",
+      "last_seen": "2026-11-26T04:31:08.708Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://5myerhizmetleri.com/file/adobefile.html"
+      ],
+      "uuids": [
+        "01a2161e-b2fe-7721-9874-ef004007feb7",
+        "01a2155f-aa77-7046-8df2-1353fa312f37"
+      ]
+    },
     "abenetgeneralservices.ca": {
       "asn": "AS398101",
       "confidence": "high",
@@ -746,7 +772,7 @@
       ],
       "ip": "162.215.240.27",
       "key": "apvdelhi.com",
-      "last_seen": "2026-11-19T01:51:21.891Z",
+      "last_seen": "2026-11-26T02:43:01.200Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -1223,6 +1249,30 @@
       ],
       "uuids": [
         "01a1c947-b915-71a1-87d0-5a64876d988f"
+      ]
+    },
+    "brisasdelago.com": {
+      "asn": "AS29802",
+      "confidence": "medium",
+      "first_run": "2026-11-26T08:08:23Z",
+      "first_seen": "2026-11-25T23:52:00.820Z",
+      "hosts": [
+        "brisasdelago.com"
+      ],
+      "ip": "107.155.68.149",
+      "key": "brisasdelago.com",
+      "last_seen": "2026-11-25T23:52:00.820Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://brisasdelago.com/access/access/viewnowpls.html"
+      ],
+      "uuids": [
+        "01a2151f-650d-721a-ac79-c8838a14695d"
       ]
     },
     "browacountycourtpdf-viewer.vercel.app": {
@@ -3471,6 +3521,30 @@
         "01a133fa-956c-76aa-a010-5558efc90d33"
       ]
     },
+    "heallthlicensepdf-viewer.vercel.app": {
+      "asn": "AS16509",
+      "confidence": "medium",
+      "first_run": "2026-11-26T08:08:23Z",
+      "first_seen": "2026-11-26T01:02:15.212Z",
+      "hosts": [
+        "heallthlicensepdf-viewer.vercel.app"
+      ],
+      "ip": "64.29.17.67",
+      "key": "heallthlicensepdf-viewer.vercel.app",
+      "last_seen": "2026-11-26T01:02:15.212Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://heallthlicensepdf-viewer.vercel.app/"
+      ],
+      "uuids": [
+        "01a2155f-a36f-73b5-bec9-6a8998180147"
+      ]
+    },
     "healthflpdf-viewer-nine.vercel.app": {
       "asn": "AS16509",
       "confidence": "medium",
@@ -3935,6 +4009,30 @@
         "01a16d92-de44-71c9-9320-b9999ff8fc76",
         "01a16ec2-c086-749c-b3c3-443424239089",
         "01a17156-a99a-7559-9724-38137e9fae28"
+      ]
+    },
+    "indianaseosolutions.com": {
+      "asn": "AS14061",
+      "confidence": "low",
+      "first_run": "2026-11-26T08:08:23Z",
+      "first_seen": "2026-11-26T01:37:04.778Z",
+      "hosts": [
+        "indianaseosolutions.com"
+      ],
+      "ip": "167.172.159.181",
+      "key": "indianaseosolutions.com",
+      "last_seen": "2026-11-26T01:37:04.778Z",
+      "queries": [
+        "Q1c_icon"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "e-sign",
+      "urls": [
+        "https://indianaseosolutions.com/ftx/tq9c6g-1795657016-33af337ff3b3/"
+      ],
+      "uuids": [
+        "01a2157f-9483-767d-89d4-eaae19af275c"
       ]
     },
     "innovative-sub.github.io": {
@@ -4809,7 +4907,7 @@
       ],
       "ip": "205.251.137.171",
       "key": "meraksoul.com",
-      "last_seen": "2026-11-19T01:34:35.799Z",
+      "last_seen": "2026-11-26T02:32:59.114Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6614,7 +6712,7 @@
       ],
       "ip": "209.124.66.18",
       "key": "smmpanel.today",
-      "last_seen": "2026-11-25T18:00:09.600Z",
+      "last_seen": "2026-11-26T04:47:08.909Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6623,10 +6721,16 @@
       "status": "new",
       "title": "PDF Viewer",
       "urls": [
-        "https://smmpanel.today/New/Adobe_Installer.html"
+        "https://smmpanel.today/New/Adobe_Installer.html",
+        "http://smmpanel.today/New/Adobe_Installer.html"
       ],
       "uuids": [
-        "01a213dd-56e6-71f4-8f5f-bdd03cf19ebd"
+        "01a213dd-56e6-71f4-8f5f-bdd03cf19ebd",
+        "01a2162d-a8e9-7207-8fe0-51c82c4212c2",
+        "01a2160a-0191-7588-83f0-4b9ca94cb392",
+        "01a215ca-34e6-70f0-9c24-5242607a20a2",
+        "01a215b2-ac60-771d-9548-7781ac0bef88",
+        "01a21562-5370-71ba-9472-274d536faf77"
       ]
     },
     "snowy-night-4c03.idomnich.workers.dev": {
@@ -7555,7 +7659,7 @@
       ],
       "ip": "162.214.159.182",
       "key": "winnersvoyagetours.com",
-      "last_seen": "2026-11-22T06:33:25.173Z",
+      "last_seen": "2026-11-26T00:28:13.235Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -7573,7 +7677,8 @@
         "01a1fbb6-6446-73ce-b936-0c4b2d623bca",
         "01a1fd13-99bd-76d0-9e97-f6372d9dc8f7",
         "01a201f5-5ef2-7423-8ea0-95aa1e07d66d",
-        "01a2002f-e4a8-7373-82d0-d2e9774eb516"
+        "01a2002f-e4a8-7373-82d0-d2e9774eb516",
+        "01a21540-30f5-77ef-9f87-56c4224e37b5"
       ]
     },
     "wjsassoc.com": {
@@ -7900,8 +8005,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-25T21:37:17Z",
-    "last_success": "2026-11-25T21:37:17Z",
-    "window_hours": 15
+    "last_run": "2026-11-26T08:08:23Z",
+    "last_success": "2026-11-26T08:08:23Z",
+    "window_hours": 12
   }
 }
