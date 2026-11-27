@@ -5979,6 +5979,30 @@
         "01a194bc-0a2c-743b-811d-8d5f2addfe27"
       ]
     },
+    "polewaoleuieopee.s3.us-east-1.amazonaws.com": {
+      "asn": "AS14618",
+      "confidence": "medium",
+      "first_run": "2026-11-27T21:10:52Z",
+      "first_seen": "2026-11-27T12:03:20.586Z",
+      "hosts": [
+        "polewaoleuieopee.s3.us-east-1.amazonaws.com"
+      ],
+      "ip": "16.15.246.76",
+      "key": "polewaoleuieopee.s3.us-east-1.amazonaws.com",
+      "last_seen": "2026-11-27T12:03:20.586Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://polewaoleuieopee.s3.us-east-1.amazonaws.com/acrobsasetsupskk.html"
+      ],
+      "uuids": [
+        "01a21ce3-5b98-717b-94f8-531cd46f4540"
+      ]
+    },
     "pomarosahotel.com": {
       "asn": "AS23352",
       "confidence": "high",
@@ -6293,6 +6317,31 @@
       "uuids": [
         "01a21422-b632-70e7-8e39-8ddad448901a",
         "01a21a05-0cbe-75da-af92-74d62620b975"
+      ]
+    },
+    "rapidsfossil.online": {
+      "asn": "AS31898",
+      "confidence": "high",
+      "first_run": "2026-11-27T21:10:52Z",
+      "first_seen": "2026-11-27T16:25:06.008Z",
+      "hosts": [
+        "rapidsfossil.online"
+      ],
+      "ip": "66.116.239.171",
+      "key": "rapidsfossil.online",
+      "last_seen": "2026-11-27T16:25:06.008Z",
+      "queries": [
+        "Q3a_adobe_html",
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://rapidsfossil.online/play.html"
+      ],
+      "uuids": [
+        "01a21dd3-00c1-700d-9c29-fd8f34bd778a"
       ]
     },
     "raypanelbeating.co.za": {
@@ -6738,7 +6787,7 @@
       ],
       "ip": "209.124.66.18",
       "key": "smmpanel.today",
-      "last_seen": "2026-11-26T10:13:52.180Z",
+      "last_seen": "2026-11-27T10:25:59.550Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6757,7 +6806,8 @@
         "01a215ca-34e6-70f0-9c24-5242607a20a2",
         "01a215b2-ac60-771d-9548-7781ac0bef88",
         "01a21562-5370-71ba-9472-274d536faf77",
-        "01a21758-bf3c-756e-9046-38554ba196ce"
+        "01a21758-bf3c-756e-9046-38554ba196ce",
+        "01a21c8a-41af-76df-8830-a221dbd94657"
       ]
     },
     "snowy-night-4c03.idomnich.workers.dev": {
@@ -7312,7 +7362,7 @@
       ],
       "ip": "184.154.179.130",
       "key": "tiendatigard.com.mx",
-      "last_seen": "2026-11-23T20:58:45.170Z",
+      "last_seen": "2026-11-27T16:17:43.422Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -7327,7 +7377,9 @@
         "01a180d5-9a61-753c-b29e-0770f759d9e2",
         "01a18007-6490-776c-b217-6e0a2ec0eac7",
         "01a1892a-1671-7387-adc0-f21a7d88e368",
-        "01a20a34-1954-76c5-889a-26cba27d7661"
+        "01a20a34-1954-76c5-889a-26cba27d7661",
+        "01a21dcc-04c7-7098-9ae3-2844dc9dc7b4",
+        "01a21dbd-7a2c-7045-bf08-baaa04b52a9e"
       ]
     },
     "tikshopbd.com": {
@@ -7625,6 +7677,34 @@
       ],
       "uuids": [
         "01a1843a-7df7-719b-bc33-4d4489847880"
+      ]
+    },
+    "vnzservers.com": {
+      "asn": "AS16276",
+      "confidence": "medium",
+      "first_run": "2026-11-27T21:10:52Z",
+      "first_seen": "2026-11-27T14:53:32.473Z",
+      "hosts": [
+        "vnzservers.com"
+      ],
+      "ip": "144.217.67.186",
+      "key": "vnzservers.com",
+      "last_seen": "2026-11-27T15:27:51.190Z",
+      "queries": [
+        "Q3b_utils_pdfviewer"
+      ],
+      "scope": "host",
+      "status": "new",
+      "title": "PDF Viewer",
+      "urls": [
+        "https://vnzservers.com/adb/index.html"
+      ],
+      "uuids": [
+        "01a21d9e-9811-7725-a879-39ff52dacaf7",
+        "01a21d9a-1d83-7416-86b1-4eaa5dbaa979",
+        "01a21d8d-134a-751d-809a-ccf79b3bc2a9",
+        "01a21d85-aaf5-7495-9e29-696d5f633ee7",
+        "01a21d7f-250c-76db-98d0-a344556ae23e"
       ]
     },
     "weathered-boat-5061.madison-6e0.workers.dev": {
@@ -8032,8 +8112,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-27T08:18:46Z",
-    "last_success": "2026-11-27T08:18:46Z",
-    "window_hours": 12
+    "last_run": "2026-11-27T21:10:52Z",
+    "last_success": "2026-11-27T21:10:52Z",
+    "window_hours": 14
   }
 }
