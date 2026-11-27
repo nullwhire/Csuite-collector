@@ -4510,7 +4510,7 @@
       ],
       "ip": "174.127.120.145",
       "key": "lamanuelamezcal.com",
-      "last_seen": "2026-11-12T05:02:00.939Z",
+      "last_seen": "2026-11-26T22:58:02.797Z",
       "queries": [
         "Q3a_adobe_html"
       ],
@@ -4522,7 +4522,8 @@
       ],
       "uuids": [
         "01a1ce22-4183-721c-a525-202fadef7781",
-        "01a1cd4a-39bb-76f3-a21d-6df020d75616"
+        "01a1cd4a-39bb-76f3-a21d-6df020d75616",
+        "01a21a14-7051-7656-b042-739439694111"
       ]
     },
     "legaljogja.com": {
@@ -6278,7 +6279,7 @@
       ],
       "ip": "104.21.16.197",
       "key": "rapidoservice.com.br",
-      "last_seen": "2026-11-25T19:16:11.130Z",
+      "last_seen": "2026-11-26T22:41:30.415Z",
       "queries": [
         "Q3a_adobe_html",
         "Q3b_utils_pdfviewer"
@@ -6290,7 +6291,8 @@
         "https://rapidoservice.com.br/addoob/Adobe_doc_insstaller.html"
       ],
       "uuids": [
-        "01a21422-b632-70e7-8e39-8ddad448901a"
+        "01a21422-b632-70e7-8e39-8ddad448901a",
+        "01a21a05-0cbe-75da-af92-74d62620b975"
       ]
     },
     "raypanelbeating.co.za": {
@@ -8030,8 +8032,8 @@
     }
   },
   "meta": {
-    "last_run": "2026-11-26T21:26:32Z",
-    "last_success": "2026-11-26T21:26:32Z",
-    "window_hours": 15
+    "last_run": "2026-11-27T08:18:46Z",
+    "last_success": "2026-11-27T08:18:46Z",
+    "window_hours": 12
   }
 }
